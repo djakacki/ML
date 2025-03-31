@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/CSS/moravian_style.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/CSS/moravian_style.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -681,7 +683,7 @@
 			<div type="memoir">
 				<head>Alice Catton</head>
 				<div type="page" n="1">
-					<pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_3_116_Catton_Alice-01.jpg"/>
+					<pb n="1" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_116_Catton_Alice-01.jpg"/>
 					<p>
 							<hi rend="underline">died Feb. / 48</hi> <lb/>
 							Our late Sr Alice Catton was <lb/>
@@ -718,7 +720,7 @@
 							the whole of her remaining time, but lived <lb/>
 							some years with her late father, nursing him <lb/>
 							faithfully until his end, in her native place <lb/>
-							she was also a short time at <placeName key="Gomersal" ref="http://www.wikidata.org/entity/Q3773203" cert="Unknown">Gumersal</placeName> - lived with <lb/>
+							she was also a short time at <placeName key="Gomersal" ref="http://www.wikidata.org/entity/Q3773203">Gumersal</placeName> - lived with <lb/>
 							a friend in a private house in <placeName key="Fulneck Moravian Settlement" ref="http://www.wikidata.org/entity/Q5508369">Fulneck</placeName> <lb/>
 							&amp; likewise occupied another house by herself <lb/>
 							she was for sometime cook in the Sisters <lb/>
@@ -735,7 +737,7 @@
 					</p>
 				</div>
 				<div type="page" n="2">
-					<pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_3_116_Catton_Alice-02.jpg"/>
+					<pb n="2" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_116_Catton_Alice-02.jpg"/>
 					<p>
 							&amp; tender, as well as her walk conformable to <lb/>
 							the gospel, showed that she was in Christ &amp; that <lb/>
@@ -789,7 +791,7 @@
 					</p>
 				</div>
 				<div type="page" n="3">
-					<pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_3_116_Catton_Alice-03.jpg"/>
+					<pb n="3" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_116_Catton_Alice-03.jpg"/>
 					<p>
 							ed up at her side. When it became <lb/>
 							evident, that her days were numbered, &amp; <lb/>
@@ -838,7 +840,7 @@
 					</p>
 				</div>
 				<div type="page" n="4">
-					<pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_3_116_Catton_Alice-04.jpg"/>
+					<pb n="4" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_116_Catton_Alice-04.jpg"/>
 					<p>
 							sciousness seemed to be gone &amp; she <lb/>
 							lay perfectly quiet till ab<hi rend="superscript">t.</hi> 6
