@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/CSS/moravian_style.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<teiHeader><fileDesc>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/CSS/moravian_style.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
 			<titleStmt>
 				<title>Sarah Cennick: Memoir</title>
 				<funder>The Moravian Lives Project</funder>
@@ -12950,7 +12953,7 @@
 			<div type="memoir">
 				<head>Sarah Cennick</head>
 				<div type="page" n="1">
-					<pb n="1" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-01.jpg"/>
+					<pb n="1" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-01.jpg"/>
 					<p>
 						<hi rend="underline">The Life of the S. <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000227" key="Sr Sarah Cennick" cert="high" type="real"><roleName type="honorific">Sr</roleName> Sarah
 							Cennick</persName> who went <name emotion="happily">happily</name> home <date when="1770-01-24" cert="high">Jan<hi rend="superscript">y</hi> 24<hi rend="superscript">th</hi>
@@ -12995,7 +12998,7 @@
 						instead of Sinking I found, as it were, Hands </p>
 				</div>
 				<div type="page" n="2">
-					<pb n="2" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-02.jpg"/>
+					<pb n="2" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-02.jpg"/>
 					<p> <name type="event" ana="spiritual">bearing so strong against my hands as to get and keep my head above
 <lb/>
 water. Yea those kind <name memoirSubject="n" office="assistant">Assistants</name> bore me up so long, even till I was
@@ -13047,7 +13050,7 @@ the <name emotion="assurance">Assurance</name> <name emotion="in my heart">in my
 					</p>
 				</div>
 				<div type="page" n="3">
-					<pb n="3" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-03.jpg"/>
+					<pb n="3" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/Ful_SS_68Cennick-03.jpg"/>
 					<p> In my <date cert="medium" when="1729">17<hi rend="superscript">th</hi> year</date> it was thought proper by my Friends, that I
 						should <lb/> go to <placeName ref="#mlpla000054" cert="high">London</placeName> for further Improvement. I was <name type="event" ana="reception">receiv'd</name> with the
 						<lb/> <name emotion="greatest heartiness">greatest heartiness</name>, and every one was kindly officious in bringing
@@ -13093,7 +13096,7 @@ the <name emotion="assurance">Assurance</name> <name emotion="in my heart">in my
 					</p>
 				</div>
 				<div type="page" n="4">
-					<pb n="4" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-04.jpg"/>
+					<pb n="4" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-04.jpg"/>
 					<p> Hereupon my <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000408" key="Brother" cert="medium" type="real">Brother</persName> went to <placeName ref="#mlpla000030" cert="high">Bristoll</placeName>, and I, and a well disposed singled <lb/> Woman took a
 						house in the Town; but the Preaching was given up. <lb/> By these means got
 						the <name emotion="ill will">ill Will</name> of all my Friends and Relations <lb/> My Acquaintance also
@@ -13147,7 +13150,7 @@ Whitfield</persName>, my <persName ref="http://moravianlives.bucknell.edu/data/p
 					</p>
 				</div>
 				<div type="page" n="5">
-					<pb n="5" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-05.jpg"/>
+					<pb n="5" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-05.jpg"/>
 					<p> I had heard of the Order among the <orgName en="single sisters choir">Single Sisters</orgName>, and that it was <lb/> something like a
 						Nunery, which exacted my enquiry and I <name emotion="wished">wish'd</name> once <lb/> to see such a
 						Choir. My <persName ref="#mlper000408" cert="high" type="real">Bro<hi rend="superscript">r</hi> </persName> had already contracted a large
@@ -13195,7 +13198,7 @@ of the Lords Body and Blood in the H Communion</name>. Here also I <lb/> had the
 					</p>
 				</div>
 				<div type="page" n="6">
-					<pb n="6" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-06.jpg"/>
+					<pb n="6" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-06.jpg"/>
 					<p> where, after many <name emotion="blessings">Blessings</name>, the rest day we proceeded on our Journey <lb/> in the <name emotion="peace">Peace</name> of
 						<persName type="real" cert="high">God</persName>, and <name emotion="blessing">blessing</name> of the <orgName en="congregation">Congregation</orgName>. </p>
 					<p> After staying sometime in <placeName ref="#mlpla000054" cert="high">London</placeName>, I was sent to <placeName ref="http://dbpedia.org/resource/Fulneck_Moravian_Settlement,_Pudsey" key="Fulneck Moravian Settlement, Pudsey" cert="high">Fulneck</placeName>, where <lb/> I was one of the
@@ -13240,7 +13243,7 @@ of the Lords Body and Blood in the H Communion</name>. Here also I <lb/> had the
 					</p>
 				</div>
 				<div type="page" n="7">
-					<pb n="7" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-07.jpg"/>
+					<pb n="7" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG//MAF/Ful_SS_68Cennick-07.jpg"/>
 					<p> And in the evening <persName cert="high" ref="#mlper000702" type="real"><roleName type="honorific">S<hi rend="superscript">r</hi> </roleName>Mary</persName> sent to invite me into her house,
 						where <lb/> I <name emotion="enjoyed">enjoy 'd</name> many <name emotion="blessings">Blessings</name>; till in <date when="1759-01" cert="high">Jan. 59</date> <persName cert="high" type="real"><roleName type="honorific">B<hi rend="superscript">r</hi> </roleName></persName>&amp; <persName ref="#mlper000688" cert="high" type="real"><roleName type="honorific">Sis<hi rend="superscript">r</hi></roleName>. Houptmann</persName> <lb/> received their Call to <placeName ref="#mlpla000025" cert="high">Bedford</placeName>, I embrace'd this Oppertunity
 						of going <lb/> with them from hence to that Place, where I was receiv'd with
@@ -13281,7 +13284,7 @@ tender</name> Comunion with my eternal Friends; and in <name emotion="heartiest"
 						<placeName ref="#mlpla000057" cert="high">Marienborn</placeName>, by the Hand of my dear <persName ref="#mlper000692" cert="high" type="real"><roleName type="honorific">Bror</roleName> Johann</persName>, to asist <note type="catchword">Sis<hi rend="superscript">r</hi>.</note>  </p>
 				</div>
 				<div type="page" n="8">
-					<pb n="8" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-08.jpg"/>
+					<pb n="8" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-08.jpg"/>
 					<p> <persName ref="#mlper000702" cert="high" type="real"><roleName type="honorific">Sis<hi rend="superscript">r</hi> </roleName> Mary Vogls<hi rend="superscript">ng</hi> </persName> in Caring for the
 						<orgName en="single sisters choir">S. Sisters</orgName> and <orgName en="greater girls choir">Great Girls</orgName> of <lb/> the Country <orgName en="congregation">Cong<hi rend="superscript">ns</hi></orgName>. I receiv'd my Call with <name emotion="awe">awe</name> &amp; real <name emotion="bowedness of heart">bow-
 <lb/>
@@ -13323,7 +13326,7 @@ tears</name> devoted myself
 					</p>
 				</div>
 				<div type="page" n="9">
-					<pb n="9" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-09.jpg"/>
+					<pb n="9" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-09.jpg"/>
 					<p> living here in <placeName ref="#mlpla000041" cert="high"><placeName key="Gomersal" ref="http://www.wikidata.org/entity/Q3773203">Gumersall</placeName></placeName>, and had the Care of Wyke Plan also, they <lb/> therefore <name emotion="most cheerfully">most Chearfully</name> help'd me always, when, and where they <lb/> could with their
 						horse &amp;c. In <date when="1765-12" cert="high">Dec<hi rend="superscript">r</hi> following</date>, we had the
 						misfortune <lb/> to loose them; For they went to <placeName ref="#mlpla000059" cert="high"><placeName key="Mirfield" ref="http://www.wikidata.org/entity/Q1301336">Mirfield</placeName></placeName>: Here also they
@@ -13437,7 +13440,7 @@ became joined</name> and
 					</p>
 				</div>
 				<div type="page" n="10">
-					<pb n="10" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-10.jpg"/>
+					<pb n="10" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-10.jpg"/>
 					<p> My little Room has been a Cabinet of Jewels to me, Therefore I have <lb/> long concluded,
 						that if our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> took me home here in <placeName ref="#mlpla000084" cert="high"><placeName key="Yorkshire" ref="http://www.wikidata.org/entity/Q163">Yorkshire</placeName></placeName>,
 						I <lb/> would die in my nest, and so slip away, as it were incognito <lb/>
@@ -13488,7 +13491,7 @@ of Health</name>, would not <name emotion="rest">rest</name>, But
 					</p>
 				</div>
 				<div type="page" n="11">
-					<pb n="11" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-11.jpg"/>
+					<pb n="11" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-11.jpg"/>
 					<p> Strongly what he had made allready manifest to me. I was very well <lb/> seemingly, fix'd
 						and suited; But my d<hi rend="superscript">r</hi>. <persName cert="high" type="real"><roleName type="honorific">S<hi rend="superscript">r</hi></roleName>. Lorel</persName> could not be reconcil'd <lb/> to my staying at <placeName ref="#mlpla000041" cert="high"><placeName key="Gomersal" ref="http://dbpedia.org/resource/Gomersal">Gumersel</placeName></placeName>,
 						and I must own shew'd more then Mothers <lb/> Faithfulness and <name emotion="affection">Affection</name>: In
@@ -13536,7 +13539,7 @@ hearty</name> Reception. The first d<hi rend="superscript">r</hi> Heart which
 					</p>
 				</div>
 				<div type="page" n="12">
-					<pb n="12" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-12.jpg"/>
+					<pb n="12" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG//MAF/Ful_SS_68Cennick-12.jpg"/>
 					<p>
 						
 							to be rank'd amongst the Chiefest of Sinners, and has with particular<lb/>
@@ -13596,7 +13599,7 @@ Moore</placeName></placeName> &amp; <placeName ref="#mlpla000041" cert="high"><p
 					</p>
 				</div>
 				<div type="page" n="13">
-					<pb n="13" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-13.jpg"/>
+					<pb n="13" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-13.jpg"/>
 					<p> Here Below. And <name emotion="blessed">blest</name> each with impossion of hands in the most <lb/> maternal and feeling
 						manner. </p>
 					<p> From this time her weakness increas'd more sensibly, which <lb/> <name emotion="excited">Excited</name> a <name emotion="more eager">more Eager</name>
@@ -13640,7 +13643,7 @@ Moore</placeName></placeName> &amp; <placeName ref="#mlpla000041" cert="high"><p
 					</p>
 				</div>
 				<div type="page" n="14">
-					<pb n="14" facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_68Cennick-14.jpg"/>
+					<pb n="14" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_68Cennick-14.jpg"/>
 					<p> Sweet Comunion that her Soul <name emotion="enjoyed">injoy'd</name> with its Beloved Bridegroom <lb/> Which was truly
 						verify'd to the end. </p>
 					<p> About an Hour before she departed it was perceivd her <lb/> Lips moved very quick,
