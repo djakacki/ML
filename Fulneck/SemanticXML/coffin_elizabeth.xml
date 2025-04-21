@@ -1283,13 +1283,13 @@ r
 			<div type="memoir">
 				<head>Elizabeth Coffin</head>
 				<div type="page" n="1">
-					<pb n="1" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_46Coffin-01.jpg"/>
+					<pb n="1" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/ML/refs/heads/master/IMG/MAF/Ful_SS_46Coffin-01.jpg"/>
 			<p>
 				
-					Our late <persName ref="#mlper000234" cert="high" type="real"><roleName type="honorific">S<hi rend="superscript">r</hi></roleName> Eliz<hi rend="superscript">th</hi> Coffin</persName> was <name type="event" ana="birth" when-iso="1777">born
+					Our late <persName ref="#mlper000234" cert="high" type="real"><roleName type="honorific">S<hi rend="superscript">r</hi></roleName> Eliz<hi rend="superscript">th</hi> Coffin</persName> was <eventName type="birth" when-iso="1777">born
 <lb/>
 <add place="above">near</add> <hi rend="strikethrough">at</hi> <placeName ref="#mlpla000124" cert="high">Ellesmere, on the borders of Wales</placeName>, <add place="above"><date when="1777" cert="high">A.D. 1777</date></add>
-<lb/></name> her father being an extensive <rs memoirSubject="no" ref="#mlocc000022" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">farmer</rs>. <lb/>
+<lb/></eventName> her father being an extensive <name type="occupation" ref="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">farmer</name>. <lb/>
 					Of her earlier years, very little is <lb/>
 					known to us; as our late <roleName type="honorific">S<hi rend="superscript">r</hi></roleName> left <lb/>
 					no memoranda of her course thro' <lb/>
@@ -1302,13 +1302,13 @@ r
 			<p>
 				
 					Whilst attending the parish Church, <lb/>
-					<name type="event" ana="awakening">some particular sentence in the morning
+					<eventName type="awakening">some particular sentence in the morning
 <lb/>
 prayer come home to her heart with
 <lb/>
-such power</name>, that she felt the <name emotion="love">love</name> of  <lb/>
+such power</eventName>, that she felt the <name type="emotion" key="love">love</name> of  <lb/>
 					<persName type="real" cert="high">Christ</persName> as accomplishing her redemption.  <lb/>
-					She was <add place="above">thus</add> persuaded of her <name emotion="interest">interest</name> in <lb/>
+					She was <add place="above">thus</add> persuaded of her <name type="emotion" key="interest">interest</name> in <lb/>
 					his atonement, &amp; it is remarkable <lb/>
 					in the religious experience of our <lb/>
 					late <roleName type="honorific">S<hi rend="superscript">r</hi></roleName>, that her course was not so <lb/>
@@ -1316,16 +1316,16 @@ such power</name>, that she felt the <name emotion="love">love</name> of  <lb/>
 			</p>
 				</div>
 				<div type="page" n="2">
-					<pb n="2" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_46Coffin-02.jpg"/>
+					<pb n="2" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_46Coffin-02.jpg"/>
 			<p>
 				
 					that of the majority of the <roleName type="honorific">Lord</roleName>'s <lb/>
 					children. As far as her X<hi rend="superscript">n</hi> experience <lb/>
 					is known to us, she has alway spoken <lb/>
-					of his life of <name emotion="faith">faith</name> as a <name emotion="happy">happy</name> one; <lb/>
-					she knew no periods of <name emotion="gloom">gloom</name> &amp; tasted <lb/>
-					not the <name emotion="bitterness">bitterness</name> of the soul from  <lb/>
-					whom the <roleName type="honorific">Lord</roleName>'s <name emotion="comforts">comforts</name> are with <lb/>
+					of his life of <name type="emotion" key="faith">faith</name> as a <name type="emotion" key="happy">happy</name> one; <lb/>
+					she knew no periods of <name type="emotion" key="gloom">gloom</name> &amp; tasted <lb/>
+					not the <name type="emotion" key="bitterness">bitterness</name> of the soul from  <lb/>
+					whom the <roleName type="honorific">Lord</roleName>'s <name type="emotion" key="comforts">comforts</name> are with <lb/>
 					drawn.
 			</p>
 			<p>
@@ -1336,7 +1336,7 @@ such power</name>, that she felt the <name emotion="love">love</name> of  <lb/>
 					lived till that lady's death. It <lb/>
 					was during her residence there, &amp; <lb/>
 					during <persName cert="high" type="real"><roleName type="honorific">B<hi rend="superscript">r</hi></roleName> Montgomry</persName>'s service of <lb/>
-					the <orgName en="congregation">Congn</orgName> that she joined the <orgName religion="Moravian Church">Church
+					the <affiliation type="congregation">Congn</affiliation> that she joined the <orgName type="moravian">Church
 <lb/>
 of the B<hi rend="superscript">rn</hi></orgName>, of which she has been <lb/>
 					so many years a consistent member
@@ -1391,10 +1391,10 @@ of the B<hi rend="superscript">rn</hi></orgName>, of which she has been <lb/>
 			</p>
 				</div>
 				<div type="page" n="3">
-					<pb n="3" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_46Coffin-03.jpg"/>
+					<pb n="3" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_46Coffin-03.jpg"/>
 			<p>
 				
-					health whilst she inquired <name emotion="sympathisingly">sympa-
+					health whilst she inquired <name type="emotion" key="sympathisingly">sympa-
 <lb/>
 thisingly</name> after the welfare of others.
 			</p>
@@ -1407,32 +1407,32 @@ thisingly</name> after the welfare of others.
 					himself. Being asked whether she <lb/>
 					felt herself prepared for the last change <lb/>
 					she replied in her quick characteristic <lb/>
-					manner &amp; quite <name emotion="cheerfully">cheerfully</name> -- It would <lb/>
-					be a <name emotion="great shame">great shame</name> if I were not ready <lb/>
+					manner &amp; quite <name type="emotion" key="cheerfully">cheerfully</name> -- It would <lb/>
+					be a <name type="emotion" key="great shame">great shame</name> if I were not ready <lb/>
 					for it; for it is now 50 years since <lb/>
 					I first knew the <roleName type="honorific">Lord</roleName>; &amp; since that <lb/>
 					time he has enabled me to serve <lb/>
-					Him It would be <name emotion="ungrateful">ungrateful</name> in me <lb/>
+					Him It would be <name type="emotion" key="ungrateful">ungrateful</name> in me <lb/>
 					to think he would not accept me <lb/>
 					at the last." 
 			</p>
 			<p>
 				
 					For the last twelve month <del>s</del> her <lb/>
-					<name health="disease">health was perceived to her failing con-
+					<name type="health" subtype="disease">health was perceived to her failing con-
 <lb/>
 siderably</name> tho' she would not, till <lb/>
 					near the last, hear of seeking medi- <lb/>
 					cal advice. Tho' she most often <lb/>
-					have been <name emotion="suffering">suffering</name> from weakness <lb/>
-					&amp; <name emotion="pain">pain</name> she was still seen as her -
+					have been <name type="emotion" key="suffering">suffering</name> from weakness <lb/>
+					&amp; <name type="emotion" key="pain">pain</name> she was still seen as her -
 			</p>
 					<cb/>
 			<p>
 				
 					place in the Prayer Hall &amp; Chapel <lb/>
 					where the meetings were always a <lb/>
-					source of spiritual <name emotion="enjoyment">enjoyment</name> <add place="above">To her</add> "As <lb/>
+					source of spiritual <name type="emotion" key="enjoyment">enjoyment</name> <add place="above">To her</add> "As <lb/>
 					long as I can I must go" she would <lb/>
 					say "for soon I may not be able"-
 			</p>
@@ -1446,25 +1446,25 @@ siderably</name> tho' she would not, till <lb/>
 					it close. When her labouress <lb/>
 					alluded to the approaching end, &amp; asked <lb/>
 					her whether she felt ready for our <roleName type="honorific">Saviours</roleName> <lb/>
-					coming, if it should <name emotion="please">please</name> Him to  <lb/>
+					coming, if it should <name type="emotion" key="please">please</name> Him to  <lb/>
 					take her now, she answered, that <lb/>
 					she would like to feel Him nearer, but <lb/>
-					she had <name emotion="no fear">no fear</name>.
+					she had <name type="emotion" key="no fear">no fear</name>.
 			</p>
 			<p>
 				
 					On Sunday, the last day of her <lb/>
 					life, tho' growing very feeble, she <lb/>
 					retained a clear conciousness &amp; on <lb/>
-					unshaken <name emotion="faith">faith</name>. In reply to a question <lb/>
-					as to her spiritual support in this <name emotion="trouble">trouble</name> <lb/>
-					she answered with energy "I will <name emotion="trust">trust</name> <lb/>
+					unshaken <name type="emotion" key="faith">faith</name>. In reply to a question <lb/>
+					as to her spiritual support in this <name type="emotion" key="trouble">trouble</name> <lb/>
+					she answered with energy "I will <name type="emotion" key="trust">trust</name> <lb/>
 					Him tho' he slay me." And again <lb/>
-					she said "I care not what <name emotion="pain">pain</name> 
+					she said "I care not what <name type="emotion" key="pain">pain</name> 
 			</p>
 				</div>
 				<div type="page" n="4">
-					<pb n="4" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_46Coffin-04.jpg"/>
+					<pb n="4" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_46Coffin-04.jpg"/>
 			<p>				
 					I have, if I have only <hi rend="underline">Him</hi> with me 
 			</p>
@@ -1472,50 +1472,50 @@ siderably</name> tho' she would not, till <lb/>
 				
 					For the attention of the Sisters &amp; <lb/>
 					friends to her in her illness, she was <lb/>
-					truly <name emotion="grateful">grateful</name>, &amp; expressed herself <lb/>
-					<name emotion="surprised">surprised</name> at the display of <name emotion="love">love</name> <lb/>
+					truly <name type="emotion" key="grateful">grateful</name>, &amp; expressed herself <lb/>
+					<name type="emotion" key="surprised">surprised</name> at the display of <name type="emotion" key="love">love</name> <lb/>
 					which she witnessed. 
 			</p>
 			<p>
 					On Sunday evening when her <lb/>
-					<name office="#mloff000004">Laboress</name> told her <del>she</del> our <roleName type="honorific">Savr</roleName> <del>might</del> <add place="above">would probably</add> <lb/>
+					<name type="office" ref="#mloff000004">Laboress</name> told her <del>she</del> our <roleName type="honorific">Savr</roleName> <del>might</del> <add place="above">would probably</add> <lb/>
 					very soon come &amp; take her to himself, <lb/>
-					she seemed still somewhat <name emotion="surprised">surprised</name> that <lb/>
+					she seemed still somewhat <name type="emotion" key="surprised">surprised</name> that <lb/>
 					her end should be so near; but was <lb/>
-					free from all <name emotion="apprehension">apprehension</name> of the event. <lb/>
+					free from all <name type="emotion" key="apprehension">apprehension</name> of the event. <lb/>
 					Her feeling appeared to be that of the <lb/>
-					conviction &amp; <name emotion="confidence">confidence</name> expressed <lb/>
+					conviction &amp; <name type="emotion" key="confidence">confidence</name> expressed <lb/>
 					in the Hymn 1184. 2 Thou knowst &amp;c.
 			</p>
 			<p>
 				
 					<note>Insert is at the bottom of second column, page 4.</note>
 					*Insert <lb/>
-					She <name emotion="regretted">regretted</name> B<hi rend="superscript">r</hi> Libbay's absence from <lb/>
-					the Congn at this time, <name emotion="much wishing">much wishing</name> to  <lb/>
+					She <name type="emotion" key="regretted">regretted</name> B<hi rend="superscript">r</hi> Libbay's absence from <lb/>
+					the Congn at this time, <name type="emotion" key="much wishing">much wishing</name> to  <lb/>
 					live to see him again; as at the first, <lb/>
 					she appeared not right to have under- <lb/>
 					stood him in his Conversat with her.
 			</p>
 			<p>
 				
-					When asked if she <name emotion="wished">wished</name> to par <lb/>
-					take of the <name type="event" ana="communion">H. Com<hi rend="superscript">n</hi></name> again, she replied <lb/>
-					somewhat <name emotion="doubtfull">doubtfull</name>, -- I do not <name emotion="rest">rest</name> on <lb/>
+					When asked if she <name type="emotion" key="wished">wished</name> to par <lb/>
+					take of the <eventName type="communion">H. Com<hi rend="superscript">n</hi></eventName> again, she replied <lb/>
+					somewhat <name type="emotion" key="doubtfull">doubtfull</name>, -- I do not <name type="emotion" key="rest">rest</name> on <lb/>
 					<hi rend="underline">that</hi> - You know <hi rend="underline">He</hi> is my Bread of <lb/>
 					Life. 
 			</p>
 			<p>
 				
 					The same evening she received the  <lb/>
-					<name emotion="blessing">blessing</name> of the <orgName en="congregation">Congn</orgName>. imparted by <persName ref="#mlper000703" cert="high" type="real">B<hi rend="superscript">r</hi>
+					<name type="emotion" key="blessing">blessing</name> of the <affiliation type="congregation">Congn</affiliation>. imparted by <persName ref="#mlper000703" cert="high" type="real">B<hi rend="superscript">r</hi>
 <lb/>
-Okely</persName> after a <name emotion="fervent">fervent</name> prayer for the  <lb/>
+Okely</persName> after a <name type="emotion" key="fervent">fervent</name> prayer for the  <lb/>
 					nearness &amp; support of <persName type="real" cert="high">Jesus</persName> in this <lb/>
 					hour of trial - She was not only per- <lb/>
 					fectly conscious during this transaction <lb/>
-					but expressed also the <name emotion="enjoyment">enjoyment</name> &amp; <lb/>
-					<name emotion="benefit">benefit</name> she had derived from it.
+					but expressed also the <name type="emotion" key="enjoyment">enjoyment</name> &amp; <lb/>
+					<name type="emotion" key="benefit">benefit</name> she had derived from it.
 			</p>
 			<p>
 				
@@ -1525,17 +1525,17 @@ Okely</persName> after a <name emotion="fervent">fervent</name> prayer for the  
 					<cb/>
 			<p>
 				
-					the sisters <name type="event" ana="death" when-iso="1855-01-28">the hour of her departure
+					the sisters <eventName type="death" when-iso="1855-01-28">the hour of her departure
 <lb/>
-came</name>; the silver cord was loosed, <lb/>
-					&amp; she <name emotion="gently">gently</name> breathed her last, her <lb/>
+came</eventName>; the silver cord was loosed, <lb/>
+					&amp; she <name type="emotion" key="gently">gently</name> breathed her last, her <lb/>
 					ransomed? spirit departing to be with <lb/>
 					that <roleName type="honorific">Lord</roleName> whom she had long here <lb/>
-					followed in <name emotion="faith">faith</name> tho' in feebleness &amp; <lb/>
+					followed in <name type="emotion" key="faith">faith</name> tho' in feebleness &amp; <lb/>
 					<add place="above">with the sense of</add> much unperfection. <add place="above">Her age was 77 years.</add> May our <lb/>
-					end be as <name emotion="tranquil">tranquil</name> &amp; <name emotion="happy">happy</name>, &amp; as <lb/>
-					full of <name emotion="confidence">confidence</name> in our unseen <lb/>
-					but present &amp; <name emotion="faithful">faithful</name> <roleName type="honorific">Redeemer</roleName>!  <lb/>
+					end be as <name type="emotion" key="tranquil">tranquil</name> &amp; <name type="emotion" key="happy">happy</name>, &amp; as <lb/>
+					full of <name type="emotion" key="confidence">confidence</name> in our unseen <lb/>
+					but present &amp; <name type="emotion" key="faithful">faithful</name> <roleName type="honorific">Redeemer</roleName>!  <lb/>
 				
 			</p>
 				</div>

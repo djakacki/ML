@@ -1,16 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/CSS/moravian_style.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/CSS/moravian_style.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>John Darnbrook: Memoir</title>
 				<funder>The Moravian Lives Project</funder>
-				<principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+				<principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal
+					Investigator <orgName>Bucknell University</orgName>
 					<address>
 						<addrLine>Lewisburg, Pennsylvania</addrLine>
 					</address>
 					<email>faull@bucknell.edu</email>
 				</principal>
-				<principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+				<principal><persName>Christer Ahlberger</persName>, Principal Investigator,
+					2015-2018 <orgName>University of Gothenburg</orgName>
 					<address>
 						<addrLine>Gothenburg, Sweden</addrLine>
 					</address>
@@ -80,7 +85,8 @@
 			<publicationStmt>
 				<distributor>The Moravian Lives Project</distributor>
 				<availability>
-					<licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+					<licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+						International</licence>
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
@@ -88,18 +94,34 @@
 					<msIdentifier>
 						<repository ref="#mlpla000003">Moravian Archives, Fulneck</repository>
 						<msName type="memoir" ana="Ful_3_42_DarnbrookJohn">Name</msName>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-01.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-02.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-04.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-05.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-01.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-02.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-04.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-05.jpg"
+						/>
 					</msIdentifier>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 
-		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -177,10 +199,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -257,10 +277,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -338,10 +356,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -431,10 +447,8 @@
 	],
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -511,10 +525,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -592,10 +604,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -673,10 +683,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -754,10 +762,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -835,10 +841,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -916,10 +920,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -997,10 +999,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1078,10 +1078,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1159,10 +1157,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1240,10 +1236,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1321,10 +1315,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1402,10 +1394,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1483,10 +1473,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1561,10 +1549,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1642,10 +1628,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1720,10 +1704,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1801,10 +1783,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1882,10 +1862,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -1963,10 +1941,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2044,10 +2020,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2125,10 +2099,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2206,10 +2178,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2287,10 +2257,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2368,10 +2336,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2449,10 +2415,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2530,10 +2494,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2611,10 +2573,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2691,10 +2651,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2771,10 +2729,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2852,10 +2808,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -2945,10 +2899,8 @@
 	],
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3026,10 +2978,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3107,10 +3057,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3188,10 +3136,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3269,10 +3215,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3350,10 +3294,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3431,10 +3373,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3512,10 +3452,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3593,10 +3531,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3673,10 +3609,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3754,10 +3688,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3833,10 +3765,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3912,10 +3842,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -3991,10 +3919,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4070,10 +3996,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4149,10 +4073,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4228,10 +4150,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4307,10 +4227,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4386,10 +4304,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4465,10 +4381,8 @@
 		"schema:softwareVersion": "2.3.0"
 	}
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4546,10 +4460,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4627,10 +4539,8 @@
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
+				</rdf:Description> <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
 	"@context": {
 		"dcterms:created": {
 			"@type": "xsd:dateTime",
@@ -4704,8 +4614,9 @@
 		"schema:softwareVersion": "3.0.1"
 	}
 }]]>
-        </rdf:Description>
-      </rdf:RDF></xenoData><profileDesc>
+				</rdf:Description>
+			</rdf:RDF></xenoData>
+		<profileDesc>
 
 			<particDesc>
 				<person role="subject">
@@ -4728,426 +4639,576 @@
 			<div type="memoir">
 				<head>John Darnbrook</head>
 				<div type="page" n="1">
-					<pb n="1" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-01.jpg"/>
+					<pb n="1"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_42_DarnbrookJohn-01.jpg"/>
 					<p> Course of Life of the S <roleName type="honorific">Br</roleName>
-						<persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000549" key="John Darnbrook" cert="high" type="real">John Darnbrook</persName>,
+						<persName
+							ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000549"
+							key="John Darnbrook" cert="high" type="real">John Darnbrook</persName>,
 						<lb/> the first part of which he himself has wrote down, <lb/> &amp; the
-						latter dictated. <lb/> I was <name type="event" ana="birth" when-iso="1736-06-20">born at <placeName ref="#mlpla000180" cert="high">Moreley in the Parish of Battley</placeName></name>
-						<date type="birth" when-iso="1736-06-20">June the 20<hi rend="superscript">th</hi>
+						latter dictated. <lb/> I was <eventName type="birth" when-iso="1736-06-20"
+							>born at <placeName ref="#mlpla000180" cert="high">Moreley in the Parish
+								of Battley</placeName></eventName>
+						<date type="birth" when-iso="1736-06-20">June the 20<hi rend="superscript"
+								>th</hi>
 							<lb/> 1736</date>. My first 13 Years I lived with my Parents, which took
 						<lb/> care to instruct me in what was religious, to the best of their <lb/>
-						knowledge, particularly my Mother, whom I remember, when <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000536" key="Mr Ingham" cert="high" type="real">M<hi rend="superscript">r</hi>
+						knowledge, particularly my Mother, whom I remember, when <persName
+							ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000536"
+							key="Mr Ingham" cert="high" type="real">M<hi rend="superscript">r</hi>
 							<lb/> Ingham</persName> and other awakened Men first began preaching,
-						she went <lb/> frequently to hear them, &amp; a Sermon of <persName key="George Whitefield" ref="http://www.wikidata.org/entity/Q314399"></persName><persName ref="#mlper000366" cert="high" type="real">M<hi rend="superscript">r</hi> Whitfield's</persName> being <lb/> then published, she got
-						it to read. I read the same, it treated <lb/> so much of the <name emotion="sufferings">Sufferings</name> of our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>, that it brought me into <lb/> some <name emotion="concern">Concern</name> about my Salvation, </p><p><date when-iso="1725" cert="medium">I was then about 5 years old </date>
+						she went <lb/> frequently to hear them, &amp; a Sermon of <persName
+							key="George Whitefield" ref="http://www.wikidata.org/entity/Q314399"
+							/><persName ref="#mlper000366" cert="high" type="real">M<hi
+								rend="superscript">r</hi> Whitfield's</persName> being <lb/> then
+						published, she got it to read. I read the same, it treated <lb/> so much of
+						the <name type="emotion" key="sufferings">Sufferings</name> of our <roleName
+							type="honorific">Sav<hi rend="superscript">r</hi></roleName>, that it
+						brought me into <lb/> some <name type="emotion" key="concern">Concern</name>
+						about my Salvation, </p>
+					<p><date when-iso="1725" cert="medium">I was then about 5 years old </date>
 						<lb/> &amp; this was the first Conviction, I had, as much as I can remember
-						<lb/> At the End of my <date when-iso="1733" cert="medium">13<hi rend="superscript">th</hi> year</date> I was put an Apprentice to a very <lb/> religious Man
-						in the same town, a Dissenter, in which Way I had <lb/> been brought up.
-						Half a Year afterwards my Father departed <lb/> this Life. This <name emotion="struck me">struck me</name> pretty much of first, but I soon for- <lb/> got it. The 3 first years of
-						my aprenticeship I spent among young
-						<lb/> Company as much as I could, &amp; indeed in that time I got seduced
-						<lb/> to many bad Things. <name type="event" ana="awakening">One Day, when I was at Work by myself in
-<lb/>
-the Field, a sudden thought came into my Mind that I must
-<lb/>
-once die &amp; appear before <persName type="deity">God</persName> to give an Account of my Life &amp;
-<lb/>
-I thought, if I died in that Condition, I certainly must go to Hell.
-<lb/>
-I immediately left of my Work &amp; went a kneeled down under
-<lb/>
-a Tree &amp; prayed to <persName type="deity">God</persName> to <name emotion="forgive">forgive</name> me. This was the first Time.
-<lb/>
-I ever prayed, except such as the <roleName type="honorific">Lords</roleName> Prayer &amp; others learned
-<lb/>
-out of Books.</name> From this time I began to be very religious. I read
-						<lb/> many religious Books &amp; prayed 6 or 7 times a day, I entirely <lb/>
-						broke <add place="above">off</add> from all my old Companions, who <name emotion="despised">despised</name> me very much but <lb/> the religious people <name emotion="praised">praised</name> me greatly, &amp; this made me <name emotion="very proud">very
-<lb/>
-proud</name>. But all this availed me nothing, all my reading,
-						&amp; <lb/> praying brought <name emotion="no peace to my heart">no Peace to my Heart</name>. I was a bound Slave to <lb/>
+						<lb/> At the End of my <date when-iso="1733" cert="medium">13<hi
+								rend="superscript">th</hi> year</date> I was put an Apprentice to a
+						very <lb/> religious Man in the same town, a Dissenter, in which Way I had
+						<lb/> been brought up. Half a Year afterwards my Father departed <lb/> this
+						Life. This <name type="emotion" key="struck me">struck me</name> pretty much
+						of first, but I soon for- <lb/> got it. The 3 first years of my
+						aprenticeship I spent among young <lb/> Company as much as I could, &amp;
+						indeed in that time I got seduced <lb/> to many bad Things. <eventName
+							type="awakening">One Day, when I was at Work by myself in <lb/> the
+							Field, a sudden thought came into my Mind that I must <lb/> once die
+							&amp; appear before <persName type="deity">God</persName> to give an
+							Account of my Life &amp; <lb/> I thought, if I died in that Condition, I
+							certainly must go to Hell. <lb/> I immediately left of my Work &amp;
+							went a kneeled down under <lb/> a Tree &amp; prayed to <persName
+								type="deity">God</persName> to <name type="emotion" key="forgive"
+								>forgive</name> me. This was the first Time. <lb/> I ever prayed,
+							except such as the <roleName type="honorific">Lords</roleName> Prayer
+							&amp; others learned <lb/> out of Books.</eventName> From this time I
+						began to be very religious. I read <lb/> many religious Books &amp; prayed 6
+						or 7 times a day, I entirely <lb/> broke <add place="above">off</add> from
+						all my old Companions, who <name type="emotion" key="despised"
+							>despised</name> me very much but <lb/> the religious people <name
+							type="emotion" key="praised">praised</name> me greatly, &amp; this made
+						me <name type="emotion" key="very proud">very <lb/> proud</name>. But all
+						this availed me nothing, all my reading, &amp; <lb/> praying brought <name
+							type="emotion" key="no peace to my heart">no Peace to my Heart</name>. I
+						was a bound Slave to <lb/>
 						<persName type="deity">Satan</persName>, &amp; when Sin presented itself, I
 						had no Power to resist <lb/> Some times I used to be a fortnight or 3 weeks
 						without coming <lb/> into any extraordinary great Sin, this made me think, I
 						had now </p>
 				</div>
 				<div type="page" n="2">
-					<pb n="2" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-02.jpg"/>
-					<p> made <persName type="deity">God</persName> amends. But I soon perhaps came into see very
-						Prick of <lb/> that Sin, which I thought I had conquered. This made me think,
-							<persName type="deity">God</persName>
-						<lb/> was <name emotion="displeased">displeased</name> with me, &amp; all my Prayers &amp; Readings were of no
-						<lb/> Signification, I must begin anew &amp; be more watchfull, than I <lb/>
-						had been hitherto. But with all I could do, Sin had the rule over <lb/> me.
-						I think, I spent near 2 Years in this <name emotion="miserable course">miserable Course</name>.</p>
-					<p> At <date when-iso="1754-04-14" cert="medium"><name type="event" ana="ecclesiastical">Easter</name> in the year 1754</date> (as well as I
-						can remember) I <lb/> thought, I would go a hear the
-							<orgName>Moravians</orgName>, tho' I had <name emotion="no liking">no liking</name> for
-<lb/>
-them,
-						because I believed them to be <orgName>Roman-Catholicks</orgName>. However I
-						<lb/> went &amp; heard <roleName type="honorific">B<hi rend="superscript">r</hi></roleName>
-						<persName ref="#mlper000687" cert="high" type="real">La
-							Trobe</persName> to my <name emotion="great astonishment">great Astonishment</name> Such a <name type="event" ana="religious">Ser- <lb/> mon</name> I never had heard in all my Life before, I
-						thought directly, <lb/> this is the true way to be saved. I went home, &amp;
-						what I had heard <lb/> of the <name emotion="sufferings">Sufferings</name> of <persName type="deity">Jesus</persName>, &amp; how that Salvation could be obtained <lb/> no
-						otherwise, than by his ments, Death &amp; Bloodshedding, This <lb/> <name emotion="wrought much on my mind">wrought much on my Mind</name> all the Week following. When on Sunday <lb/> I went again; I
-						was <name emotion="so overcome">so overcome</name>, that I afterwards could not go any <lb/> where else. I soon
-						got acquainted with <roleName type="honorific">B<hi rend="superscript">r</hi></roleName>
-						<persName>Lorde</persName>, &amp; got a <name emotion="great love">great Love</name>
-<lb/>
-for him, but <name type="event" ana="arrival">he soon after went from <placeName cert="high" ref="#mlpla000003" type="arrival">Fulneck</placeName></name>. I was <name type="event" ana="reception">received into <lb/>
-							the Society</name>, attended the <name type="event" ana="ecclesiastical">Preachings</name> on Sunday constantly &amp; was <lb/> often <name emotion="so affected">so affected</name> with what I had heard, that I many Times in my <lb/> Way home
-						retired into a Wood near <placeName ref="#mlper000687">Tong</placeName> &amp; <name type="emotion"><name emotion="wept">wept</name></name> before our <lb/>
+					<pb n="2"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_42_DarnbrookJohn-02.jpg"/>
+					<p> made <persName type="deity">God</persName> amends. But I soon perhaps came
+						into see very Prick of <lb/> that Sin, which I thought I had conquered. This
+						made me think, <persName type="deity">God</persName>
+						<lb/> was <name type="emotion" key="displeased">displeased</name> with me,
+						&amp; all my Prayers &amp; Readings were of no <lb/> Signification, I must
+						begin anew &amp; be more watchfull, than I <lb/> had been hitherto. But with
+						all I could do, Sin had the rule over <lb/> me. I think, I spent near 2
+						Years in this <name type="emotion" key="miserable course">miserable
+							Course</name>.</p>
+					<p> At <date when-iso="1754-04-14" cert="medium"><eventName
+								type="ecclesiastical">Easter</eventName> in the year 1754</date> (as
+						well as I can remember) I <lb/> thought, I would go a hear the
+							<orgName>Moravians</orgName>, tho' I had <name type="emotion"
+							key="no liking">no liking</name> for <lb/> them, because I believed them
+						to be <orgName>Roman-Catholicks</orgName>. However I <lb/> went &amp; heard
+							<roleName type="honorific">B<hi rend="superscript">r</hi></roleName>
+						<persName ref="#mlper000687" cert="high" type="real">La Trobe</persName> to
+						my <name type="emotion" key="great astonishment">great Astonishment</name>
+						Such a <eventName type="ecclesiastical">Ser- <lb/> mon</eventName> I never
+						had heard in all my Life before, I thought directly, <lb/> this is the true
+						way to be saved. I went home, &amp; what I had heard <lb/> of the <name
+							type="emotion" key="sufferings">Sufferings</name> of <persName
+							type="deity">Jesus</persName>, &amp; how that Salvation could be
+						obtained <lb/> no otherwise, than by his ments, Death &amp; Bloodshedding,
+						This <lb/>
+						<name type="emotion" key="wrought much on my mind">wrought much on my
+							Mind</name> all the Week following. When on Sunday <lb/> I went again; I
+						was <name type="emotion" key="so overcome">so overcome</name>, that I
+						afterwards could not go any <lb/> where else. I soon got acquainted with
+							<roleName type="honorific">B<hi rend="superscript">r</hi></roleName>
+						<persName>Lorde</persName>, &amp; got a <name type="emotion"
+							key="great love">great Love</name>
+						<lb/> for him, but <eventName type="arrival">he soon after went from
+								<placeName cert="high" ref="#mlpla000003" type="arrival"
+								>Fulneck</placeName></eventName>. I was <eventName type="reception"
+							>received into <lb/> the Society</eventName>, attended the <eventName
+							type="ecclesiastical">Preachings</eventName> on Sunday constantly &amp;
+						was <lb/> often <name type="emotion" key="so affected">so affected</name>
+						with what I had heard, that I many Times in my <lb/> Way home retired into a
+						Wood near <placeName ref="#mlper000687">Tong</placeName> &amp; <name
+							type="emotion"><name type="emotion" key="wept">wept</name></name> before
+						our <lb/>
 						<roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>, that
-						I might <name emotion="enjoy">enjoy</name> what I had heard. But I did not rightly
-<lb/>
-prosper; for I
-						had got some thing else in view besides my Salvation.</p>
-					<p> I had got an Intention to travel, &amp; this engaged my Mind <lb/> pretty much, &amp; I put
-						this in Execution, as soon as my Prentice- <lb/>  ship was out. There
-						happened just at that Time two Persons Who <lb/> come from <placeName ref="#mlpla000054">London</placeName> to see their Relations at
-							<placeName ref="#mlpla000180" cert="high">Moreley</placeName>, &amp; I
+						I might <name type="emotion" key="enjoy">enjoy</name> what I had heard. But
+						I did not rightly <lb/> prosper; for I had got some thing else in view
+						besides my Salvation.</p>
+					<p> I had got an Intention to travel, &amp; this engaged my Mind <lb/> pretty
+						much, &amp; I put this in Execution, as soon as my Prentice- <lb/> ship was
+						out. There happened just at that Time two Persons Who <lb/> come from
+							<placeName ref="#mlpla000054">London</placeName> to see their Relations
+						at <placeName ref="#mlpla000180" cert="high">Moreley</placeName>, &amp; I
 						took the <lb/> Opportunity to go with them at their Return, The one being a
 						married <lb/> Person, took me to her House, &amp; it was my Home, till I got
 						a Place, <lb/> which I did in ten days time, but it was very hard, so that I
 						left <lb/> it in 3 months &amp; got another place, which I left in about the
 						same <lb/> Time on account of some differences, I went to my first lodging
-						<lb/> &amp; stayd there out of Place till <rs memoirSubject="no" ref="#mlocc000077" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">Doctor</rs>
-						<persName ref="#mlper000695">John Holstead</persName> returned <lb/> from the <placeName ref="#mlpla000167" cert="high">West Indies</placeName>, where he had been as <rs memoirSubject="no" ref="#mlocc000053" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">Surgeon</rs> of a Ship <lb/> I visited him &amp;
-						told him, I should <name emotion="like">like</name> to go to Sea. He said, he <lb/> would recommend me
-						to <roleName en="captain">Captain</roleName>
+						<lb/> &amp; stayd there out of Place till <rs ref="#mlocc000077"
+							type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high"
+							>Doctor</rs>
+						<persName ref="#mlper000695">John Holstead</persName> returned <lb/> from
+						the <placeName ref="#mlpla000167" cert="high">West Indies</placeName>, where
+						he had been as <rs ref="#mlocc000053"
+							type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high"
+							>Surgeon</rs> of a Ship <lb/> I visited him &amp; told him, I should
+							<name type="emotion" key="like">like</name> to go to Sea. He said, he
+						<lb/> would recommend me to <roleName type="captain">Captain</roleName>
 						<persName>Hornsby</persName>
-						<add place="above">bound for <placeName ref="#mlpla000182" cert="high">Greenland</placeName></add>; if he has any Place <lb/>
-						that would suit me (this <roleName en="captain">Captain</roleName> was a
-						Person he himself had been with at <placeName ref="#mlpla000182" cert="high">Greenland</placeName>, before he went to the <placeName ref="#mlpla000167" cert="high">West Indies</placeName>). <note type="catchword">Accordingly</note>
+						<add place="above">bound for <placeName ref="#mlpla000182" cert="high"
+								>Greenland</placeName></add>; if he has any Place <lb/> that would
+						suit me (this <roleName type="captain">Captain</roleName> was a Person he
+						himself had been with at <placeName ref="#mlpla000182" cert="high"
+							>Greenland</placeName>, before he went to the <placeName
+							ref="#mlpla000167" cert="high">West Indies</placeName>). <note
+							type="catchword">Accordingly</note>
 					</p>
-					<p> <name type="event" ana="journey">Accordingly on his Recommendation the Captain took me as his <rs occupation="#mlocc000078" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">Steward</rs>
-<lb/>
-I went on Board, but all Things were very awkward, having never been
-<lb/>
-on Board of a Ship before &amp; I knew no more about my office than
-<lb/>
-a Child, but I soon got to understand, that the chief mate was in
-<lb/>
-that Office the Voyage before. So I made if my business to get acquaint-
-<lb/>
-ed with him <add place="above">and he</add> <del>with a bottle or 2 of Rum for he Loves Liquor then</del>
-<lb/>
-told me everything, what I should do &amp; what belonged to my office. Thus
-<lb/>
-I got into the Way pretty well. We sailed from the River <add place="above">the</add> latter end of
-<lb/>
-March, &amp; we were not long out at Sea, before I was sick &amp; confined so
-<lb/>
-for 15 Days. I thought many Times, if I was on Shore, they should be Sai-
-<lb/>
-lors who would for me, But when I got better, I came thro' pretty well,
-<lb/>
-as I had no ship's duty to do. It was a very cold uncomfortable voyage
-<lb/>
-for about 4 months we returned very unsuccessfull, having got no more
-<lb/>
-than one fish; I got from the Ship as soon I could, <name emotion="weary">weary</name> enough of my
-<lb/>
-first Voyage.</name></p>
-					<p> <name type="event" ana="arrival">A few weeks after by Accident I went to the <placeName ref="#mlpla000184" type="arrival" cert="high">East India House</placeName></name>
-						<lb/> &amp; met with a <roleName en="captain">Captain</roleName> who was <hi rend="strikethrough">a</hi> shipping people, I asked him if he <lb/>
+					<p>
+						<eventName type="journey">Accordingly on his Recommendation the Captain took
+							me as his <rs ref="#mlocc000078"
+								type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high"
+								>Steward</rs>
+							<lb/> I went on Board, but all Things were very awkward, having never
+							been <lb/> on Board of a Ship before &amp; I knew no more about my
+							office than <lb/> a Child, but I soon got to understand, that the chief
+							mate was in <lb/> that Office the Voyage before. So I made if my
+							business to get acquaint- <lb/> ed with him <add place="above">and
+								he</add>
+							<del>with a bottle or 2 of Rum for he Loves Liquor then</del>
+							<lb/> told me everything, what I should do &amp; what belonged to my
+							office. Thus <lb/> I got into the Way pretty well. We sailed from the
+							River <add place="above">the</add> latter end of <lb/> March, &amp; we
+							were not long out at Sea, before I was sick &amp; confined so <lb/> for
+							15 Days. I thought many Times, if I was on Shore, they should be Sai-
+							<lb/> lors who would for me, But when I got better, I came thro' pretty
+							well, <lb/> as I had no ship's duty to do. It was a very cold
+							uncomfortable voyage <lb/> for about 4 months we returned very
+							unsuccessfull, having got no more <lb/> than one fish; I got from the
+							Ship as soon I could, <name type="emotion" key="weary">weary</name>
+							enough of my <lb/> first Voyage.</eventName></p>
+					<p>
+						<eventName type="arrival">A few weeks after by Accident I went to the
+								<placeName ref="#mlpla000184" type="arrival" cert="high">East India
+								House</placeName></eventName>
+						<lb/> &amp; met with a <roleName type="captain">Captain</roleName> who was
+							<hi rend="strikethrough">a</hi> shipping people, I asked him if he <lb/>
 						wanted people? He said, he did &amp; gave me an Order to go on Board. I
 						<lb/> immediately went on board &amp; met with a Company of very wicked,
-						curs- <lb/> ing &amp; swearing <rs memoirSubject="no" ref="#mlocc000079" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">sailors</rs>. However we got ready &amp; put to Sea; A<name type="event" ana="journey">bout 2 months
-<lb/>
-after our Ship's company was seized by turns with a <name health="disease" type="fever">violent Feaver</name>. <name health="disease"><name health="disease">I</name></name>
-<lb/>
-<name health="disease">also fell sick</name> &amp; it brought me very near my Dissolution. While
-<lb/>
-we were so sick, we hung altogether by ourselves, It was one of the most
-<lb/>
-<name emotion="shocking">shocking</name> Times, I have had in all any Life, most of them died cursing
-<lb/>
-&amp; swearing, they all at one Time died, that were sick &amp; left me alone.
-<lb/>
-I prayed <name emotion="heartily">heartily</name> to our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>, that if He would spare me &amp; bring
-<lb/>
-me home again, I would be his &amp; live for him, But when I got better,
-<lb/>
-I soon forgot all his goodness &amp; went on a wicked Course with the Rest
-<lb/>
-of the Sailors, &amp; I some times swore. But amidst all, I had many Con-
-<lb/>
-victions, &amp; I often could not sleep, but <name type="emotion"><name emotion="wept">wept</name></name> in my Hammock on
-<lb/>
-account of the Course I had entered into. When we came to a Port there
-<lb/>
-was generally nothing seen but Wickedness. I remember very well some
-<lb/>
-times, that I was <name type="emotion"><name emotion="grieved">grieved</name></name> in myself, has I could not be so bold in
-<lb/>
-Wickedness, as the Rest of my company, &amp; when I thought, that I would
-<lb/>
-be so wicked as they, I generally had such Convictions, that I could not
-<lb/>
-do like them. We had a good Voyage but with Regard to Externals
-<lb/>
-we had it hard some times, &amp; were about 6 Months without Bread,
-<lb/>
-living on Rice.</name> On Account of the Length of the voyage we also </p>
+						curs- <lb/> ing &amp; swearing <rs ref="#mlocc000079"
+							type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high"
+							>sailors</rs>. However we got ready &amp; put to Sea; A<eventName
+							type="journey">bout 2 months <lb/> after our Ship's company was seized
+							by turns with a <name type="health" subtype="disease" key="fever"
+								>violent Feaver</name>. <name type="health" subtype="disease"
+								>I</name>
+							<lb/>
+							<name type="health" subtype="disease">also fell sick</name> &amp; it
+							brought me very near my Dissolution. While <lb/> we were so sick, we
+							hung altogether by ourselves, It was one of the most <lb/>
+							<name type="emotion" key="shocking">shocking</name> Times, I have had in
+							all any Life, most of them died cursing <lb/> &amp; swearing, they all
+							at one Time died, that were sick &amp; left me alone. <lb/> I prayed
+								<name type="emotion" key="heartily">heartily</name> to our <roleName
+								type="honorific">Sav<hi rend="superscript">r</hi></roleName>, that
+							if He would spare me &amp; bring <lb/> me home again, I would be his
+							&amp; live for him, But when I got better, <lb/> I soon forgot all his
+							goodness &amp; went on a wicked Course with the Rest <lb/> of the
+							Sailors, &amp; I some times swore. But amidst all, I had many Con- <lb/>
+							victions, &amp; I often could not sleep, but <name type="emotion"><name
+									type="emotion" key="wept">wept</name></name> in my Hammock on
+							<lb/> account of the Course I had entered into. When we came to a Port
+							there <lb/> was generally nothing seen but Wickedness. I remember very
+							well some <lb/> times, that I was <name type="emotion"><name
+									type="emotion" key="grieved">grieved</name></name> in myself,
+							has I could not be so bold in <lb/> Wickedness, as the Rest of my
+							company, &amp; when I thought, that I would <lb/> be so wicked as they,
+							I generally had such Convictions, that I could not <lb/> do like them.
+							We had a good Voyage but with Regard to Externals <lb/> we had it hard
+							some times, &amp; were about 6 Months without Bread, <lb/> living on
+							Rice.</eventName> On Account of the Length of the voyage we also </p>
 				</div>
 				<div type="page" n="3">
-					<pb n="3" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-03.jpg"/>
-					<p> were obliged to take in old Stores in the <placeName ref="#mlpla000185" cert="high">East Indies</placeName> which were
-
-						very bad &amp; <lb/> rusty thro &amp; thro. <name type="event" ana="arrival">But after 2 years &amp; 3 months we arrived at <placeName ref="#mlpla000186" type="arrival" cert="high">Spithead</placeName></name>; &amp; <lb/> there made
+					<pb n="3"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_42_DarnbrookJohn-03.jpg"/>
+					<p> were obliged to take in old Stores in the <placeName ref="#mlpla000185"
+							cert="high">East Indies</placeName> which were very bad &amp; <lb/>
+						rusty thro &amp; thro. <eventName type="arrival">But after 2 years &amp; 3
+							months we arrived at <placeName ref="#mlpla000186" type="arrival"
+								cert="high">Spithead</placeName></eventName>; &amp; <lb/> there made
 						myself sick to spare myself from the press . When the people were <lb/> all
-
 						pressed, I got on Shore and came by so force. I lived there with my Friends
 						<lb/> till the ship was paid off. &amp; then according to my Resolution of
 						going to Sea <lb/> no more, I began to look for a Place where I could earn
-						my Bread &amp; by <lb/> the Help of a Friend I got a good one in <placeName cert="high" ref="#mlpla000357">Cheapside</placeName>, where I lived <name emotion="very agreeably">very
-<lb/>
-agreeably</name> 6
-						months &amp; I found they had <name emotion="great confidence">great confidence</name> towards me.</p>
+						my Bread &amp; by <lb/> the Help of a Friend I got a good one in <placeName
+							cert="high" ref="#mlpla000357">Cheapside</placeName>, where I lived
+							<name type="emotion" key="very agreeably">very <lb/> agreeably</name> 6
+						months &amp; I found they had <name type="emotion" key="great confidence"
+							>great confidence</name> towards me.</p>
 					<p> But the ship beginning to be fitted out again, <del>where</del>
-						<add place="above">which</add> I had been with <lb/> before, it made me <name emotion="very unsettled">very unsettled</name> in my Mind &amp; I got a <name emotion="desire">desire</name> to go to
-<lb/>
-Sea again. But I
-						did not know, what Excuse to make, to get away <lb/> from the Place, as had
-						no fault to find with any thing I had Re- <lb/> course to Stratagem. I
-						ordered one of my companions, that he should come <lb/> dressed like an
-						officer of a Man of War, &amp; enquire for me, that it <lb/> might appear,
-						as if he had an Intention to press me. I ordered it so, <lb/> that he should
-						come at an exact Hour, in order that I might be out <lb/> of the Way.
-						Accordingly he came. As soon as he was gone, then my <lb/> Master called me
-						&amp; told me, that he was <name emotion="afraid">afraid</name>, the officer would re- <lb/> turn again. I
-						told him, I was under some <name emotion="apprehension">Apprehension</name> of being <lb/> pressed. He <name emotion="desired">desired</name> that I would get ready, &amp; should go away &amp; <lb/> not be pressed, if
-						possible. When he settled with me about my <lb/> Wages, he gave me 1/2 a
-						guinea more than was due to me. So I came <lb/>
-						<add place="margin">by which means I came</add> away with many <name emotion="good wishes">good Wishes</name>.
-						Yet I was condemned <lb/> for acting so unuprightly, besides that I had left
-						my Place &amp; did <lb/> not know, whether I could get voyage or not to the
-							<placeName ref="#mlpla000185" cert="high">East Indies</placeName>, <lb/> I
-						went to the <placeName ref="#mlpla000184" cert="high">India House</placeName> &amp; spoke
-						to <roleName en="captain">Captain</roleName>
-						<persName>Wilson</persName>, with whom <lb/> had been before, &amp; <name emotion="desired">desired</name> him to recommend me as <rs ref="#mlocc000080" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">Mid-shipman</rs>
-						<lb/> to <roleName en="captain">Captain</roleName>
-						<persName>Jackson</persName>, that was to succeed him. He was <name emotion="very friendly">very friendly</name>
+						<add place="above">which</add> I had been with <lb/> before, it made me
+							<name type="emotion" key="very unsettled">very unsettled</name> in my
+						Mind &amp; I got a <name type="emotion" key="desire">desire</name> to go to
+						<lb/> Sea again. But I did not know, what Excuse to make, to get away <lb/>
+						from the Place, as had no fault to find with any thing I had Re- <lb/>
+						course to Stratagem. I ordered one of my companions, that he should come
+						<lb/> dressed like an officer of a Man of War, &amp; enquire for me, that it
+						<lb/> might appear, as if he had an Intention to press me. I ordered it so,
+						<lb/> that he should come at an exact Hour, in order that I might be out
+						<lb/> of the Way. Accordingly he came. As soon as he was gone, then my <lb/>
+						Master called me &amp; told me, that he was <name type="emotion"
+							key="afraid">afraid</name>, the officer would re- <lb/> turn again. I
+						told him, I was under some <name type="emotion" key="apprehension"
+							>Apprehension</name> of being <lb/> pressed. He <name type="emotion"
+							key="desired">desired</name> that I would get ready, &amp; should go
+						away &amp; <lb/> not be pressed, if possible. When he settled with me about
+						my <lb/> Wages, he gave me 1/2 a guinea more than was due to me. So I came <lb/>
+						<add place="margin">by which means I came</add> away with many <name
+							type="emotion" key="good wishes">good Wishes</name>. Yet I was condemned
+						<lb/> for acting so unuprightly, besides that I had left my Place &amp; did
+						<lb/> not know, whether I could get voyage or not to the <placeName
+							ref="#mlpla000185" cert="high">East Indies</placeName>, <lb/> I went to
+						the <placeName ref="#mlpla000184" cert="high">India House</placeName> &amp;
+						spoke to <roleName type="captain">Captain</roleName>
+						<persName>Wilson</persName>, with whom <lb/> had been before, &amp; <name
+							type="emotion" key="desired">desired</name> him to recommend me as <rs
+							ref="#mlocc000080" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation"
+							cert="high">Mid-shipman</rs>
+						<lb/> to <roleName type="captain">Captain</roleName>
+						<persName>Jackson</persName>, that was to succeed him. He was <name
+							type="emotion" key="very friendly">very friendly</name>
 						<lb/>and promised that he would do it. &amp; he was as good as his Words.
 						<lb/> I then began to get ready suitable for that Station, as well as I
 						<lb/> could. And when I had got my Necessaries I had not much Money <lb/> to
-						spare, to trade with. A <name emotion="gentle">gentle</name> Woman, that wanted some Things <lb/> from the
-							<placeName ref="#mlpla000185" cert="high">East Indies</placeName>, advanced me
-						6 Guineas in hand, which I <lb/> laid out in such Merchandises, as I
-						thought, would suit the best <lb/> in <placeName ref="#mlpla000187" cert="high">India</placeName>. He soon got ready <name type="event" ana="arrival">I had a very prosperous voyage
-<lb/>
-from <placeName ref="#mlpla000072" type="departure" cert="high">England</placeName> to <placeName ref="#mlpla000358" type="arrival" cert="high">Madras</placeName> in 4 Months</name>, where I disposed of my <lb/> Effects to
-						good Advantage., I then bought such Commodities, which <lb/> I thought would
-						suit for <placeName ref="#mlpla000189" cert="high">China</placeName> which likewise turned out to <note type="catchword">good</note>
+						spare, to trade with. A <name type="emotion" key="gentle">gentle</name>
+						Woman, that wanted some Things <lb/> from the <placeName ref="#mlpla000185"
+							cert="high">East Indies</placeName>, advanced me 6 Guineas in hand,
+						which I <lb/> laid out in such Merchandises, as I thought, would suit the
+						best <lb/> in <placeName ref="#mlpla000187" cert="high">India</placeName>.
+						He soon got ready <eventName type="arrival">I had a very prosperous voyage
+							<lb/> from <placeName ref="#mlpla000072" type="departure" cert="high"
+								>England</placeName> to <placeName ref="#mlpla000358" type="arrival"
+								cert="high">Madras</placeName> in 4 Months</eventName>, where I
+						disposed of my <lb/> Effects to good Advantage., I then bought such
+						Commodities, which <lb/> I thought would suit for <placeName
+							ref="#mlpla000189" cert="high">China</placeName> which likewise turned
+						out to <note type="catchword">good</note>
 					</p>
-					<p> good Advantage &amp; what Money I had, I laid out in China-goods &amp; <lb/>brought them home, <name type="event" ana="arrival">After 18 months we arrived again at <placeName ref="#mlpla000190" cert="high">Plymouth</placeName></name>
-						<lb/> where I escaped the pressing &amp; came by Land to <placeName ref="#mlpla000054" cert="high">London</placeName> (when the <lb/> ship has round to London Spaind, I
-						found that I had 10 pounds to receive for Goods <lb/> that a Person had
-						disposed of in the Passage. I afterwards went on <lb/> Board from Day to day
-						&amp; some Times sold from Board &amp; brought on <lb/> shore till got off
-						all my effects. I found myself worth a consider- <lb/> able Sum of Money.
-						That made me think of no other way of life, than <lb/> Seafaring Life
-							<del>as I had such a good success prtazpreeadee, etenne, an aypraan
-							<lb/> to gave amndin and of urantiraf its Shad subled</del> After I had
-						settled all my Affairs with the <lb/> Ship for that Voyage, <name type="event" ana="arrival">I paid a Visit to <placeName ref="#mlpla000084" cert="high">Yorkshire</placeName></name>, to see my Mother <lb/> where <name type="event" ana="arrival">I went on Sunday to <placeName ref="#mlpla000003" cert="high">Fulneck</placeName></name>, &amp; was <name emotion="so laid hold of">so laid hold of</name> in the Preach-
-<lb/>
-ing, that I had <name emotion="gladly">gladly</name> staid, if I had known, how I should got my Living.
-						<lb/> <name type="event" ana="arrival">In about 5 Weeks I returned to <placeName ref="#mlpla000054" cert="high">London</placeName></name>, where I went to see about the <lb/> Ship, &amp;
-						found, it would be some Months, before she would be fitteded out <lb/>
-						again. I waited the Time, but then some <name emotion="objections">Objections</name> arose between <lb/> the
-							<roleName en="captain">Captain</roleName> &amp; me, &amp; I resolved
-						positively, that I would go to Sea no more <lb/> I acquainted my Friends
-						with my Resolution &amp; advised with them, what <lb/> I should take to? I
-						had then spent all my Money. They agreed to advance <lb/> me 30 pounds, that
-						I could procure me a little Shop, for which I had to <lb/> give then Bond
-						&amp; Judgment. We soon met with a little Shop, in which <lb/> I entered.
-						Soon afterwards I was arrested by a person, that I owed <lb/> 40 shillings
-						to, &amp; went to the <placeName>Sponging House</placeName>, where I wrote a
-						Letter to <lb/> my Friend &amp; told him any Circumstances. He went directly
-						&amp; put <lb/> the Bond &amp; Judgment in Force, &amp; took all I had &amp;
-						came to me next <lb/> Morning &amp; paid the Money, for which I was
-						arrested, &amp; set me at <lb/> Liberty. I had now no home, but went some
-						Times to one Friend's <lb/> House, &amp; some times to another, where I had
-						been formerly acquainted. <lb/> But this I could not do very long, &amp; it
-						came so far, that I <name emotion="suffered">suffered</name>                                till to the Bareness of Life. One Day I
-						met in the street one of <lb/> the Family, that I had the Money from, he
-						invited me to go to their <lb/> House, &amp; they were <name emotion="hearty">hearty</name> &amp; <name emotion="friendly">friendly</name> with me, &amp; seemed to <name emotion="pity">pity</name> my
-<lb/>
-Circumstances, I served in their Shop
-						a few Weeks, &amp; then they <lb/> hired me as a yearly <rs ref="mlocc000081" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">Servant</rs>. I lived there <name emotion="very agreeably">very agreeably</name>, &amp;
-						some <lb/> years ago, they did write to me to <placeName ref="#mlpla000003" cert="high">Fulneck</placeName>, that I should come <add place="above">again</add>
+					<p> good Advantage &amp; what Money I had, I laid out in China-goods &amp;
+						<lb/>brought them home, <eventName type="arrival">After 18 months we arrived
+							again at <placeName ref="#mlpla000190" cert="high"
+							>Plymouth</placeName></eventName>
+						<lb/> where I escaped the pressing &amp; came by Land to <placeName
+							ref="#mlpla000054" cert="high">London</placeName> (when the <lb/> ship
+						has round to London Spaind, I found that I had 10 pounds to receive for
+						Goods <lb/> that a Person had disposed of in the Passage. I afterwards went
+						on <lb/> Board from Day to day &amp; some Times sold from Board &amp;
+						brought on <lb/> shore till got off all my effects. I found myself worth a
+						consider- <lb/> able Sum of Money. That made me think of no other way of
+						life, than <lb/> Seafaring Life <del>as I had such a good success
+							prtazpreeadee, etenne, an aypraan <lb/> to gave amndin and of urantiraf
+							its Shad subled</del> After I had settled all my Affairs with the <lb/>
+						Ship for that Voyage, <eventName type="arrival">I paid a Visit to <placeName
+								ref="#mlpla000084" cert="high">Yorkshire</placeName></eventName>, to
+						see my Mother <lb/> where <eventName type="arrival">I went on Sunday to
+								<placeName ref="#mlpla000003" cert="high"
+							>Fulneck</placeName></eventName>, &amp; was <name type="emotion"
+							key="so laid hold of">so laid hold of</name> in the Preach- <lb/> ing,
+						that I had <name type="emotion" key="gladly">gladly</name> staid, if I had
+						known, how I should got my Living. <lb/>
+						<eventName type="arrival">In about 5 Weeks I returned to <placeName
+								ref="#mlpla000054" cert="high">London</placeName></eventName>, where
+						I went to see about the <lb/> Ship, &amp; found, it would be some Months,
+						before she would be fitteded out <lb/> again. I waited the Time, but then
+						some <name type="emotion" key="objections">Objections</name> arose between
+						<lb/> the <roleName type="captain">Captain</roleName> &amp; me, &amp; I
+						resolved positively, that I would go to Sea no more <lb/> I acquainted my
+						Friends with my Resolution &amp; advised with them, what <lb/> I should take
+						to? I had then spent all my Money. They agreed to advance <lb/> me 30
+						pounds, that I could procure me a little Shop, for which I had to <lb/> give
+						then Bond &amp; Judgment. We soon met with a little Shop, in which <lb/> I
+						entered. Soon afterwards I was arrested by a person, that I owed <lb/> 40
+						shillings to, &amp; went to the <placeName>Sponging House</placeName>, where
+						I wrote a Letter to <lb/> my Friend &amp; told him any Circumstances. He
+						went directly &amp; put <lb/> the Bond &amp; Judgment in Force, &amp; took
+						all I had &amp; came to me next <lb/> Morning &amp; paid the Money, for
+						which I was arrested, &amp; set me at <lb/> Liberty. I had now no home, but
+						went some Times to one Friend's <lb/> House, &amp; some times to another,
+						where I had been formerly acquainted. <lb/> But this I could not do very
+						long, &amp; it came so far, that I <name type="emotion" key="suffered"
+							>suffered</name>                                till to the Bareness of
+						Life. One Day I met in the street one of <lb/> the Family, that I had the
+						Money from, he invited me to go to their <lb/> House, &amp; they were <name
+							type="emotion" key="hearty">hearty</name> &amp; <name type="emotion"
+							key="friendly">friendly</name> with me, &amp; seemed to <name
+							type="emotion" key="pity">pity</name> my <lb/> Circumstances, I served
+						in their Shop a few Weeks, &amp; then they <lb/> hired me as a yearly <rs
+							ref="mlocc000081" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation"
+							cert="high">Servant</rs>. I lived there <name type="emotion"
+							key="very agreeably">very agreeably</name>, &amp; some <lb/> years ago,
+						they did write to me to <placeName ref="#mlpla000003" cert="high"
+							>Fulneck</placeName>, that I should come <add place="above">again</add>
 						&amp; live <lb/> with them. After some Time I called at a
 							<placeName>Barber's Shop</placeName> to get <lb/> shaved pretty late in
 						the Evening; while I sat there, I thought I </p>
 				</div>
 				<div type="page" n="4">
-					<pb n="4" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-04.jpg"/>
-					<p> was going to die. I got up &amp; said, I was very bad; but no Body gave me any Answer.
-						<lb/> I stood at the Door, till some Body, who was before me, was shaved;
-						then I got in &amp; <lb/> was shaved, I went home <name emotion="very heavy">very heavy</name> &amp; told our
-						people, <name health="disease">I was not well</name>. <lb/> They advised me
-						to get some Supper, which might help me, I went to <lb/> Bed &amp; in the
-						Morning still found myself the same. I begun to re- <lb/> flect on my
-						present State, for I had not minded Religion for a long <lb/> Time; I
+					<pb n="4"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_42_DarnbrookJohn-04.jpg"/>
+					<p> was going to die. I got up &amp; said, I was very bad; but no Body gave me
+						any Answer. <lb/> I stood at the Door, till some Body, who was before me,
+						was shaved; then I got in &amp; <lb/> was shaved, I went home <name
+							type="emotion" key="very heavy">very heavy</name> &amp; told our people,
+							<name type="health" subtype="disease">I was not well</name>. <lb/> They
+						advised me to get some Supper, which might help me, I went to <lb/> Bed
+						&amp; in the Morning still found myself the same. I begun to re- <lb/> flect
+						on my present State, for I had not minded Religion for a long <lb/> Time; I
 						thought, it was a Punishment from <persName type="deity">God</persName> for
 						my bad Course. <lb/> Accordingly to make Amends, I thought, I would go once
 						on Sunday <lb/> to some Place of Worship; but the other Part of the Sunday I
-						would <lb/> walk about and fake my <name emotion="pleasure">Pleasure</name>, as I had done before, I went on so
-						<lb/> for some Time, but it did not help me. Then I thought, I would go
-						<lb/> both the Forenoon &amp; Aftemoon to Worship, yet still I found no <name emotion="ease">Ease</name>. <lb/> I begun to be <name emotion="so terrified">so terrified</name>, that I thought, I should b``e in
-							<placeName type="biblical">Hell</placeName> every <lb/> Moment. When had
-						a Pen in my Hand to write a Bill of Parcel, <lb/> I flung it away when I had
-						done with it, &amp; thought, I should be in <lb/>
+						would <lb/> walk about and fake my <name type="emotion" key="pleasure"
+							>Pleasure</name>, as I had done before, I went on so <lb/> for some
+						Time, but it did not help me. Then I thought, I would go <lb/> both the
+						Forenoon &amp; Aftemoon to Worship, yet still I found no <name
+							type="emotion" key="ease">Ease</name>. <lb/> I begun to be <name
+							type="emotion" key="so terrified">so terrified</name>, that I thought, I
+						should b``e in <placeName type="biblical">Hell</placeName> every <lb/>
+						Moment. When had a Pen in my Hand to write a Bill of Parcel, <lb/> I flung
+						it away when I had done with it, &amp; thought, I should be in <lb/>
 						<placeName type="biblical">Hell</placeName>, before I should want it any
 						more. When I went out, I often <lb/> thought, I should drop down dead in the
 						Street. It came so far, that <lb/> my Appetite left me &amp; I could get no
-						Sleep, I used to awake in
-<lb/>
-<name emotion="frights">Frights</name> &amp; get up. I read some Times in
-						the <name type="religion">Bible</name>, but I thought <lb/> every Word
-						seemed a Sentence against me; I thought, I had sinned <lb/> against the
-							<roleName type="honorific">holy Ghost</roleName>; therefore I had
-						nothing to expect but <placeName type="biblical">Hell</placeName>
-						<lb/> &amp; Judgment. I was in that <name emotion="distress">Distress</name> in more than 2 Months. One
-						<lb/> Sunday I went to <placeName ref="#mlpla000004" cert="high">Fetterlane
-							Chappel</placeName>. When I heard  some Courses of <lb/> Lives similar
-						to my own, it gave me <name emotion="great hopes">great Hopes</name>, when I heard <lb/> how they were redeemed
-						by the Blood &amp; Wounds of <persName type="deity">Jesus</persName>, I went
-						<lb/> Home full of <name emotion="hope">Hope</name>, that I should soon be released. Next Day in <lb/>
-						the Forenoon, when I was going thro a narrow Passage near <lb/>
+						Sleep, I used to awake in <lb/>
+						<name type="emotion" key="frights">Frights</name> &amp; get up. I read some
+						Times in the Bible, but I thought <lb/> every Word seemed a Sentence against
+						me; I thought, I had sinned <lb/> against the <roleName type="honorific"
+							>holy Ghost</roleName>; therefore I had nothing to expect but <placeName
+							type="biblical">Hell</placeName>
+						<lb/> &amp; Judgment. I was in that <name type="emotion" key="distress"
+							>Distress</name> in more than 2 Months. One <lb/> Sunday I went to
+							<placeName ref="#mlpla000004" cert="high">Fetterlane
+						Chappel</placeName>. When I heard some Courses of <lb/> Lives similar to my
+						own, it gave me <name type="emotion" key="great hopes">great Hopes</name>,
+						when I heard <lb/> how they were redeemed by the Blood &amp; Wounds of
+							<persName type="deity">Jesus</persName>, I went <lb/> Home full of <name
+							type="emotion" key="hope">Hope</name>, that I should soon be released.
+						Next Day in <lb/> the Forenoon, when I was going thro a narrow Passage near <lb/>
 						<placeName cert="high">Spitalfields Church</placeName>, it came into my
-						Mind, that there was <name emotion="mercy">Mercy</name> <lb/> in <persName type="deity">Jesus</persName>
-						for every believing Soul. In that Moment I believed, &amp; <lb/> the <name emotion="love">Love</name> of <persName type="deity">God</persName> was <add place="above">shed</add> <del>spread</del> abroad in my Heart. <name type="event" ana="spiritual">I saw <persName type="deity">Jesus</persName> in
-<lb/>
-his crucified form quite clear, who had redeemed me from all my
-<lb/>
-Sins.</name> I dont know, how I afterwards got home,
-						Every Body was <name emotion="dear">dear</name> <lb/> to me I <name emotion="loved">loved</name> every one, I would <name emotion="gladly">gladly</name> have imparted unto them
-<lb/>
-of what I <name emotion="enjoyed">enjoyed</name>. I went on in that <name emotion="enjoyment">Enjoyment</name> for
+						Mind, that there was <name type="emotion" key="mercy">Mercy</name>
+						<lb/> in <persName type="deity">Jesus</persName> for every believing Soul.
+						In that Moment I believed, &amp; <lb/> the <name type="emotion" key="love"
+							>Love</name> of <persName type="deity">God</persName> was <add
+							place="above">shed</add>
+						<del>spread</del> abroad in my Heart. <eventName type="spiritual">I saw
+								<persName type="deity">Jesus</persName> in <lb/> his crucified form
+							quite clear, who had redeemed me from all my <lb/> Sins.</eventName> I
+						dont know, how I afterwards got home, Every Body was <name type="emotion"
+							key="dear">dear</name>
+						<lb/> to me I <name type="emotion" key="loved">loved</name> every one, I
+						would <name type="emotion" key="gladly">gladly</name> have imparted unto
+						them <lb/> of what I <name type="emotion" key="enjoyed">enjoyed</name>. I
+						went on in that <name type="emotion" key="enjoyment">Enjoyment</name> for
 						some Time &amp; <lb/> thought, since I was come to the knowledge of our
 							<roleName type="honorific">Sav<hi rend="superscript">r,</hi></roleName>
 						that I <lb/> should no more feel the Depravity of my own sinfull Nature, But
-						<lb/> I found my sinfull Nature still, &amp; was obliged to apply to our
-<lb/>
-<roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> for his <name emotion="grace">Grace</name> to preserve me, which he did from time to time <note type="catchword">I began</note>
+						<lb/> I found my sinfull Nature still, &amp; was obliged to apply to our <lb/>
+						<roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> for
+						his <name type="emotion" key="grace">Grace</name> to preserve me, which he
+						did from time to time <note type="catchword">I began</note>
 					</p>
-					<p> I began to have a <name emotion="longing">longing</name> <name emotion="desire">desire</name>, to become acquainted with <lb/> the <orgName>B<hi rend="superscript">rn</hi></orgName>, as I believed, they were the
-						only people, which I belonged to. <lb/> Accordingly I began to go frequently
-						on Sundays to <placeName ref="mlpla000004" cert="high">Fetterlane</placeName>. I went <lb/> so
-						long, till <roleName type="honorific">B<hi rend="superscript">r</hi></roleName>
+					<p> I began to have a <name type="emotion" key="longing">longing</name>
+						<name type="emotion" key="desire">desire</name>, to become acquainted with
+						<lb/> the <orgName>B<hi rend="superscript">rn</hi></orgName>, as I believed,
+						they were the only people, which I belonged to. <lb/> Accordingly I began to
+						go frequently on Sundays to <placeName ref="mlpla000004" cert="high"
+							>Fetterlane</placeName>. I went <lb/> so long, till <roleName
+							type="honorific">B<hi rend="superscript">r</hi></roleName>
 						<persName>Brodersen</persName> took Notice of me in the Preaching &amp; made
-						<lb/> it out with one of the S. <roleName type="honorific">B<hi rend="superscript">rn</hi></roleName>, that he should speak with me
+						<lb/> it out with one of the S. <roleName type="honorific">B<hi
+								rend="superscript">rn</hi></roleName>, that he should speak with me
 						at <lb/> the first Opportunity. Accordingly he bid me a good Day after the
 						<lb/> Preaching &amp; asked me, where I was agoing? I told him I was agoing
-						<lb/> towards <placeName ref="#mlpla000192" cert="high">Bishopsgate Street</placeName>. He said he
-						was agoing that Way too <lb/> &amp; <name emotion="desired">desired</name> my Company. He said, he had
+						<lb/> towards <placeName ref="#mlpla000192" cert="high">Bishopsgate
+							Street</placeName>. He said he was agoing that Way too <lb/> &amp; <name
+							type="emotion" key="desired">desired</name> my Company. He said, he had
 						observed, that I frequented <lb/> their Preachings for some Time, &amp;
-						inquired, if I knew any thing about <lb/> the <orgName>B<hi rend="superscript">rn</hi></orgName> &amp; I told him, yes. I knew
-						the <orgName>B<hi rend="superscript">rn</hi></orgName> in <placeName ref="mlpla000003" cert="high">Fulneck</placeName> &amp; I knew <roleName type="honorific">Br</roleName>
+						inquired, if I knew any thing about <lb/> the <orgName>B<hi
+								rend="superscript">rn</hi></orgName> &amp; I told him, yes. I knew
+						the <orgName>B<hi rend="superscript">rn</hi></orgName> in <placeName
+							ref="mlpla000003" cert="high">Fulneck</placeName> &amp; I knew <roleName
+							type="honorific">Br</roleName>
 						<lb/>
 						<persName>Brodersen</persName> too, &amp; had spoken with him formerly. I
 						told him, I had often <lb/> fixed a Day, that I would go &amp; speak with
 						him again. He asked, if I <lb/> should rule to speak with him, &amp; if it
 						would suit me that time, if <lb/> I had an Opportunity for it? I answered:
-						yes, I had no <name emotion="objection">objection</name> to it <lb/> So we turned back both together &amp;
-						went to Roll's Buildings. As soon <lb/> as we got into the House, we met
-							<roleName type="honorific">B<hi rend="superscript">r</hi></roleName>
+						yes, I had no <name type="emotion" key="objection">objection</name> to it
+						<lb/> So we turned back both together &amp; went to Roll's Buildings. As
+						soon <lb/> as we got into the House, we met <roleName type="honorific">B<hi
+								rend="superscript">r</hi></roleName>
 						<persName>Brodersen</persName> in the Passage, &amp; <lb/> he took me into
 						his Room &amp; we had some pretty Conversation together. <lb/> The Choir
 						Liturgy was going to begin, &amp; he gave one Leave to be at <lb/> it. I was
-						<name emotion="so melted">so melted</name>, that I <name emotion="wept">wept</name> all the Time, often spending some <lb/> part of the
-						Evening with the S. <orgName>B<hi rend="superscript">rn</hi></orgName>. I
-						returned home <name emotion="very thankful">very thank-
-<lb/>
-full</name> for the <name emotion="kind">kind</name> Reception, that I met
-						with. From that Time, I went <lb/> every Sunday to the S
-							<orgName>Brn</orgName>, which was the chief Opportunity that I had.
-						<lb/> Some Time after I petitioned for <name type="event" ana="reception" when-iso="1766-01-13">Reception into the <orgName>Cong<hi rend="superscript">n</hi></orgName></name>, which <lb/> <name emotion="blessing">Blessing</name> was granted me <date when-iso="1766-01-13">January the 13<hi rend="superscript">th</hi>
-							1766</date> I entered into <lb/> a Covenant that time with our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> to be his
-						for ever I spent my <lb/> time for the most part in a <name emotion="very happy">very happy</name> Track of <name emotion="grace">Grace</name>, considering <lb/> my Situation, wherein I was, &amp; <name type="event" ana="spiritual">I had many near Visits of our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>,
-<lb/>
-which made my Time <name emotion="very pleasant">very pleasant</name>.</name> Tho' I felt naturally my de-
-<lb/>
-praved human Nature, but I applied to him &amp; got
-						preserved. When <lb/>
+							<name type="emotion" key="so melted">so melted</name>, that I <name
+							type="emotion" key="wept">wept</name> all the Time, often spending some
+						<lb/> part of the Evening with the S. <orgName>B<hi rend="superscript"
+								>rn</hi></orgName>. I returned home <name type="emotion"
+							key="very thankful">very thank- <lb/> full</name> for the <name
+							type="emotion" key="kind">kind</name> Reception, that I met with. From
+						that Time, I went <lb/> every Sunday to the S <orgName>Brn</orgName>, which
+						was the chief Opportunity that I had. <lb/> Some Time after I petitioned for
+							<eventName type="reception" when-iso="1766-01-13">Reception into the
+									<orgName>Cong<hi rend="superscript"
+						>n</hi></orgName></eventName>, which <lb/>
+						<name type="emotion" key="blessing">Blessing</name> was granted me <date
+							when-iso="1766-01-13">January the 13<hi rend="superscript">th</hi>
+							1766</date> I entered into <lb/> a Covenant that time with our <roleName
+							type="honorific">Sav<hi rend="superscript">r</hi></roleName> to be his
+						for ever I spent my <lb/> time for the most part in a <name type="emotion"
+							key="very happy">very happy</name> Track of <name type="emotion"
+							key="grace">Grace</name>, considering <lb/> my Situation, wherein I was,
+						&amp; <eventName type="spiritual">I had many near Visits of our <roleName
+								type="honorific">Sav<hi rend="superscript">r</hi></roleName>, <lb/>
+							which made my Time <name type="emotion" key="very pleasant">very
+								pleasant</name>.</eventName> Tho' I felt naturally my de- <lb/>
+						praved human Nature, but I applied to him &amp; got preserved. When <lb/>
 						<roleName type="honorific">B<hi rend="superscript">r</hi></roleName>.
-							<persName>Abraham</persName> returned from the <name type="event" ana="synod">Provincial Synod</name> at <placeName ref="#mlpla000003" cert="high">Fulneck</placeName>, he <lb/> acquainted me that they had made it out
-						in a Conference that if I did <lb/> accept of it, I should go to <placeName ref="#mlpla000003">Fulneck</placeName> &amp; be employed in the
-								<placeName>Con<hi rend="superscript">g</hi> Shop</placeName>
+							<persName>Abraham</persName> returned from the <eventName type="synod"
+							>Provincial Synod</eventName> at <placeName ref="#mlpla000003"
+							cert="high">Fulneck</placeName>, he <lb/> acquainted me that they had
+						made it out in a Conference that if I did <lb/> accept of it, I should go to
+							<placeName ref="#mlpla000003">Fulneck</placeName> &amp; be employed in
+						the <placeName>Con<hi rend="superscript">g</hi> Shop</placeName>
 						<lb/> I told him I had no Choice in it , I would go anywhere. Accordingly,
-						as <lb/> soon as I could make things suitable, I left my place &amp; <name type="event" ana="arrival">set out from
-<lb/>
-<placeName ref="#mlpla000054" type="departure" cert="high">London</placeName> Feb<hi rend="superscript">r</hi> the 17<hi rend="superscript">th</hi> 1764 &amp; arrived at Fulneck the 22<hi rend="superscript">nd</hi> of the same month</name>
-						<lb/> to <name type="emotion">my <name emotion="great joy">great Joy</name></name>.</p>
-					<p>Thus far his own Words. <lb/> By dictating his Course of life, he <add place="above">often</add> said, I thought there was some </p>
+						as <lb/> soon as I could make things suitable, I left my place &amp;
+							<eventName type="arrival">set out from <lb/>
+							<placeName ref="#mlpla000054" type="departure" cert="high"
+								>London</placeName> Feb<hi rend="superscript">r</hi> the 17<hi
+								rend="superscript">th</hi> 1764 &amp; arrived at Fulneck the 22<hi
+								rend="superscript">nd</hi> of the same month</eventName>
+						<lb/> to <name type="emotion">my <name type="emotion" key="great joy">great
+								Joy</name></name>.</p>
+					<p>Thus far his own Words. <lb/> By dictating his Course of life, he <add
+							place="above">often</add> said, I thought there was some </p>
 				</div>
 				<div type="page" n="5">
-					<pb n="5" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_42_DarnbrookJohn-05.jpg"/>
-					<p> Thing in the World, which I must experience, but I found, there was nothing <lb/> but
-						fantom, Now often have I thought of <placeName ref="mlpla000003" cert="high">Fulneck</placeName> &amp; <name emotion="wished">wished</name> me to be <lb/> there, when I was <name emotion="uneasy">uneasy</name>, which was very often.</p>
+					<pb n="5"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_42_DarnbrookJohn-05.jpg"/>
+					<p> Thing in the World, which I must experience, but I found, there was nothing
+						<lb/> but fantom, Now often have I thought of <placeName ref="mlpla000003"
+							cert="high">Fulneck</placeName> &amp; <name type="emotion" key="wished"
+							>wished</name> me to be <lb/> there, when I was <name type="emotion"
+							key="uneasy">uneasy</name>, which was very often.</p>
 					<p>
 						<!-- This is where the voice changes from John Darnbrook to the person writing the memoir -->
 						<lb/> His Course here was solid, he served faithfully in the Shop &amp;
-						<lb/> was legitimated among <orgName>B<hi rend="superscript">rn</hi></orgName> &amp; Strangers. His Connexion &amp; Converse <lb/>
-						with our dear <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> was real, but in Stilness. He was admitted here <lb/>
-						to the <name type="event" ana="communion" when-iso="1767-05-23">holy Sacrament</name>
+						<lb/> was legitimated among <orgName>B<hi rend="superscript"
+							>rn</hi></orgName> &amp; Strangers. His Connexion &amp; Converse <lb/>
+						with our dear <roleName type="honorific">Sav<hi rend="superscript"
+							>r</hi></roleName> was real, but in Stilness. He was admitted here <lb/>
+						to the <eventName type="communion" when-iso="1767-05-23">holy
+							Sacrament</eventName>
 						<date when-iso="1767-05-23">May the 23<hi rend="superscript">d</hi>
-							1767</date>, which was a <name emotion="real grace">real Grace</name> to
-<lb/>
-Him. &amp; as often as he
-						fed afterwards with the <orgName>Cong<hi rend="superscript">n</hi></orgName>
-						on the Body &amp; <lb/> Blood of <persName type="deity">Jesus</persName> in
-						the <name type="event" ana="communion">holy Sacrament</name>, he <name emotion="enjoyed">enjoyed</name> it as a poor Sinner <lb/> who thought himself very unworthy of this <name emotion="great grace">great Grace</name>, but felt at
-<lb/>
-the same time that he stood very much in Need of it, &amp; that he
-						could <lb/> not do without. And so, he always got new Strength &amp; Life
-						out of the <lb/> Wounds of <persName type="deity">Jesus</persName>. When he
-						was spoken with previous to the <name type="event" ana="communion">holy Sa- <lb/>
-							crament</name> he was not of many Words, but one perceived clearly, that
-						his <lb/> Heart did live in the <name emotion="sufferings">Sufterings</name> of <persName type="deity">Jesus</persName>. All the Meetings he <name emotion="enjoyed">en-
-<lb/>
-joyed</name> both in the
-								<orgName>Cong<hi rend="superscript">n</hi></orgName> &amp; his
-							<orgName>Choir</orgName> proved a <name emotion="blessing">Blessing</name> to him; the <lb/> Doctrinal
-						Day we had last Novemb<hi rend="superscript">r</hi>, was <name emotion="very blessed">very blessed</name> to him
-						&amp; he <lb/> afterwards told, that he <name emotion="enjoyed">enjoyed</name> a particular Nearness of our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> at <lb/> the <name type="event" ana="religious">Cup of Covenant</name>. <date when-iso="1769">Last Year</date> he was made and a Candidate for <lb/>
-						the <placeName ref="mlpla000185" cert="high">East Indies</placeName>, which he
-						accepted of: for he was very willing to serve <lb/> our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>,
-						wheresoever his Service should require it, tho' on Account of <lb/> his
-						weakly Constitution he had but <name emotion="little hopes">little Hopes</name> to be of any Use in the <lb/> Service of our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> among the Heathen. That time he
-						came among the <lb/> Intercessors, which was <name emotion="very weighty">very weighty</name> to him. But our
-							<roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>,
-						who was <lb/> <name emotion="pleased">pleased</name> with his Willingness to serve him, had other thoughts
-						about him, <lb/>
-						<name health="disease">He grew weaker from time to time</name>, &amp; <date when-iso="1769-12">in the Beginning of Decemb<hi rend="superscript">r</hi></date> he <lb/> was obliged to move into the <placeName>Sick
-							Room</placeName>. First we did not think, that <lb/> he would go home of
-						this Opportunity, but he soon thought so &amp; <name type="event" ana="spiritual">was quite
-<lb/>
-set upon going home</name>. Here he had a sabbatical time in the Nearness &amp; <lb/>
-						converse with our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>
+							1767</date>, which was a <name type="emotion" key="real grace">real
+							Grace</name> to <lb/> Him. &amp; as often as he fed afterwards with the
+								<orgName>Cong<hi rend="superscript">n</hi></orgName> on the Body
+						&amp; <lb/> Blood of <persName type="deity">Jesus</persName> in the
+							<eventName type="communion">holy Sacrament</eventName>, he <name
+							type="emotion" key="enjoyed">enjoyed</name> it as a poor Sinner <lb/>
+						who thought himself very unworthy of this <name type="emotion"
+							key="great grace">great Grace</name>, but felt at <lb/> the same time
+						that he stood very much in Need of it, &amp; that he could <lb/> not do
+						without. And so, he always got new Strength &amp; Life out of the <lb/>
+						Wounds of <persName type="deity">Jesus</persName>. When he was spoken with
+						previous to the <eventName type="communion">holy Sa- <lb/>
+							crament</eventName> he was not of many Words, but one perceived clearly,
+						that his <lb/> Heart did live in the <name type="emotion" key="sufferings"
+							>Sufterings</name> of <persName type="deity">Jesus</persName>. All the
+						Meetings he <name type="emotion" key="enjoyed">en- <lb/> joyed</name> both
+						in the <orgName>Cong<hi rend="superscript">n</hi></orgName> &amp; his
+							<orgName>Choir</orgName> proved a <name type="emotion" key="blessing"
+							>Blessing</name> to him; the <lb/> Doctrinal Day we had last Novemb<hi
+							rend="superscript">r</hi>, was <name type="emotion" key="very blessed"
+							>very blessed</name> to him &amp; he <lb/> afterwards told, that he
+							<name type="emotion" key="enjoyed">enjoyed</name> a particular Nearness
+						of our <roleName type="honorific">Sav<hi rend="superscript"
+							>r</hi></roleName> at <lb/> the <eventName type="communion">Cup of
+							Covenant</eventName>. <date when-iso="1769">Last Year</date> he was made
+						and a Candidate for <lb/> the <placeName ref="mlpla000185" cert="high">East
+							Indies</placeName>, which he accepted of: for he was very willing to
+						serve <lb/> our <roleName type="honorific">Sav<hi rend="superscript"
+							>r</hi></roleName>, wheresoever his Service should require it, tho' on
+						Account of <lb/> his weakly Constitution he had but <name type="emotion"
+							key="little hopes">little Hopes</name> to be of any Use in the <lb/>
+						Service of our <roleName type="honorific">Sav<hi rend="superscript"
+							>r</hi></roleName> among the Heathen. That time he came among the <lb/>
+						Intercessors, which was <name type="emotion" key="very weighty">very
+							weighty</name> to him. But our <roleName type="honorific">Sav<hi
+								rend="superscript">r</hi></roleName>, who was <lb/>
+						<name type="emotion" key="pleased">pleased</name> with his Willingness to
+						serve him, had other thoughts about him, <lb/>
+						<name type="health" subtype="disease">He grew weaker from time to
+							time</name>, &amp; <date when-iso="1769-12">in the Beginning of
+								Decemb<hi rend="superscript">r</hi></date> he <lb/> was obliged to
+						move into the <placeName>Sick Room</placeName>. First we did not think, that
+						<lb/> he would go home of this Opportunity, but he soon thought so &amp;
+							<eventName type="spiritual">was quite <lb/> set upon going
+							home</eventName>. Here he had a sabbatical time in the Nearness &amp;
+						<lb/> converse with our <roleName type="honorific">Sav<hi rend="superscript"
+								>r</hi></roleName>
 						<add place="above">tho; it was a Shool-Time for him too, in which he had to
-							learn many Lessons &amp; to speak thoroughly with our <name emotion="dear">d<hi rend="superscript">r</hi>.</name> <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>. about many Things.</add>
-						Once he said: tho' our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> has had so great a <lb/> <name emotion="mercy">Mercy</name> upon me, yet I
-						feel myself often <name emotion="so indifferent">so indifferent</name> towards Him, which <lb/> is <name type="emotion">the <name emotion="greatest pain">greatest Pain</name></name>, I have in the <placeName>Sick
-							Room</placeName>; at which he <name emotion="wept very much">wept very much</name>. <lb/> But he soon was
-						<name emotion="comforted">comforted</name> again &amp; <name emotion="cheered">cheared</name> by a gracious Look of our <roleName type="honorific">Saviour</roleName>.<lb/> He himself dictated his
-						Course of Life to <roleName type="honorific">B<hi rend="superscript">r</hi></roleName>
+							learn many Lessons &amp; to speak thoroughly with our <name
+								type="emotion" key="dear">d<hi rend="superscript">r</hi>.</name>
+							<roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>.
+							about many Things.</add> Once he said: tho' our <roleName
+							type="honorific">Sav<hi rend="superscript">r</hi></roleName> has had so
+						great a <lb/>
+						<name type="emotion" key="mercy">Mercy</name> upon me, yet I feel myself
+						often <name type="emotion" key="so indifferent">so indifferent</name>
+						towards Him, which <lb/> is <name type="emotion">the <name type="emotion"
+								key="greatest pain">greatest Pain</name></name>, I have in the
+							<placeName>Sick Room</placeName>; at which he <name type="emotion"
+							key="wept very much">wept very much</name>. <lb/> But he soon was <name
+							type="emotion" key="comforted">comforted</name> again &amp; <name
+							type="emotion" key="cheered">cheared</name> by a gracious Look of our
+							<roleName type="honorific">Saviour</roleName>.<lb/> He himself dictated
+						his Course of Life to <roleName type="honorific">B<hi rend="superscript"
+								>r</hi></roleName>
 						<persName>Martens</persName>, &amp; when he had done <lb/> therewith,
 							<del>to</del> which was last Friday, he made Haste to meet his etemal
-						<lb/> Bridegroom. He had it very easy in his <name health="disease">Sickness</name>: the day before his going home <lb/> he once
-						<name emotion="complained">complained</name>, saying: Dear <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>! it is too hard for me; but he
-						soon <lb/> got it easier. He was present to himself to the last Moment, when
-						the <lb/> <name emotion="blessings">Blessings</name> of his <orgName>Choir</orgName> &amp; the
-								<orgName>Congreg<hi rend="superscript">n</hi></orgName> was imparted
-						unto him during a<lb/> <name emotion="sweet feeling">sweet <add place="above">feeling</add> </name>of our <roleName type="honorific">Sav<hi rend="superscript">rs</hi></roleName> Nearness, &amp; <name type="event" ana="death" when-iso="1770-02-06">soon after his Soul departed</name> into the <lb/> arms &amp; Bosom
-						of <persName type="deity">Jesus</persName>, <date type="death" when-iso="1770-02-06">last Tuesday about 7 o'Clock in
-							the Morning, viz <lb/> Feby the 6<hi rend="superscript">th</hi>
-							1770</date> in the 34<hi rend="superscript">th</hi> year of his Age. <lb/>      Praise to thee, our God, be brought for this Sinner redeemed with thy
-						Blood.</p>
+						<lb/> Bridegroom. He had it very easy in his <name type="health"
+							subtype="disease">Sickness</name>: the day before his going home <lb/>
+						he once <name type="emotion" key="complained">complained</name>, saying:
+						Dear <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>!
+						it is too hard for me; but he soon <lb/> got it easier. He was present to
+						himself to the last Moment, when the <lb/>
+						<name type="emotion" key="blessings">Blessings</name> of his
+							<orgName>Choir</orgName> &amp; the <orgName>Congreg<hi
+								rend="superscript">n</hi></orgName> was imparted unto him during a<lb/>
+						<name type="emotion" key="sweet feeling">sweet <add place="above"
+								>feeling</add>
+						</name>of our <roleName type="honorific">Sav<hi rend="superscript"
+							>rs</hi></roleName> Nearness, &amp; <eventName type="death"
+							when-iso="1770-02-06">soon after his Soul departed</eventName> into the
+						<lb/> arms &amp; Bosom of <persName type="deity">Jesus</persName>, <date
+							type="death" when-iso="1770-02-06">last Tuesday about 7 o'Clock in the
+							Morning, viz <lb/> Feby the 6<hi rend="superscript">th</hi> 1770</date>
+						in the 34<hi rend="superscript">th</hi> year of his Age. <lb/>      Praise
+						to thee, our God, be brought for this Sinner redeemed with thy Blood.</p>
 				</div>
 			</div>
 		</body>
