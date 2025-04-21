@@ -123,7 +123,8 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_08_CravenSarah-02.jpg" n="1" />
+<div>			
+	<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_08_CravenSarah-02.jpg" n="1" />
 			<p>
 				
 					The Life of the Single Sister Sar<hi rend="superscript:true;">h</hi> Craven who departed
@@ -149,7 +150,9 @@
 					tho, spiritually dead, and the discourse had no effect, and I wonder'd
 				
 			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_08_CravenSarah-04.jpg" n="2" />
+</div>
+<div>			
+	<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG//MAF/Ful_3_08_CravenSarah-04.jpg" n="2" />
 			<p>
 				
 					what induc'd People to run after him, my Mother invited him to
@@ -206,8 +209,8 @@
 					convinc'd me once more that I was not in my right place; to stay then
 					would be dangerous for my Soul. I immediately set off to acquaint
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_08_CravenSarah-06.jpg" n="3" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_08_CravenSarah-06.jpg" n="3" />
 			<p>
 				
 					my former Laboress and disclos'd my whole case, She recomended
@@ -261,8 +264,8 @@
 					her longing to be at home with our Savior increased daily. It
 					gave her much pain when two of her companions in the Sick
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_08_CravenSarah-08.jpg" n="4" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_08_CravenSarah-08.jpg" n="4" />
 			<p>
 				
 					room were called home before her, she suffer'd much in her sick,
@@ -280,7 +283,7 @@
 					her Choir half past 10 oclock in the forenoon during a sensible
 					feeling of our dear Lords presence, in the 72<hi rend="superscript:true;">nd</hi> Year of her Age.
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
