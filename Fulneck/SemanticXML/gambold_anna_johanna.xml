@@ -121,7 +121,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_22GamboldAnnaJohanna-01.jpg" n="1" />
+<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_22GamboldAnnaJohanna-01.jpg" n="1" />
 			<p>
 				
 					The Course of Life of the Gr<hi rend="superscript:true;">t</hi> Girl anna Gambold who
@@ -158,7 +158,8 @@
 					in the year 64 she was took into the Gr Girls
 				
 			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_22GamboldAnnaJohanna-02.jpg" n="2" />
+</div>
+<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_22GamboldAnnaJohanna-02.jpg" n="2" />
 			<p>
 				
 					choir, from This time Our d<hi rend="superscript:true;">r</hi> anna Joh<hi rend="superscript:true;">n</hi> Gambold
@@ -216,7 +217,7 @@
 					parents for she was an obedient simple &amp; 
 					childlike Heart 
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
