@@ -1039,11 +1039,11 @@
 			<div type="memoir">
 				<head>Sarah Fletcher</head>
 				<div type="page" n="1">
-					<pb n="1" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-02.jpg"/>
-					<p> <name type="event" ana="birth" when-iso="1820-07-02">I was born <date when="1820-07-02" cert="high">July 2<hi rend="superscript">nd</hi> 1820</date> at <placeName ref="#mlpla000129" cert="high">Mapperley,
+					<pb n="1" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-02.jpg"/>
+					<p> <eventName type="birth" when-iso="1820-07-02">I was born <date when="1820-07-02" cert="high">July 2<hi rend="superscript">nd</hi> 1820</date> at <placeName ref="#mlpla000129" cert="high">Mapperley,
 <lb/>
-a small village in Derbyshire</placeName></name>. My dear <lb/> Mother being a decided
-						child of <name type="deity"><persName type="real" cert="high">God</persName></name>
+a small village in Derbyshire</placeName></eventName>. My dear <lb/> Mother being a decided
+						child of <persName type="real" cert="high">God</persName>
 						<lb/> endeavoured to bring her chldren up <lb/> in the nurture and
 						admonition of the <lb/>
 						<roleName type="honorific">Lord</roleName>; and I do not <del>rember</del>
@@ -1053,11 +1053,11 @@ a small village in Derbyshire</placeName></name>. My dear <lb/> Mother being a d
 						reasoning <add place="above">sceptical</add> nature. <lb/> Very little took
 						place during my childhood <lb/> that is worth<del>y of</del> recording; I
 						had the priviledge <lb/> of attending a small School, that was kept <lb/> by
-						the daughters of a most worthy and <lb/> excellent <name office="#mloff000002">Independant Minister</name>, whose <lb/> <name emotion="loving and affectionate">loving and affectionate</name> manner will ever <lb/> be <name emotion="sweet to my memory">sweet to my memory</name>. I attended
+						the daughters of a most worthy and <lb/> excellent <name type="office" ref="#mloff000002">Independant Minister</name>, whose <lb/> <name type="emotion" key="loving and affectionate">loving and affectionate</name> manner will ever <lb/> be <name type="emotion" key="sweet to my memory">sweet to my memory</name>. I attended
 						their <lb/> School untill I was in my <date when-iso="1834">14<hi rend="superscript">th</hi> Year</date>
 						<lb/> when my dear Mother placed me in the <lb/>
 						<placeName ref="#mlpla000268" cert="high">Srs House at Ockbrook</placeName>. where,
-						after a <lb/> few weeks I became <name emotion="exceedingly happy and comfortable">exceedingly happy
+						after a <lb/> few weeks I became <name type="emotion" key="exceedingly happy and comfortable">exceedingly happy
 <lb/>
 and comfortable</name> the
 						life of a S<hi rend="superscript">rs</hi> House
@@ -1065,91 +1065,91 @@ and comfortable</name> the
 						<del>House</del> being well adapted to my nature </p>
 				</div>
 				<div type="page" n="2">
-					<pb n="2" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-03.jpg"/>
-					<p> <name emotion="cheerful">cheerful</name>, yet somewhat <add place="above">reserved</add>
+					<pb n="2" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-03.jpg"/>
+					<p> <name type="emotion" key="cheerful">cheerful</name>, yet somewhat <add place="above">reserved</add>
 						<del>timid</del> dispos- <lb/> ition. In the beginning of <date when-iso="1837">37</date> I received <lb/> with several others of my
 						companions, <lb/> instruction for confirmation, or rather <lb/> in my case
-						for <name type="event" ana="baptism">Adult baptism</name>, my <lb/> dear Mother being a
-						baptist I had <lb/> consequently not received that <name type="event" ana="sacrament">sacrament</name>
+						for <eventName type="baptism">Adult baptism</eventName>, my <lb/> dear Mother being a
+						baptist I had <lb/> consequently not received that <eventName type="sacrament">sacrament</eventName>
 						<lb/> in infancy; but I cannot say that <lb/> either the instructions or the
-						rite <lb/> itself made any lasting impressions <lb/> upon my mind; I <name emotion="enjoyment">enjoyed</name>
+						rite <lb/> itself made any lasting impressions <lb/> upon my mind; I <name type="emotion" key="enjoyment">enjoyed</name>
 						the instruc <lb/> tions, as I did, imbibing knowledge <lb/> of any kind that
 						came in my reach. <lb/> Unaware almost to myself, I formed <lb/> my own
 						views on <del>religous</del> the way of <lb/> Salvation, and as might be
 						expected <lb/> stumbled upon many errors, At one time <lb/> instead of
 						simply going to <placeName type="deity">Jesus</placeName>, I was seeking the
 							<hi rend="underline">fruits</hi> of the Spirit and <lb/> at another I
-						was <name emotion="fully impressed">fully impressed</name> with the <lb/> idea, that tho' I was very very far
-						from <lb/> what I ought to be as a <name religion="Christian">christian</name>, yet I <lb/> must wait the <roleName type="honorific">Lord's</roleName> time to make <lb/> me different, I could do
+						was <name type="emotion" key="fully impressed">fully impressed</name> with the <lb/> idea, that tho' I was very very far
+						from <lb/> what I ought to be as a <orgName type="Other">christian</orgName>, yet I <lb/> must wait the <roleName type="honorific">Lord's</roleName> time to make <lb/> me different, I could do
 						nothing. At this </p>
 					<cb/>
 					<p> time "<title>Baxters Saints Rest</title>" fell into my <lb/>
-						hands, which by the <name emotion="blessing">blessing</name> of the <roleName type="honorific">Lord</roleName>
+						hands, which by the <name type="emotion" key="blessing">blessing</name> of the <roleName type="honorific">Lord</roleName>
 						<lb/> made a very deep impression on my mind <lb/> and showed me that there
-						was much for <lb/> me to do, viz an <name emotion="earnestness">earnestness</name> of spirit, and <lb/> a
+						was much for <lb/> me to do, viz an <name type="emotion" key="earnestness">earnestness</name> of spirit, and <lb/> a
 						determination to give the <roleName type="honorific">Lord</roleName> no rest
-						<lb/> till he was <name emotion="grace">graciously</name> <name emotion="pleased">pleased</name> to reveal <lb/> himself to me. From
-						this time I was much <lb/> more <name emotion="in earnest">in earnest</name>, but my adorable <roleName type="honorific">Saviour</roleName>
-						<lb/> was not my all in all; consequently the <lb/> way seemed long and <add place="above">hear I</add> often felt inclined <lb/> to <name emotion="exclaim">exclaim</name>
+						<lb/> till he was <name type="emotion" key="grace">graciously</name> <name type="emotion" key="pleased">pleased</name> to reveal <lb/> himself to me. From
+						this time I was much <lb/> more <name type="emotion" key="in earnest">in earnest</name>, but my adorable <roleName type="honorific">Saviour</roleName>
+						<lb/> was not my all in all; consequently the <lb/> way seemed long and <add place="above">hear I</add> often felt inclined <lb/> to <name type="emotion" key="exclaim">exclaim</name>
 						"who is sufficent for these things! <lb/> In the year <date when-iso="1850">50</date> I received a call to be the <lb/>
-						<name office="#mloff000031">Warden of the <orgName en="single sisters choir">Single Sisters</orgName></name> in <placeName ref="#mlpla000003">Fulneck</placeName>, <lb/> and tho' deeply conscious of my own
+						<name type="office" ref="#mloff000031">Warden of the <affiliation type="single_sisters_choir">Single Sisters</affiliation></name> in <placeName ref="#mlpla000003">Fulneck</placeName>, <lb/> and tho' deeply conscious of my own
 						insuff- <lb/> iciency for such a post, I felt such a strong <lb/> conviction
 						that it was from the <roleName type="honorific">Lord</roleName>
 						<lb/> I dared do no other than accept it. In the <lb/> first year I had many
 						trials and difficulties <lb/> caused in a great measure by my own <lb/>
-						inexperience, but afterwards my working <lb/> <name emotion="very pleasant">very pleasant</name>, and light to
-						me. <date when="1851" cert="high">The <lb/> Year after</date> <name type="event" ana="arrival" when-iso="1851">I came to <placeName ref="#mlpla000003" type="arrival" cert="high">Fulneck</placeName></name>, the texts for </p>
+						inexperience, but afterwards my working <lb/> <name type="emotion" key="very pleasant">very pleasant</name>, and light to
+						me. <date when="1851" cert="high">The <lb/> Year after</date> <eventName type="arrival" when-iso="1851">I came to <placeName ref="#mlpla000003" type="arrival" cert="high">Fulneck</placeName></eventName>, the texts for </p>
 				</div>
 				<div type="page" n="3">
-					<pb n="3" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-04.jpg"/>
-					<p> my birthday <name emotion="struck me very much">struck me very much</name> on <lb/> looking at them sometime before.
+					<pb n="3" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-04.jpg"/>
+					<p> my birthday <name type="emotion" key="struck me very much">struck me very much</name> on <lb/> looking at them sometime before.
 						The <lb/> daily word was "In the <roleName type="honorific">Lord</roleName> shall all <lb/> the seed of
 						<placeName ref="#mlpla000075" cert="high">Israel</placeName> be justified and <add place="above">glory</add> shall <lb/> 45<hi rend="superscript">th</hi> of <persName ref="#mlpla000075" cert="high" type="real">Isaiah</persName> &amp; 25<hi rend="superscript">th</hi> verse, and the doctrinal <lb/> text was, the second of Acts
 						&amp; the latter part <lb/> of the 47<hi rend="superscript">th</hi> verse
 						"And the <roleName type="honorific">Lord</roleName> added to <lb/> the church daily such as should be
-						saved." <lb/> I felt to <name emotion="hope">hope</name> that these texts had a reference <lb/> to
-						some that were <name emotion="very near and dear">very near &amp; dear</name> to me, who <lb/> were not added to any
-						christian church, <lb/> and over whom my <name emotion="heart had often yearned">heart had often yearned</name>. <lb/> I
+						saved." <lb/> I felt to <name type="emotion" key="hope">hope</name> that these texts had a reference <lb/> to
+						some that were <name type="emotion" key="very near and dear">very near &amp; dear</name> to me, who <lb/> were not added to any
+						christian church, <lb/> and over whom my <name type="emotion" key="heart had often yearned">heart had often yearned</name>. <lb/> I
 						never once thought of them in connection <lb/> with myself, I thought I was
 						added to the <lb/> church, and of the <hi rend="underline">real meaning</hi>
 						of the <lb/> daily word I had at that time very little <lb/> knowledge, oh
 						how possible it is to deceive <lb/> ourselves and others. On the morning of
 						my <lb/> birthday, I found three verses on my table <lb/> which had been
-						drawn and placed there <lb/> by a <name emotion="very dear">very dear</name> and worthy <roleName type="honorific">sister</roleName>, as was <lb/>
+						drawn and placed there <lb/> by a <name type="emotion" key="very dear">very dear</name> and worthy <roleName type="honorific">sister</roleName>, as was <lb/>
 						her custom, the three were very striking, but <lb/> the text of one was
-							<del>love</del> "<name emotion="love">Lovest</name> thou me" </p>
+							<del>love</del> "<name type="emotion" key="love">Lovest</name> thou me" </p>
 					<cb/>
 					<p> to <add place="above">which</add> was added the verse </p>
 					<p>
 						<lg type="stanza" n="1">
-							<l><name emotion="love">Lovest</name> thou me I hear the Saviour say,</l>
+							<l><name type="emotion" key="love">Lovest</name> thou me I hear the Saviour say,</l>
 							<l>Would that my heart had power to </l>
 							<l>answer yea: </l>
 							<l>Thou knowest all things, Lord in heaven above</l>
-							<l>And earth beneath, thou knowest that I <name emotion="love">love</name></l>
+							<l>And earth beneath, thou knowest that I <name type="emotion" key="love">love</name></l>
 							<l>But 'tis not so in word, in deed, in thought</l>
-							<l>I do not cannot <name emotion="love">love</name> thee as I ought,</l>
-							<l><hi rend="underline">Thy <name emotion="love">love</name></hi> must give that power, thy <name emotion="love">love</name>
+							<l>I do not cannot <name type="emotion" key="love">love</name> thee as I ought,</l>
+							<l><hi rend="underline">Thy <name type="emotion" key="love">love</name></hi> must give that power, thy <name type="emotion" key="love">love</name>
 								alone </l>
 						</lg>
 					</p>
 					<p> On reading the last line <add place="above">with clasped hands</add> I
-						<name emotion="exclaimed">exclaimed</name>, oh <lb/> my <name emotion="love">beloved</name> <roleName type="honorific">Saviour</roleName> that is the very thing <lb/> why <add place="above">didst</add> thou not show me that before. it is <lb/>
-						indeed <hi rend="underline">thy <name emotion="love">love</name></hi> that must give <hi rend="underline">me</hi> power <lb/> to <name emotion="love">love</name> thee in return, there is
+						<name type="emotion" key="exclaimed">exclaimed</name>, oh <lb/> my <name type="emotion" key="love">beloved</name> <roleName type="honorific">Saviour</roleName> that is the very thing <lb/> why <add place="above">didst</add> thou not show me that before. it is <lb/>
+						indeed <hi rend="underline">thy <name type="emotion" key="love">love</name></hi> that must give <hi rend="underline">me</hi> power <lb/> to <name type="emotion" key="love">love</name> thee in return, there is
 						indeed "nothing <lb/> worthy of thee but thine own Oh do thou <lb/>
-						grant that "with the <name emotion="love">love</name> wherewith thou <name emotion="lovest">lovest</name> me </p>
+						grant that "with the <name type="emotion" key="love">love</name> wherewith thou <name type="emotion" key="lovest">lovest</name> me </p>
 					<p> Reflected on thyself I <del>would</del>
-						<add place="above">may</add> <name emotion="love">love</name> thee <lb/> My dear <roleName type="honorific">Saviour</roleName> had that
+						<add place="above">may</add> <name type="emotion" key="love">love</name> thee <lb/> My dear <roleName type="honorific">Saviour</roleName> had that
 						instant drawn <lb/> me to himself but when he put his holy <lb/> spirit into
 						my heart, oh the sink of iniquity <lb/> I saw there "sin did indeed
-						revive and <lb/> I died" Rom 7<hi rend="superscript">th</hi> ch 9<hi rend="superscript">th</hi> verse. <name emotion="so heavy">So heavy</name> was the </p>
+						revive and <lb/> I died" Rom 7<hi rend="superscript">th</hi> ch 9<hi rend="superscript">th</hi> verse. <name type="emotion" key="so heavy">So heavy</name> was the </p>
 				</div>
 				<div type="page" n="4">
-					<pb n="4" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-05.jpg"/>
-					<p> <name>weight of <name emotion="guilt">guilt</name> upon me</name>, that I often <lb/> felt I must sink under it, or
-						that I should <lb/> lose my senses; I stood a <name emotion="guilt">guilty</name> hell deserving <lb/>
+					<pb n="4" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-05.jpg"/>
+					<p> <name>weight of <name type="emotion" key="guilt">guilt</name> upon me</name>, that I often <lb/> felt I must sink under it, or
+						that I should <lb/> lose my senses; I stood a <name type="emotion" key="guilt">guilty</name> hell deserving <lb/>
 						sinner, and felt that I must be lost, if my <lb/> <roleName type="honorific">Saviour</roleName> had not died for
-						me; but I could <lb/> take <name emotion="no comfort">no comfort</name>, the promises were as tho' <lb/>
+						me; but I could <lb/> take <name type="emotion" key="no comfort">no comfort</name>, the promises were as tho' <lb/>
 						I had never heard them, except occasionally<lb/> a text such as <note>Line
 							is crossed out in pencil, what is written above is
 						illegible</note>"I will not always strive with <note>Line is crossed
@@ -1158,17 +1158,17 @@ and comfortable</name> the
 						gleam <lb/> of sunshine, and then the cloud passed <lb/> over again. I
 						remained in this state of <lb/> mind some Weeks, till one sunday evening
 						<lb/> the text was from some part of John's first <lb/> Epistle, but
-						what chapter or verse I have <lb/> no recollection from the <name emotion="distress">distressed</name> state
-						of <lb/> my mind. During the sermon <name type="event" ana="spiritual">I <name emotion="earnestly">earnestly</name>
+						what chapter or verse I have <lb/> no recollection from the <name type="emotion" key="distress">distressed</name> state
+						of <lb/> my mind. During the sermon <eventName type="spiritual">I <name type="emotion" key="earnestly">earnestly</name>
 <lb/>
 besought the <roleName type="honorific">Lord</roleName> to reveal himself to me,
 <lb/>
-And he did,</name> the <name emotion="peace">peace</name> and <name emotion="joy">joy</name> that I felt <lb/>
+And he did,</eventName> the <name type="emotion" key="peace">peace</name> and <name type="emotion" key="joy">joy</name> that I felt <lb/>
 						that night, none but a pardoned sinner<lb/> can have any conception of I had
-						not a <lb/> shadow of a <name emotion="doubt">doubt</name> of my acceptance in the <lb/> <name emotion="love">Beloved</name>. And
+						not a <lb/> shadow of a <name type="emotion" key="doubt">doubt</name> of my acceptance in the <lb/> <name type="emotion" key="love">Beloved</name>. And
 						tho' <persName type="deity ">God</persName> has not at all times </p>
 					<cb/>
-					<p> been in my thoughts, yet my <name emotion="love">beloved</name> <lb/> <roleName type="honorific">Saviour</roleName> has never suffered my feet
+					<p> been in my thoughts, yet my <name type="emotion" key="love">beloved</name> <lb/> <roleName type="honorific">Saviour</roleName> has never suffered my feet
 						to slide <lb/> O thou who hast begun a good work in <lb/> me, do thou
 						perfect it unto the end. <lb/> Oh do thou empty me of myself, and fill <lb/>
 						me with thyself be thou my all in all <lb/> <date when="1851" cert="high">185<del>7</del>
@@ -1185,25 +1185,25 @@ and frail</name> I am, how prone to stray from <lb/>
 						<lb/> the following on behalf of herself <lb/> &amp; the choir, &amp; can
 						truly say, that <lb/> both she and every inmate of the <lb/> house, feel
 						that they have lost <lb/> in our late <roleName type="honorific">Sister</roleName>, a sincere and <lb/> valued
-						friend &amp; conscientious <lb/> <name religion="Christianity">Christian</name>. </p>
+						friend &amp; conscientious <lb/> <orgName type="Other">Christian</orgName>. </p>
 				</div>
 				<div type="page" n="5">
-					<pb n="5" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-06.jpg"/>
+					<pb n="5" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-06.jpg"/>
 					<p> Upright in principle &amp; faithful <lb/> in business, she did all she had
-						<lb/> to do, with a single eye to the interest <lb/> of the <name emotion="concern">concern</name> she was
+						<lb/> to do, with a single eye to the interest <lb/> of the <name type="emotion" key="concern">concern</name> she was
 						entrusted <lb/> with, &amp; never for an hour, would <lb/> sacrifice duty to
-						<name emotion="pleasure">pleasure</name>.</p>
+						<name type="emotion" key="pleasure">pleasure</name>.</p>
 					<p> To be unexpectedly called upon to <lb/> part with a friend so faithful <lb/>
 						&amp; untiring in her exertions for the <lb/> good of the whole household,
-						does <lb/> indeed <name emotion="fill all our hearts with sorrow">fill all our hearts with sorrow</name>, <lb/> We <name emotion="deeply mourn">deeply mourn</name> our
+						does <lb/> indeed <name type="emotion" key="fill all our hearts with sorrow">fill all our hearts with sorrow</name>, <lb/> We <name type="emotion" key="deeply mourn">deeply mourn</name> our
 						loss, but we <lb/> cannot but say, that our loss is her <lb/> eternal gain.
 						She knew in whom <lb/> she believed, &amp; when the summons <lb/> came for
 						her to lay by her earthly <lb/> duties, she was enabled to say: "Thy
-						<lb/> will be done!" And we <name emotion="doubt">doubt</name> not <lb/> would hear the welcome:
+						<lb/> will be done!" And we <name type="emotion" key="doubt">doubt</name> not <lb/> would hear the welcome:
 						"Well <lb/> done good &amp; faithful servant, enter <lb/> thou into the
-						<name emotion="joy">joy</name> of thy Lord!"</p>
-					<p> As a fellow <name office="#mloff000004">laborer</name> &amp; member of our <lb/> <name type="event" ana="religious">Elders' Conference</name>, our
-						dear <persName ref="#mlper000242" cert="high" type="real"><roleName type="honorific">S<hi rend="superscript">r</hi> </roleName> Fletcher</persName> <lb/> was <name emotion="much esteemed">much esteemed</name> by us
+						<name type="emotion" key="joy">joy</name> of thy Lord!"</p>
+					<p> As a fellow <name type="office" ref="#mloff000004">laborer</name> &amp; member of our <lb/> <eventName type="ecclesiastical">Elders' Conference</eventName>, our
+						dear <persName ref="#mlper000242" cert="high" type="real"><roleName type="honorific">S<hi rend="superscript">r</hi> </roleName> Fletcher</persName> <lb/> was <name type="emotion" key="much esteemed">much esteemed</name> by us
 						all, for <lb/> the candour of her mind, &amp; her </p>
 					<cb/>
 					<p> strictly conscientious discharge <lb/> of her official duties. She would
@@ -1211,66 +1211,66 @@ and frail</name> I am, how prone to stray from <lb/>
 						interested in, <lb/> &amp; in case of a difference of opinion <lb/> firmly
 						&amp; faithfully maintain her <lb/> cause, without however in the least
 						<lb/> being self opinionated or obstinate.</p>
-					<p> Her <name emotion="warm">warm</name> interest in the <roleName type="honorific">Lords</roleName> work <lb/> &amp; the spread of His kingdom,
-						both <lb/> at home &amp; abroad, she <name emotion="quiet">quietly</name>, <lb/> yet continuously
-						manifested, not <lb/> only unto the Searcher of hearts, who <lb/> <name emotion="delight">delights</name>
+					<p> Her <name type="emotion" key="warm">warm</name> interest in the <roleName type="honorific">Lords</roleName> work <lb/> &amp; the spread of His kingdom,
+						both <lb/> at home &amp; abroad, she <name type="emotion" key="quiet">quietly</name>, <lb/> yet continuously
+						manifested, not <lb/> only unto the Searcher of hearts, who <lb/> <name type="emotion" key="delight">delights</name>
 						to hear the prayers of his <lb/> people, when they plead with him <lb/> for
-						the furtherance of his gospel, but <lb/> also unto man, by the <name emotion="lively">lively</name> &amp;
+						the furtherance of his gospel, but <lb/> also unto man, by the <name type="emotion" key="lively">lively</name> &amp;
 						intelligent <lb/> interest she always displayed in <lb/> conversations on
 						the subject of <lb/> missionary labours, &amp; by her untiring <lb/> &amp;
 						successful endeavours, to collect <lb/> subscriptions for such objects, as
 						the <lb/> <orgName>Foreign &amp; Home Missions</orgName>, the <orgName cert="high">Bible
 <lb/>
 Society</orgName> &amp; so
-						forth. The local committees <lb/> of these associations, will <name emotion="miss">miss</name> in her
+						forth. The local committees <lb/> of these associations, will <name type="emotion" key="miss">miss</name> in her
 						<lb/> a valued member, &amp; a successful <lb/> collector. </p>
 				</div>
 				<div type="page" n="6">
-					<pb n="6" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-07.jpg"/>
+					<pb n="6" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-07.jpg"/>
 					<p> We were often struck with her correct <lb/> memory of men &amp; things,
 						relating <lb/> to Missionary enterprises, especially <lb/> those connected
 						with our own <lb/> Church, of which she was a very <lb/> consistent &amp;
-						<name emotion="attached">attached</name> member. </p>
-					<p> She also took her place as a <name occupation="#mlocc000043">teacher
+						<name type="emotion" key="attached">attached</name> member. </p>
+					<p> She also took her place as a <rs type="occupation" ref="#mlocc000043">teacher
 <lb/>
-in our Sunday school</name>, &amp; by
+in our Sunday school</rs>, &amp; by
 						her <lb/> prayerful &amp; careful preparation for <lb/> her work, succeeded
-						in securing the <lb/> <name emotion="love">love</name> &amp; <name emotion="gratitude">gratitude</name> of her scholars, to <lb/> whose
-						<name emotion="hearts her memory is much endeared">hearts her memory is much
+						in securing the <lb/> <name type="emotion" key="love">love</name> &amp; <name type="emotion" key="gratitude">gratitude</name> of her scholars, to <lb/> whose
+						<name type="emotion" key="hearts her memory is much endeared">hearts her memory is much
 <lb/>
 endeared</name> by her valued instructions <lb/> in
 						spiritual things. </p>
 					<p> She now rests from her labours, &amp; <lb/> her works do follow her.
 						Whatever <lb/> she did, she did unto the <roleName type="honorific">Lord</roleName>, <lb/> &amp; this imparted
-						real worth to her <lb/> activity. Her memory is <name emotion="dear">dear</name> to<lb/> us. </p>
-					<p> When the <name office="#mloff000002">Minister of the Cong<hi rend="superscript">n</hi></name> saw <lb/> her on
+						real worth to her <lb/> activity. Her memory is <name type="emotion" key="dear">dear</name> to<lb/> us. </p>
+					<p> When the <name type="office" ref="#mloff000002">Minister of the Cong<hi rend="superscript">n</hi></name> saw <lb/> her on
 						the evening of the so called <lb/> "Sisters' coming in day,"
-						<name type="event" ana="spiritual">she was
+						<eventName type="ecclesiastical">she was
 <lb/>
-remarkably <name emotion="calm">calm</name> &amp; <name emotion="cheerful">cheerful</name> in her
+remarkably <name type="emotion" key="calm">calm</name> &amp; <name type="emotion" key="cheerful">cheerful</name> in her
 <lb/>
-mind, &amp; <name emotion="resigned">resigned</name> to the <roleName type="honorific">Lord</roleName>,</name> who <lb/> had laid her on a bed of sickness, </p>
+mind, &amp; <name type="emotion" key="resigned">resigned</name> to the <roleName type="honorific">Lord</roleName>,</eventName> who <lb/> had laid her on a bed of sickness, </p>
 					<cb/>
-					<p> while the other inmates of the <lb/> house, were holding their <name emotion="festive">festive</name> <lb/>
+					<p> while the other inmates of the <lb/> house, were holding their <name type="emotion" key="festive">festive</name> <lb/>
 						meetings in the adjoining prayer <lb/> hall. For the visit paid to her <lb/>
-						&amp; the prayer offered up by her bed <lb/> side, she expressed her <name emotion="thankfulness">thanks</name>
-						in <lb/> a <name emotion="very cordial and lively">very cordial &amp; lively</name> manner. <lb/> Little did the <name office="#mloff000002">Minister</name>
+						&amp; the prayer offered up by her bed <lb/> side, she expressed her <name type="emotion" key="thankfulness">thanks</name>
+						in <lb/> a <name type="emotion" key="very cordial and lively">very cordial &amp; lively</name> manner. <lb/> Little did the <name type="office" ref="#mloff000002">Minister</name>
 						think, that <lb/> on his return from Crook, whither <lb/> duty called him
 						away for several <lb/> days, he should no longer be permitted <lb/> to see
 						her among the living.</p>
 					<p> To a fellow laborer who visited her <lb/> late on Sunday evening, &amp; who
 						engaged <lb/> in spiritual conversation &amp; prayer <lb/> with the dear
 						patient, she remarked <lb/> on his enquiry, if she felt her <roleName type="honorific">Saviour</roleName> <lb/>
-						near, that He was her only real <lb/> <name emotion="comfort">comfort</name> &amp; true support: "for
+						near, that He was her only real <lb/> <name type="emotion" key="comfort">comfort</name> &amp; true support: "for
 						what <lb/> should I do <hi rend="underline">without him</hi> now?"
 						<lb/> And truly He was with her in her <lb/> last hour. Her own memoir tells
-						<lb/> us, that she knew in whom she believed. <lb/> <name emotion="trust">Trusting</name> in his merits,
-						&amp; saved by his <lb/> bloods hedding &amp; death, she <name emotion="gently fell asleep">gently fell
+						<lb/> us, that she knew in whom she believed. <lb/> <name type="emotion" key="trust">Trusting</name> in his merits,
+						&amp; saved by his <lb/> bloods hedding &amp; death, she <name type="emotion" key="gently fell asleep">gently fell
 <lb/>
 asleep</name> in <persName type="real" cert="high">Jesus</persName> to be for ever with <lb/> the <roleName type="honorific">Lord</roleName> </p>
 				</div>
 				<div type="page" n="7">
-					<pb n="7" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-08.jpg"/>
+					<pb n="7" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-08.jpg"/>
 					<note>This begins a second version of Sarah Ann Fletcher's memoir</note>
 					<p> Memoir of S<hi rend="superscript">r</hi> Sarah Ann Fletcher <lb/> who departed at Fulneck
 						on <lb/> the 20<hi rend="superscript">th</hi> December 1869</p>
@@ -1287,7 +1287,7 @@ asleep</name> in <persName type="real" cert="high">Jesus</persName> to be for ev
 						affectionate manner, </p>
 				</div>
 				<div type="page" n="8">
-					<pb n="8" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-09.jpg"/>
+					<pb n="8" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-09.jpg"/>
 					<p> will ever be sweet to my memory. <lb/> I attended their school until I was
 						<lb/> in my 14<hi rend="superscript">th</hi> year, when my dear Mother <lb/>
 						placed me in the S<hi rend="superscript">rs</hi> house at <lb/> Ockbrook, -
@@ -1329,7 +1329,7 @@ ciously pleased to reveal himself <lb/> to me.
 						post, I felt </p>
 				</div>
 				<div type="page" n="9">
-					<pb n="9" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-10.jpg"/>
+					<pb n="9" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-10.jpg"/>
 					<p> such a strong conviction that it <lb/> was from the Lord, that I dared <lb/>
 						do no other than accept it. </p>
 					<p> In the first year I had many trials <lb/> and difficulties, caused in a
@@ -1381,10 +1381,10 @@ ciously pleased to reveal himself <lb/> to me.
 						had that instant </p>
 				</div>
 				<div type="page" n="10">
-					<pb n="10" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-11.jpg"/>
+					<pb n="10" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-11.jpg"/>
 					<p> drawn me to himself but when <lb/> he put his Holy Spirit into my heart
 						<lb/> Oh the sink of iniquity I saw there <lb/> Sin did indeed revive &amp;
-						I died <lb/> Rom. 7:9. So heavy was the weight <lb/> of guilt<name emotion="guilt"/> upon me, that
+						I died <lb/> Rom. 7:9. So heavy was the weight <lb/> of guilt<name type="emotion" key="guilt"/> upon me, that
 						I often felt <lb/> I must sink under it, or that I should <lb/> lose my
 						senses. I stood a guilty <lb/> hell deserving sinner, &amp; felt that I must
 						<lb/> be lost if my Saviour had not died <lb/> for me, but I could take no
@@ -1415,7 +1415,7 @@ ciously pleased to reveal himself <lb/> to me.
 						hour </p>
 				</div>
 				<div type="page" n="11">
-					<pb n="11" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-12.jpg"/>
+					<pb n="11" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-12.jpg"/>
 					<note>This is page two of a two page insertion into the text of the
 						memoir</note>
 					<p> would sacrifice duty to <lb/> pleasure. Every inmate <lb/> of the house must
@@ -1446,7 +1446,7 @@ ciously pleased to reveal himself <lb/> to me.
 						feel that they have lost </p>
 				</div>
 				<div type="page" n="12">
-					<pb n="12" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-13.jpg"/>
+					<pb n="12" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-13.jpg"/>
 					<p> in our late Sister, a sincere &amp; <lb/> valued friend &amp; conscientious
 						<lb/> Christian. </p>
 					<p> Upright in principle &amp; faithful <lb/> in business, she did all she had
@@ -1476,7 +1476,7 @@ ciously pleased to reveal himself <lb/> to me.
 						to hear the prayers of his people, </p>
 				</div>
 				<div type="page" n="13">
-					<pb n="13" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-14.jpg"/>
+					<pb n="13" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-14.jpg"/>
 					<p> when they plead with him for the <lb/> furtherance of his gospel, but also
 						unto <lb/> man, by the lively &amp; intelligent <lb/> interest she always
 						displayed in con <lb/> versations on the subject of Missionary <lb/>
@@ -1512,7 +1512,7 @@ ciously pleased to reveal himself <lb/> to me.
 						tion and prayer with the dear patient, </p>
 				</div>
 				<div type="page" n="14">
-					<pb n="14" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_SS_53Fletcher-15.jpg"/>
+					<pb n="14" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_53Fletcher-15.jpg"/>
 					<p> she remarked on his enquiry, if she felt <lb/> her Saviour near, that He was her only <lb/>
 						real comfort and true support; for <lb/> what should I do <hi rend="underline">without Him</hi> now? <lb/> And truly He was with her
 						in her <lb/> last hour; her own Memoir tells us, <lb/> that she knew, in
