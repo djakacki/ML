@@ -121,7 +121,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_16HuntHannah-01.jpg" n="1" />
+<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_16HuntHannah-01.jpg" n="1" />
 			<p>
 				
 					The Course of Life of the Great Girl Hannah Hunt
@@ -159,8 +159,9 @@
 					great pain &amp; concern over my poor Salvation; which brought
 					me upon more serious reflection &amp; I began to be more incurably 
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_16HuntHannah-02.jpg" n="2" />
+			</p></div>
+			<div>			
+				<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_16HuntHannah-02.jpg" n="2" />
 			<p>
 				
 					convinced of the great danger I was in, so that I became
@@ -240,7 +241,7 @@
 					Her choir &amp; Enterd into Her Eternal rest July 20 1769
 					&amp; in the 14 year of Her age, 
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
