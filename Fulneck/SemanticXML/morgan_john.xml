@@ -6,13 +6,15 @@
 			<titleStmt>
 				<title>John Morgan: Memoir</title>
 				<funder>The Moravian Lives Project</funder>
-				<principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+				<principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal
+					Investigator <orgName>Bucknell University</orgName>
 					<address>
 						<addrLine>Lewisburg, Pennsylvania</addrLine>
 					</address>
 					<email>faull@bucknell.edu</email>
 				</principal>
-				<principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+				<principal><persName>Christer Ahlberger</persName>, Principal Investigator,
+					2015-2018 <orgName>University of Gothenburg</orgName>
 					<address>
 						<addrLine>Gothenburg, Sweden</addrLine>
 					</address>
@@ -82,7 +84,8 @@
 			<publicationStmt>
 				<distributor>The Moravian Lives Project</distributor>
 				<availability>
-					<licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+					<licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+						International</licence>
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
@@ -90,15 +93,24 @@
 					<msIdentifier>
 						<repository ref="#mlpla000003">Moravian Archives, Fulneck</repository>
 						<msName type="memoir" ana="Ful_3_54_MorganJohn">John Morgan</msName>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-01.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-02.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-01.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-02.jpg"
+						/>
 					</msIdentifier>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
-		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+					<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -173,7 +185,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -248,7 +260,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -322,7 +334,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -396,7 +408,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -470,7 +482,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -544,7 +556,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -618,7 +630,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -692,7 +704,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -766,7 +778,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -840,7 +852,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -914,7 +926,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -990,7 +1002,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1066,7 +1078,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1142,7 +1154,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1216,7 +1228,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1290,7 +1302,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1365,7 +1377,8 @@
 	},
 	"oa:hasCertainty": "cwrc:high"
 }
-]]></rdf:Description></rdf:RDF></xenoData><profileDesc>
+]]></rdf:Description></rdf:RDF></xenoData>
+		<profileDesc>
 			<particDesc>
 				<person role="subject">
 					<persName ref="#mlper000563">John Morgan</persName>
@@ -1376,7 +1389,8 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
-			<change when="2019-07-02" who="#jschaumberger">Started and finished markup of file</change>
+			<change when="2019-07-02" who="#jschaumberger">Started and finished markup of
+				file</change>
 			<change when="2019-06-30" who="#JAKA1">Created John Morgan file</change>
 			<change when="2019-06-10" who="#JAKA1">Updated header</change>
 		</revisionDesc>
@@ -1386,116 +1400,181 @@
 			<div type="memoir">
 				<head>John Morgan</head>
 				<div type="page" n="1">
-					<pb facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-01.jpg" n="1"/>
-					<p> <name type="event" ana="death" when-iso="1761-05-09">Departed</name> <date type="death" when-iso="1761-05-09">May the 9<hi rend="superscript">th</hi>
-							1761</date>
-						<lb/>The Youth <persName ref="#mlper000563">John Morgan</persName> was <name type="event" ana="birth" when-iso="1743-05-26">born at <placeName ref="#mlpla000199" cert="high">Kensington near London</placeName></name>
+					<pb
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_54_MorganJohn-01.jpg"
+						n="1"/>
+					<p>
+						<eventName type="death" when-iso="1761-05-09">Departed</eventName>
+						<date type="death" when-iso="1761-05-09">May the 9<hi rend="superscript"
+								>th</hi> 1761</date>
+						<lb/>The Youth <persName ref="#mlper000563">John Morgan</persName> was
+							<eventName type="birth" when-iso="1743-05-26">born at <placeName
+								ref="#mlpla000199" cert="high">Kensington near
+							London</placeName></eventName>
 						<lb/>
-						<date type="birth" when-iso="1743-05-26">May the 26<hi rend="superscript">th</hi> 1743</date>. <name type="event" ana="arrival" when-iso="1746">He came to the <orgName en="œconomy">Childn<hi rend="superscript">s</hi> Oeconomy</orgName> at <placeName ref="#mlpla000031" cert="high">Buttermeer</placeName>
-<lb/>
-when he was <date when="1746" cert="high">about 3 Years old</date></name>, and came from thence with the <lb/> whole <orgName en="œconomy">Oeconomy</orgName> to <placeName>Smith house</placeName> in
-							<date when-iso="1749">1749</date>. During his childhood he <lb/> had a
-						promising Genius and Capacity for learning, and in his <lb/> disposition had
-						something pretty and taking, but with regard to <lb/> his heart there always
-						appeard a tendency to being close, and <name emotion="reserved">re-
-<lb/>
-serv'd</name>, which often
-						made his <roleName type="honorific">Brn</roleName> <name emotion="sigh">sigh</name>, least in futurity the same <lb/> should continue and
-						consequently prove detrimental to his Boys and <lb/> Youths course in the
-							<orgName>Congn</orgName>
+						<date type="birth" when-iso="1743-05-26">May the 26<hi rend="superscript"
+								>th</hi> 1743</date>. <eventName type="arrival" when-iso="1746">He
+							came to the <affiliation type="œconomy">Childn<hi rend="superscript"
+									>s</hi> Oeconomy</affiliation> at <placeName ref="#mlpla000031"
+								cert="high">Buttermeer</placeName>
+							<lb/> when he was <date when="1746" cert="high">about 3 Years
+							old</date></eventName>, and came from thence with the <lb/> whole
+							<affiliation type="œconomy">Oeconomy</affiliation> to <placeName>Smith
+							house</placeName> in <date when-iso="1749">1749</date>. During his
+						childhood he <lb/> had a promising Genius and Capacity for learning, and in
+						his <lb/> disposition had something pretty and taking, but with regard to
+						<lb/> his heart there always appeard a tendency to being close, and <name
+							type="emotion" key="reserved">re- <lb/> serv'd</name>, which often made
+						his <roleName type="honorific">Brn</roleName>
+						<name type="emotion" key="sigh">sigh</name>, least in futurity the same
+						<lb/> should continue and consequently prove detrimental to his Boys and
+						<lb/> Youths course in the <orgName>Congn</orgName>
 					</p>
-					<p> About the time of the <orgName en="œconomy">Oeconomies</orgName> removing from
-							<placeName>Smith house</placeName>
-						<lb/> to <placeName ref="#mlpla000048">Lambshill</placeName> in <date when-iso="1753">1753</date> there often appeared something of the dear
-						Mo- <lb/> thers Labour <name emotion="upon his heart">upon his Heart</name>, particularly when his <name emotion="curiosity">curiosity</name> of
-						which <lb/> he had a great share led him upon searching into things which he
-						was <lb/> afterwards <name emotion="shy">shy</name> in speaking about. In this course he went on, and
-						<lb/> his <orgName religion="Moravian Church">Br<hi rend="superscript">n</hi> </orgName> were often <name emotion="very much distressed">very much distressed</name> on
-						his Account, and full of <lb/> <name emotion="fears">fears</name> lest his want of uprightness and
-						openness would make his course <lb/> <name emotion="heavy">heavy</name> to himself and <name emotion="painful">painful</name> to our
-							<roleName type="honorific">Saviour</roleName> &amp; this <orgName religion="Moravian Church">Br<hi rend="superscript">n</hi></orgName> he had how- <lb/> ever Intervals
-						betwixt, sometimes <name type="emotion"><name emotion="dear">dear</name> and promising</name> &amp; then
-						again <lb/>
-						<name type="emotion"><name emotion="dark">dark</name> and <name emotion="gloomy">gloomy</name></name>, particularly if any thing
-						manifestly appeared against <lb/> him on account of which he should become a
-						Sinner. However he <lb/> applied himself with exemplary Diligence to writing
-							<orgName en="congregation">Cong<hi rend="superscript">n</hi></orgName>
-						Accounts, <lb/> and showed a certain <name emotion="pleasure">pleasure</name> in doing whatsoever was
-						committed to <lb/> him with great faithfulness and punctuallity. </p>
-					<p> <name type="event" ana="reception" when-iso="1797-01-09">He was receiv'd into the <orgName en="greater boys choir">great Boys choir</orgName> <date when="1797-01-09" cert="high">Jan<hi rend="superscript">y</hi> 9, 1797</date> by <persName ref="#mlper000166" cert="high" type="real">B<hi rend="superscript">r</hi> Renatus</persName></name>
-						<lb/> which seemingly had a <name emotion="blessed">blessed</name> effect upon him for a long time af-
-						<lb/> ter, but his close disposition of Mind caused him many <name emotion="anxious">anxious</name> <lb/>
-						moments, when he heard he should be spoke with separately, and he sel- <lb/>
-						dom returned from it but with <name emotion="red and wet eyes">red and wet Eyes</name> on Account thereof. <lb/> He
-						came to live in the <placeName>Choir-house</placeName> and <rs ref="mlocc000045" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">learn the shoema-
-<lb/>
-kers business</rs>
+					<p> About the time of the <affiliation type="œconomy">Oeconomies</affiliation>
+						removing from <placeName>Smith house</placeName>
+						<lb/> to <placeName ref="#mlpla000048">Lambshill</placeName> in <date
+							when-iso="1753">1753</date> there often appeared something of the dear
+						Mo- <lb/> thers Labour <name type="emotion" key="upon his heart">upon his
+							Heart</name>, particularly when his <name type="emotion" key="curiosity"
+							>curiosity</name> of which <lb/> he had a great share led him upon
+						searching into things which he was <lb/> afterwards <name type="emotion"
+							key="shy">shy</name> in speaking about. In this course he went on, and
+						<lb/> his <orgName type="moravian">Br<hi rend="superscript">n</hi>
+						</orgName> were often <name type="emotion" key="very much distressed">very
+							much distressed</name> on his Account, and full of <lb/>
+						<name type="emotion" key="fears">fears</name> lest his want of uprightness
+						and openness would make his course <lb/>
+						<name type="emotion" key="heavy">heavy</name> to himself and <name
+							type="emotion" key="painful">painful</name> to our <roleName
+							type="honorific">Saviour</roleName> &amp; this <orgName type="moravian"
+								>Br<hi rend="superscript">n</hi></orgName> he had how- <lb/> ever
+						Intervals betwixt, sometimes <name type="emotion"><name type="emotion"
+								key="dear">dear</name> and promising</name> &amp; then again <lb/>
+						<name type="emotion"><name type="emotion" key="dark">dark</name> and <name
+								type="emotion" key="gloomy">gloomy</name></name>, particularly if
+						any thing manifestly appeared against <lb/> him on account of which he
+						should become a Sinner. However he <lb/> applied himself with exemplary
+						Diligence to writing <affiliation type="congregation">Cong<hi
+								rend="superscript">n</hi></affiliation> Accounts, <lb/> and showed a
+						certain <name type="emotion" key="pleasure">pleasure</name> in doing
+						whatsoever was committed to <lb/> him with great faithfulness and
+						punctuallity. </p>
+					<p>
+						<eventName type="reception" when-iso="1797-01-09">He was receiv'd into the
+								<affiliation type="greater_boys_choir">great Boys
+								choir</affiliation>
+							<date when="1797-01-09" cert="high">Jan<hi rend="superscript">y</hi> 9,
+								1797</date> by <persName ref="#mlper000166" cert="high" type="real"
+									>B<hi rend="superscript">r</hi> Renatus</persName></eventName>
+						<lb/> which seemingly had a <name type="emotion" key="blessed"
+							>blessed</name> effect upon him for a long time af- <lb/> ter, but his
+						close disposition of Mind caused him many <name type="emotion" key="anxious"
+							>anxious</name>
+						<lb/> moments, when he heard he should be spoke with separately, and he sel-
+						<lb/> dom returned from it but with <name type="emotion"
+							key="red and wet eyes">red and wet Eyes</name> on Account thereof. <lb/>
+						He came to live in the <placeName>Choir-house</placeName> and <rs
+							ref="mlocc000045" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation"
+							cert="high">learn the shoema- <lb/> kers business</rs>
 						<date when-iso="1758-08-21">August the 21<hi rend="superscript">st</hi>
-							1758</date>, His diligence at his Work and <lb/> <name emotion="desire">desire</name> to learn the
-						business thoroughly was <name emotion="pleasing">pleasing</name> to every <note type="catchword">one</note></p>
+							1758</date>, His diligence at his Work and <lb/>
+						<name type="emotion" key="desire">desire</name> to learn the business
+						thoroughly was <name type="emotion" key="pleasing">pleasing</name> to every
+							<note type="catchword">one</note></p>
 				</div>
 				<div type="page" n="2">
-					<pb facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_54_MorganJohn-02.jpg" n="2"/>
-					<p> one who had to do with him but he laboured under an <name health="disease">impedi- <lb/>
-							ment in his Eyesight</name> which often <name emotion="pained">pain'd</name> him and made him
-						<name emotion="despair">dis-
-<lb/>
-pair</name> sometimes of ever learning to work as he should do </p>
-					<p> In <date when-iso="1759-11">Nov<hi rend="superscript">r</hi> 1759</date> he was one of
-						those Youths whom our dear Johannes <lb/>regulated during his visit
-						here, since which time he has been more <lb/><name emotion="clear">clear</name> and <name emotion="unreserved">unreserved</name> than
-						ever before. In general his course outwardly <lb/> has been very orderly
-						ever since he came into the <placeName>choirhouse</placeName>, <lb/> always
-						showing Obedience to his <orgName>Br<hi rend="superscript">n</hi></orgName>
-						and esteeming that as highly <lb/> necessary both in himself and others.
-						Those 3 or 4 Months past <lb/> he has been much more <name emotion="concerned">concern'd</name> for a
-						<name emotion="lively">lively</name> <name emotion="heart">Heart</name>, and spoke <lb/> of it with more feeling than formerly, was
-						also more <name emotion="clear">clear</name> and <name emotion="open">open</name> <lb/> &amp; had a more real connexion with our
-							<roleName type="honorific">Savr</roleName>. In the begining of his <lb/>
-						<name health="disease">Sickness</name> which was towards the <date when-iso="1761-04">latter end of April</date>, he did not think <lb/>
-						much of going home, nor did he <name emotion="desire">desire</name> it much because his <name emotion="heart">heart</name> <lb/> was
-						<name emotion="not in so tender">not in so tender</name> to situation towards our <roleName type="honorific">Savr</roleName> as it could &amp; <lb/> should be. Several serious
+					<pb
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG//MAF/Ful_3_54_MorganJohn-02.jpg"
+						n="2"/>
+					<p> one who had to do with him but he laboured under an <name type="health"
+							subtype="disease">impedi- <lb/> ment in his Eyesight</name> which often
+							<name type="emotion" key="pained">pain'd</name> him and made him <name
+							type="emotion" key="despair">dis- <lb/> pair</name> sometimes of ever
+						learning to work as he should do </p>
+					<p> In <date when-iso="1759-11">Nov<hi rend="superscript">r</hi> 1759</date> he
+						was one of those Youths whom our dear Johannes <lb/>regulated during his
+						visit here, since which time he has been more <lb/><name type="emotion"
+							key="clear">clear</name> and <name type="emotion" key="unreserved"
+							>unreserved</name> than ever before. In general his course outwardly
+						<lb/> has been very orderly ever since he came into the
+							<placeName>choirhouse</placeName>, <lb/> always showing Obedience to his
+								<orgName>Br<hi rend="superscript">n</hi></orgName> and esteeming
+						that as highly <lb/> necessary both in himself and others. Those 3 or 4
+						Months past <lb/> he has been much more <name type="emotion" key="concerned"
+							>concern'd</name> for a <name type="emotion" key="lively">lively</name>
+						<name type="emotion" key="heart">Heart</name>, and spoke <lb/> of it with
+						more feeling than formerly, was also more <name type="emotion" key="clear"
+							>clear</name> and <name type="emotion" key="open">open</name>
+						<lb/> &amp; had a more real connexion with our <roleName type="honorific"
+							>Savr</roleName>. In the begining of his <lb/>
+						<name type="health" subtype="disease">Sickness</name> which was towards the
+							<date when-iso="1761-04">latter end of April</date>, he did not think
+						<lb/> much of going home, nor did he <name type="emotion" key="desire"
+							>desire</name> it much because his <name type="emotion" key="heart"
+							>heart</name>
+						<lb/> was <name type="emotion" key="not in so tender">not in so
+							tender</name> to situation towards our <roleName type="honorific"
+							>Savr</roleName> as it could &amp; <lb/> should be. Several serious
 						bands were kept with him, whereby <lb/> he discovered a sensibility not
 						observed in him before. The <lb/> 5<hi rend="superscript">th</hi> Instant he
-						altered, told a Labourer he knew he was <name emotion="much concerned">much
-<lb/>
-concern'd</name> on his
-						Account, and not without Reason, for said he <lb/>
-						<name health="disease">my <name emotion="heart">heart</name> has <name emotion="not been so lively">not been so lively</name> as it should</name>,
-						but be <name emotion="not distressed">not distress'd</name> <lb/> or <name emotion="troubled">troubled</name> about me, perhaps you may think
-						it would not be <name emotion="agreeable">agre-
-<lb/>
-able</name> to me to go home, but I can <name emotion="ease">ease</name> you on
-						that Account, and <lb/> assure you my <name emotion="concern">concern</name> comes not from that Corner,
-						whenever he calls <lb/> me he will take one to himself, I am his &amp; shall
-						certainly go to <lb/> him, this is a clear and made out matter to me, but my
-						<name emotion="concern">concern</name> <lb/> is that my <name emotion="heart">heart</name> is <name emotion="not more lively">not more lively</name> and <name emotion="warm">warm</name> &amp; that I have
-						<name emotion="not enjoyed">not
-<lb/>
-enjoy'd</name> his precious nearness as I could and should have
-						done. <lb/> This Conversation was sattisfactory. He also spoke with our
-							<roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>
-						<lb/> from that time in a more Sinnerlike but <name emotion="confident">confident</name> manner <lb/> as long
-						as he was able to speak, &amp; also told his Labourers and other <lb/>
-						<orgName>Brn</orgName> <name type="event" ana="spiritual">he now knew he should go home this time express'd also
-<lb/>
-a <name emotion="desire">desire</name> after it.</name> At last it was <name health="disease">very difficult for him to speak</name>
-						<lb/> but when visited did all in his power to render himself intelligible <note type="catchword">and</note></p>
+						altered, told a Labourer he knew he was <name type="emotion"
+							key="much concerned">much <lb/> concern'd</name> on his Account, and not
+						without Reason, for said he <lb/>
+						<name type="health" subtype="disease">my <name type="emotion" key="heart"
+								>heart</name> has <name type="emotion" key="not been so lively">not
+								been so lively</name> as it should</name>, but be <name
+							type="emotion" key="not distressed">not distress'd</name>
+						<lb/> or <name type="emotion" key="troubled">troubled</name> about me,
+						perhaps you may think it would not be <name type="emotion" key="agreeable"
+							>agre- <lb/> able</name> to me to go home, but I can <name
+							type="emotion" key="ease">ease</name> you on that Account, and <lb/>
+						assure you my <name type="emotion" key="concern">concern</name> comes not
+						from that Corner, whenever he calls <lb/> me he will take one to himself, I
+						am his &amp; shall certainly go to <lb/> him, this is a clear and made out
+						matter to me, but my <name type="emotion" key="concern">concern</name>
+						<lb/> is that my <name type="emotion" key="heart">heart</name> is <name
+							type="emotion" key="not more lively">not more lively</name> and <name
+							type="emotion" key="warm">warm</name> &amp; that I have <name
+							type="emotion" key="not enjoyed">not <lb/> enjoy'd</name> his precious
+						nearness as I could and should have done. <lb/> This Conversation was
+						sattisfactory. He also spoke with our <roleName type="honorific">Sav<hi
+								rend="superscript">r</hi></roleName>
+						<lb/> from that time in a more Sinnerlike but <name type="emotion"
+							key="confident">confident</name> manner <lb/> as long as he was able to
+						speak, &amp; also told his Labourers and other <lb/>
+						<orgName>Brn</orgName>
+						<eventName type="spiritual">he now knew he should go home this time
+							express'd also <lb/> a <name type="emotion" key="desire">desire</name>
+							after it.</eventName> At last it was <name type="health"
+							subtype="disease">very difficult for him to speak</name>
+						<lb/> but when visited did all in his power to render himself intelligible
+							<note type="catchword">and</note></p>
 					<cb/>
-					<p> and particularly to express himself about going home. The <date when-iso="1761-05-07">7<hi rend="superscript">th</hi></date>
-						<lb/> in the Morning <name type="event" ana="spiritual">he expressed again his <name emotion="desire">desire</name> to go home</name> so as to <lb/>
-						be understood, &amp; about 11 at Night his Sickness took such a turn <lb/>
-						that it was thought he would go directly. </p>
-					<p> From this time he took very little notice of any person or thing <lb/> about him but lay
-						quite still seemingly <name emotion="without pain">without pain</name> till the <date when-iso="1761-05-09">9<hi rend="superscript">th</hi></date>
-						<lb/> (that ever memorable day) in the evening while the <orgName>Cong<hi rend="superscript">n</hi></orgName> was <lb/> <name emotion="enjoying">enjoying</name> the <name type="event" ana="communion">holy Communion</name>, about 1/2 an hour before his
-						de- <lb/> parture he came quite to himself, was very sensible of his <name emotion="pain">pain</name>,
-						<lb/> but not able to speak, &amp; 3/4 past 9 while the <orgName en="congregation">Cong<hi rend="superscript">n</hi></orgName> prostrated <lb/> he was deliverd into the
-						hands of his <roleName type="honorific">Redeemer</roleName> in a peculiar
-						<lb/> <name emotion="tender">tender</name> manner, to whom he breathed out his spirit with the <name emotion="blessing">bles-
-<lb/>
-sing</name> of his Choir, &amp; during the singing of several Verses in <lb/> his
-							18<hi rend="superscript">th</hi> Year </p>
+					<p> and particularly to express himself about going home. The <date
+							when-iso="1761-05-07">7<hi rend="superscript">th</hi></date>
+						<lb/> in the Morning <eventName type="spiritual">he expressed again his
+								<name type="emotion" key="desire">desire</name> to go
+							home</eventName> so as to <lb/> be understood, &amp; about 11 at Night
+						his Sickness took such a turn <lb/> that it was thought he would go
+						directly. </p>
+					<p> From this time he took very little notice of any person or thing <lb/> about
+						him but lay quite still seemingly <name type="emotion" key="without pain"
+							>without pain</name> till the <date when-iso="1761-05-09">9<hi
+								rend="superscript">th</hi></date>
+						<lb/> (that ever memorable day) in the evening while the <orgName>Cong<hi
+								rend="superscript">n</hi></orgName> was <lb/>
+						<name type="emotion" key="enjoying">enjoying</name> the <eventName
+							type="communion">holy Communion</eventName>, about 1/2 an hour before
+						his de- <lb/> parture he came quite to himself, was very sensible of his
+							<name type="emotion" key="pain">pain</name>, <lb/> but not able to
+						speak, &amp; 3/4 past 9 while the <affiliation type="congregation">Cong<hi
+								rend="superscript">n</hi></affiliation> prostrated <lb/> he was
+						deliverd into the hands of his <roleName type="honorific"
+							>Redeemer</roleName> in a peculiar <lb/>
+						<name type="emotion" key="tender">tender</name> manner, to whom he breathed
+						out his spirit with the <name type="emotion" key="blessing">bles- <lb/>
+							sing</name> of his Choir, &amp; during the singing of several Verses in
+						<lb/> his 18<hi rend="superscript">th</hi> Year </p>
 				</div>
 			</div>
 		</body>
