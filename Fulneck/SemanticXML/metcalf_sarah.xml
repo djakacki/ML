@@ -122,7 +122,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_32Metcalf-01.jpg" n="1" />
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_32Metcalf-01.jpg" n="1" />
 			<p>
 				
 					The Course of life of the Single Sister Sarah Metcalf
@@ -152,8 +152,8 @@
 					kept by the B<hi rend="superscript:true;">rns</hi> at Smithhouse &amp; also at my fathers
 					yet a midst all this I lik'd not to venture upon any
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_32Metcalf-02.jpg" n="2" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_32Metcalf-02.jpg" n="2" />
 			<p>
 				
 					<add place="above">foundation</add> then my own works &amp; selfrighteous &amp; quotation from
@@ -214,8 +214,8 @@
 					with Joy &amp; comfort as a poor Sinner, &amp; wish from the
 					bottom of my heart to have been &amp; seen more &amp; more
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_32Metcalf-03.jpg" n="3" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_32Metcalf-03.jpg" n="3" />
 			<p>
 				
 					<hi rend="strikethrough:true;">more &amp; more</hi> of that great Happyness that is injoy<add place="above">able</add>
@@ -233,7 +233,7 @@
 					feel my self a needy Sinner before my Lord &amp; Saviour
 					thro' percied Feet.
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
