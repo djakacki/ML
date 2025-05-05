@@ -945,7 +945,7 @@
 			<div type="memoir">
 				<head>Benjamin Sheard</head>
 				<div type="page" n="1">
-					<pb n="1" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_07_SheardBenjamin-01.jpg"/>
+					<pb n="1" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_07_SheardBenjamin-01.jpg"/>
 					<p>
 						
 							The Life of <roleName type="honorific">B<hi rend="superscript">r</hi> </roleName> <persName ref="#mlper000538" cert="high" type="real">Benjamin Sheard</persName><lb/>
@@ -954,32 +954,32 @@
 					</p>
 					<p>
 						
-						<name type="event" ana="birth" when-iso="1715-10-30">I was born at <placeName ref="#mlpla000094" cert="high">Littletown in the Parish of Birstal</placeName>
+						<eventName type="birth" when-iso="1715-10-30">I was born at <placeName ref="#mlpla000094" cert="high">Littletown in the Parish of Birstal</placeName>
 <lb/>
-<date when="1715-11-30" cert="high">Novr 30<hi rend="superscript">th</hi> 1715</date></name> my Parents beeing <orgName religion="Presbyterian">Presbeterians</orgName>, <lb/>
-						I was <name type="event" ana="baptism" when-iso="1731">Baptised, &amp; brought up in the <orgName religion="Presbyterian">Same Religion</orgName></name> <lb/>
+<date when="1715-11-30" cert="high">Novr 30<hi rend="superscript">th</hi> 1715</date></eventName> my Parents beeing <orgName type="presbyterian">Presbeterians</orgName>, <lb/>
+						I was <eventName type="baptism" when-iso="1731">Baptised, &amp; brought up in the <orgName type="presbyterian">Same Religion</orgName></eventName> <lb/>
 						when I was about <date cert="medium" when="1731"> 16 Years of Age</date> my Corruption <lb/>
 						got the mastery over me, and let me in to all manner <lb/>
 						of amusements as Singing &amp; Dancing and the <lb/>
-						<name emotion="pleasures">pleasures</name> of this world, which I pursued with my <lb/>
-						<name emotion="whole heart">Whole Heart</name> for 3 Years, which was a <name emotion="great grief">great Grief</name> <lb/>
+						<name type="emotion" key="pleasures">pleasures</name> of this world, which I pursued with my <lb/>
+						<name type="emotion" key="whole heart">Whole Heart</name> for 3 Years, which was a <name type="emotion" key="great grief">great Grief</name> <lb/>
 						to my Parents, they admonishd me many times <lb/>
 						to leave of this ways, but all was to no purpose <lb/>
 						for I found I could not help my self. In <date when="1734-04-01" cert="high">April <lb/>
-							1734</date> I was <name type="event" ana="marriage" when-iso="1734-04">Married with my wife at <placeName ref="#mlpla000220" cert="high">Birstal
+							1734</date> I was <eventName type="marriage" when-iso="1734-04">Married with my wife at <placeName ref="#mlpla000220" cert="high">Birstal
 <lb/>
-Church</placeName></name>. In <date when="1738" cert="high">1738</date> I had Some Conversation <lb/>
+Church</placeName></eventName>. In <date when="1738" cert="high">1738</date> I had Some Conversation <lb/>
 						with a man who told me how he had been awaken <lb/>
-						end, and what <name emotion="distress">Distress</name> he had been in &amp; how <lb/>
+						end, and what <name type="emotion" key="distress">Distress</name> he had been in &amp; how <lb/>
 						our <roleName type="honorific">Saviour</roleName> had delivered him, he lent me <lb/>
 						a Book to read, called the Young mans Guide <lb/>
 						upon which I begun to read, &amp; to pray &amp; to reform <lb/>
-						my Life, but the <name emotion="happy">happy</name> change did not last <lb/>
+						my Life, but the <name type="emotion" key="happy">happy</name> change did not last <lb/>
 						long, but I fell soon in to my old course again <lb/>
 						untill the <date when="1739-01-01" cert="high">Year 1739</date> when <persName ref="#mlper000536" cert="high" type="real">M<hi rend="superscript">r</hi> Ingham</persName> begun <lb/>
 						to preach and Settled Societys I went to hear <lb/>
-						him, but I felt such a <name emotion="condemnation in my heart">Condemnation in my heart</name>, <lb/>
-						thinking my day of <name emotion="grace">Grace</name> was past &amp; that there <lb/>
+						him, but I felt such a <name type="emotion" key="condemnation in my heart">Condemnation in my heart</name>, <lb/>
+						thinking my day of <name type="emotion" key="grace">Grace</name> was past &amp; that there <lb/>
 						was no mercy for me, In this situation I remained <lb/>
 						for Some time, but at last our <roleName type="honorific">Saviour</roleName> gave <lb/>
 						<note type="catchword">me</note>
@@ -987,35 +987,35 @@ Church</placeName></name>. In <date when="1738" cert="high">1738</date> I had So
 					</p>
 				</div>
 				<div type="page" n="2">
-					<pb n="2" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_07_SheardBenjamin-02.jpg"/>
+					<pb n="2" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_07_SheardBenjamin-02.jpg"/>
 					<p>
 						
-						me a <name emotion="gracious look">Gracious Look</name> and <name>Refreshed my <name emotion="poor heart">poor heart</name></name> <lb/>
-						In this <name emotion="happy feeling">happy feeling</name> I went on for Some time, I got  <lb/>
-						more &amp; more acquainted with the <orgName religion="Moravian Church">B<hi rend="superscript">rn</hi> </orgName> which proved <lb/>
-						a <name><name emotion="great blessing">great Blessing</name> <name emotion="to my heart">to my heart</name></name>, but when I began to <lb/>
-						think well of my self <name>I lost that <name emotion="happy feeling">happy feeling</name> and
+						me a <name type="emotion" key="gracious look">Gracious Look</name> and <name>Refreshed my <name type="emotion" key="poor heart">poor heart</name></name> <lb/>
+						In this <name type="emotion" key="happy feeling">happy feeling</name> I went on for Some time, I got  <lb/>
+						more &amp; more acquainted with the <orgName type="moravian">B<hi rend="superscript">rn</hi> </orgName> which proved <lb/>
+						a <name><name type="emotion" key="great blessing">great Blessing</name> <name type="emotion" key="to my heart">to my heart</name></name>, but when I began to <lb/>
+						think well of my self <name>I lost that <name type="emotion" key="happy feeling">happy feeling</name> and
 <lb/>
-became <name emotion="dry in my heart">dry in my heart</name></name>, but my dear <roleName type="honorific">Saviour</roleName> <lb/>
+became <name type="emotion" key="dry in my heart">dry in my heart</name></name>, but my dear <roleName type="honorific">Saviour</roleName> <lb/>
 						Shewed me my deviation and I crept to Him <lb/>
 						as a Sinner, <date when="1750-03-02" cert="high">March 2<hi rend="superscript">d</hi> 1750</date> I and my wife <lb/>
-						had the <name emotion="grace">Grace</name> &amp; favour to be <name type="event" ana="reception" when-iso="1750-03-02">Received in to the
+						had the <name type="emotion" key="grace">Grace</name> &amp; favour to be <eventName type="reception" when-iso="1750-03-02">Received in to the
 <lb/>
-<orgName en="congregation">Congregation</orgName> at <placeName cert="high" ref="#mlpla000003">Fulneck</placeName></name>, which was a real <lb/>
-						<name emotion="blessing">Blessing</name> <name emotion="for my poor heart">for my poor heart</name>, there I felt that <lb/>
+<affiliation type="congregation">Congregation</affiliation> at <placeName cert="high" ref="#mlpla000003">Fulneck</placeName></eventName>, which was a real <lb/>
+						<name type="emotion" key="blessing">Blessing</name> <name type="emotion" key="for my poor heart">for my poor heart</name>, there I felt that <lb/>
 						our dear <roleName type="honorific">Saviour</roleName> watched in the midst of <lb/>
-						His <orgName en="congregation">Congregation</orgName>, and that I was one of His  <lb/>
-						Family, <name>Some times I <name emotion="distress">wept</name> on account of
+						His <affiliation type="congregation">Congregation</affiliation>, and that I was one of His  <lb/>
+						Family, <name>Some times I <name type="emotion" key="distress">wept</name> on account of
 <lb/>
 my faults &amp; wants and Some times my
 <lb/>
-<name emotion="heart near melted">heart near melted</name> with <name emotion="mercy">mercy</name> &amp; <name emotion="forgiveness">forgiveness</name></name>. <lb/>
+<name type="emotion" key="heart near melted">heart near melted</name> with <name type="emotion" key="mercy">mercy</name> &amp; <name type="emotion" key="forgiveness">forgiveness</name></name>. <lb/>
 						In our married state our <roleName type="honorific">Saviour</roleName> has <lb/>
-						<name emotion="blessed">Blessed</name> us with 12 children 6 sons &amp; <lb/>
+						<name type="emotion" key="blessed">Blessed</name> us with 12 children 6 sons &amp; <lb/>
 						6 Daughters, all are gone before me <lb/>
 						Except 2 daughters who are under the <lb/>
-						Care of the <orgName en="congregation">Congregation</orgName>, with my wife I  <lb/>
-						<name>have lived <name emotion="happy">happy</name> and <name emotion="agreeable">agreeable</name></name>. 
+						Care of the <affiliation type="congregation">Congregation</affiliation>, with my wife I  <lb/>
+						<name>have lived <name type="emotion" key="happy">happy</name> and <name type="emotion" key="agreeable">agreeable</name></name>. 
 						
 					</p>
 					<p>
@@ -1025,43 +1025,43 @@ my faults &amp; wants and Some times my
 					</p>
 					<p>
 						
-						He partook of the <name type="event" ana="sacrament" when-iso="1750-09-19">Lords Supper</name> the first time <lb/>
-						with the <orgName en="congregation">Congr<hi rend="superscript">n</hi> </orgName> <date when="1750-09-19" cert="high">Sept 19<hi rend="superscript">th</hi> 1750</date>. He <name type="event" ana="reception" when-iso="1767-08">became
+						He partook of the <eventName type="sacrament" when-iso="1750-09-19">Lords Supper</eventName> the first time <lb/>
+						with the <affiliation type="congregation">Congr<hi rend="superscript">n</hi> </affiliation> <date when="1750-09-19" cert="high">Sept 19<hi rend="superscript">th</hi> 1750</date>. He <eventName type="reception" when-iso="1767-08">became
 <lb/>
-an <name office="#mloff000015">Acoluth</name> of the <orgName religion="Moravian Church">Brethrens church</orgName></name> in <date when="1767-08" cert="high">August <lb/>
-							1767</date>, and he was one of our <name office="#mloff000016">Comittee Brethren</name>
+an <name type="office" ref="#mloff000015">Acoluth</name> of the <orgName type="moravian">Brethrens church</orgName></eventName> in <date when="1767-08" cert="high">August <lb/>
+							1767</date>, and he was one of our <name type="office" ref="#mloff000016">Comittee Brethren</name>
 						
 					</p>
 					<cb/>
 					<p>
 						
-						He was much <name emotion="beloved">beloved</name> by his <orgName religion="Moravian Church">Brn</orgName> &amp; <orgName religion="Moravian Church">Sisters</orgName> <lb/>
+						He was much <name type="emotion" key="beloved">beloved</name> by his <orgName type="moravian">Brn</orgName> &amp; <orgName type="moravian">Sisters</orgName> <lb/>
 						and by his Neighboors as a Man of <persName type="real" cert="high">God</persName> <lb/>
-						he had a <name emotion="tender heart">tender heart</name> to our dear <roleName type="honorific">Saviour</roleName> <lb/>
+						he had a <name type="emotion" key="tender heart">tender heart</name> to our dear <roleName type="honorific">Saviour</roleName> <lb/>
 						and took, share in the weal &amp; was <lb/>
-						of the <orgName en="congregation">Congregation</orgName>. And he was Little <lb/>
+						of the <affiliation type="congregation">Congregation</affiliation>. And he was Little <lb/>
 							&amp; mean in his own Eyes.
 						
 					</p>
 					<p>
 						
-						he has been <name emotion="troubled">troubled</name> with an <name health="disease">Asthmatich
+						he has been <name type="emotion" key="troubled">troubled</name> with an <name type="health" subtype="disease">Asthmatich
 <lb/>
 Disorder</name> for Several Years, which he bore <lb/>
 						with great patience He was however able <lb/>
 						to follow his Bussness, &amp; come to the chapel <lb/>
 						till a few weeks before his End, he was <lb/>
-						<name emotion="cheerfully resigned">chearfully Resignd</name> to his dear <roleName type="honorific">Savr</roleName> <lb/>
+						<name type="emotion" key="cheerfully resigned">chearfully Resignd</name> to his dear <roleName type="honorific">Savr</roleName> <lb/>
 						on the <date when="1775-09-05" cert="high">5<hi rend="superscript">th</hi> of Sept</date> <persName cert="high" ref="#mlper000689" type="real"><roleName type="honorific">Br</roleName> Hauptman</persName> <lb/>
-						had a very <name emotion="cheerful">chearful</name> &amp; <name emotion="loving">loving</name> Conversation <lb/>
+						had a very <name type="emotion" key="cheerful">chearful</name> &amp; <name type="emotion" key="loving">loving</name> Conversation <lb/>
 						with him about being ready, &amp; without <lb/>
-						<name emotion="fear">fear</name> when our dear <roleName type="honorific">Lord</roleName> calls one <lb/>
+						<name type="emotion" key="fear">fear</name> when our dear <roleName type="honorific">Lord</roleName> calls one <lb/>
 							but no one did think that his End was
-							So near, <name type="event" ana="death" when-iso="1774-09-07">for on the 7<hi rend="superscript">th</hi> in the afternoon
+							So near, <eventName type="death" when-iso="1774-09-07">for on the 7<hi rend="superscript">th</hi> in the afternoon
 <lb/>
 he got permission to leave his mortal
 <lb/>
-Tent</name> in the 59<hi rend="superscript">th</hi> Year of his age.
+Tent</eventName> in the 59<hi rend="superscript">th</hi> Year of his age.
 						
 					</p>
 				</div>
