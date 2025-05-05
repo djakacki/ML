@@ -1096,7 +1096,7 @@
 	<text type="memoir">
 		<body xml:lang="en">
 				<div type="page" n="1">
-					<pb n="1" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_20_ShoesmithThomas-02.jpg"/>
+					<pb n="1" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_20_ShoesmithThomas-02.jpg"/>
 					<p>
 						
 
@@ -1109,28 +1109,28 @@
 					<p>
 						
 
-							<name type="event" ana="birth" when-iso="1741-02-20">He was born <date when="1741-02-20" cert="high">Febr 20 1741</date> in <placeName ref="#mlpla000103" cert="high">Norwood Green
+							<eventName type="birth" when-iso="1741-02-20">He was born <date when="1741-02-20" cert="high">Febr 20 1741</date> in <placeName ref="#mlpla000103" cert="high">Norwood Green
 <lb/>
-in the Parish of Halifax Yorkshire</placeName></name>; and<lb/>
-							<name type="event" ana="baptism">baptizd in the <orgName religion="Anglican">Church of England</orgName></name> His Parents<lb/>
+in the Parish of Halifax Yorkshire</placeName></eventName>; and<lb/>
+							<eventName type="baptism">baptizd in the <orgName type="anglican">Church of England</orgName></eventName> His Parents<lb/>
 							being some of the first <placeName ref="#mlpla000084" cert="high">Yorkshire</placeName> People that<lb/>
-							adher'd to the <name religion="Moravian">Breth<hi rend="superscript">n</hi> </name>perciev'd in his Boys years<lb/>
+							adher'd to the <orgName type="moravian">Breth<hi rend="superscript">n</hi> </orgName>perciev'd in his Boys years<lb/>
 							that he was often much drawn by our dearest<lb/>
-							<roleName type="honorific ">Saviour</roleName> and he knew it himerself but continually<lb/> resisted the <name emotion="grace">Grace</name> offerd unto him, and<lb/>
+							<roleName type="honorific ">Saviour</roleName> and he knew it himerself but continually<lb/> resisted the <name type="emotion" key="grace">Grace</name> offerd unto him, and<lb/>
 							even hinder'd his B<hi rend="superscript">r</hi> &amp; S<hi rend="superscript">rs</hi> by his bad Course.<lb/>
-							He did not <name emotion="like">like</name> to go to the <name type="event" ana="religious">Meetings</name> and would<lb/>
+							He did not <name type="emotion" key="like">like</name> to go to the <eventName type="ecclesiastical">Meetings</eventName> and would<lb/>
 							have even hinder'd his Parents, for which Pur-<lb/>pose once, <add place="above">when</add> he was about <date cert="medium" when="1755">14 Years of Age</date>, he<lb/>
 							contriv'd to behave very badly while they<lb/>
 							were gone to the Meetings at <placeName ref="#mlpla000003" cert="high">Fullneck</placeName> that<lb/>
-							they might <name emotion="fear">fear</name> to go another Time, but that<lb/>
+							they might <name type="emotion" key="fear">fear</name> to go another Time, but that<lb/>
 							Night he could not sleep till after Midnight<lb/>
-							for the <name emotion="disquietude">Disquietude</name> <name emotion="of his heart">of his Heart</name> and was<lb/>
-							<name emotion="terribly frighted">terribly frighted</name> by <name type="event" ana="spiritual">a Vision or Spectre
+							for the <name type="emotion" key="disquietude">Disquietude</name> <name type="emotion" key="of his heart">of his Heart</name> and was<lb/>
+							<name type="emotion" key="terribly frighted">terribly frighted</name> by <eventName type="spiritual">a Vision or Spectre
 <lb/>
 which, he always said, came to him while he
 <lb/>
-was yet awake</name>. This caused him to alter his<lb/>
-							Behaviour to an orderly but <name emotion="dejected">dejected</name> Course.<lb/>
+was yet awake</eventName>. This caused him to alter his<lb/>
+							Behaviour to an orderly but <name type="emotion" key="dejected">dejected</name> Course.<lb/>
 							<date cert="medium" when="1758">When he was about 17</date> he obtained Leave to live<lb/>
 
 							in the <placeName cert="high">Course House</placeName> where he continued 4
@@ -1138,12 +1138,12 @@ was yet awake</name>. This caused him to alter his<lb/>
 					</p>
 				</div>
 				<div type="page" n="2">
-					<pb n="2" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_20_ShoesmithThomas-03.jpg"/>
+					<pb n="2" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_20_ShoesmithThomas-03.jpg"/>
 					<p>
 						
 
-							or 5 Years, at first he was therein an <name emotion="hopeful">hopefull</name><lb/>
-							Youth &amp; was soon <name type="event" ana="reception">reciev'd into the <orgName en="congregation">Congregatn</orgName></name><lb/>
+							or 5 Years, at first he was therein an <name type="emotion" key="hopeful">hopefull</name><lb/>
+							Youth &amp; was soon <eventName type="reception">reciev'd into the <affiliation type="congregation">Congregatn</affiliation></eventName><lb/>
 							but after a while he became refractory and<lb/>
 							so very high minded that he lost his Senses<lb/>
 							and for some Time it become needfull to keep<lb/>
@@ -1158,87 +1158,87 @@ was yet awake</name>. This caused him to alter his<lb/>
 
 							seek a Place for himself. He then boarded<lb/>
 							for some Time with a Relation and went on<lb/>
-							in the Worlds bad Ways, but the <name emotion="convictions of his heart">Convictions of
+							in the Worlds bad Ways, but the <name type="emotion" key="convictions of his heart">Convictions of
 <lb/>
-his Heart</name> often made him <name emotion="uneasy">uneasy</name>. In about<lb/>
+his Heart</name> often made him <name type="emotion" key="uneasy">uneasy</name>. In about<lb/>
 							a Year he sought Acquaintance with his pre-<lb/>-sent Widow but her Relations opposing their<lb/>
 							Connexion he came awhile to his Father, and<lb/>
-							<name type="event" ana="arrival">then went to live in <placeName cert="high" ref="#mlpla000050" type="arrival">Leeds</placeName></name> where he listed for a<lb/>
-							<name occupation="#mlocc000098">Soldier</name>, but soon <name emotion="repented">repented</name> it and was got free by<lb/>
-							his Father, &amp; soon listed again &amp; <name emotion="repented">repented</name> again<lb/>
-							but was then oblig'd to remain a <name occupation="#mlocc000098">Soldier</name> about<lb/>
-							3 Months, tho' <name emotion="very miserable">very <name>miserable</name></name> &amp; <name emotion="much shocked">much shock'd</name> at<lb/>
+							<eventName type="arrival">then went to live in <placeName cert="high" ref="#mlpla000050" type="arrival">Leeds</placeName></eventName> where he listed for a<lb/>
+							<name type="occupation" ref="#mlocc000098">Soldier</name>, but soon <name type="emotion" key="repented">repented</name> it and was got free by<lb/>
+							his Father, &amp; soon listed again &amp; <name type="emotion" key="repented">repented</name> again<lb/>
+							but was then oblig'd to remain a <name type="occupation" ref="#mlocc000098">Soldier</name> about<lb/>
+							3 Months, tho' <name type="emotion" key="very miserable">very <name>miserable</name></name> &amp; <name type="emotion" key="much shocked">much shock'd</name> at<lb/>
 							the bad actions of his Comerades, till the Soldiers<lb/>
 							finding him unfit for their Purpose, gave him<lb/>
-							his Discharge in <placeName ref="#mlpla000054" cert="high">London</placeName>. A <roleName type="honorific">Bro<hi rend="superscript">r</hi> </roleName> <name emotion="pitying">pitying</name> him<lb/>
+							his Discharge in <placeName ref="#mlpla000054" cert="high">London</placeName>. A <roleName type="honorific">Bro<hi rend="superscript">r</hi> </roleName> <name type="emotion" key="pitying">pitying</name> him<lb/>
 							lent him Money to return <add place="above">to</add> his Father and he
 						
 					</p>
 					<cb/>
 					<p>
 						
-							came to him <name health="disease">sickly</name> &amp; under Convictions. after<lb/>
+							came to him <name type="health" subtype="disease">sickly</name> &amp; under Convictions. after<lb/>
 							living in a <placeName ref="#mlpla000326" cert="high">Brothers House in Pudsey</placeName> for some<lb/>
-							Months he <name type="event" ana="marriage">married</name> his present Widow, by<lb/>
+							Months he <eventName type="marriage">married</eventName> his present Widow, by<lb/>
 							whom our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> has given him one Daugh<hi rend="superscript">tr</hi> who<lb/>
-							is still with its Mother in the Care of the <orgName en="congregation">Cong<hi rend="superscript">n</hi>
-<lb/></orgName>On <date when="1768-03-04" cert="high">March 4 1768</date> He &amp; his Wife at their Request<lb/>
-							were <name type="event" ana="reception">acknowledged as Members of the <orgName religion="Moravian Church">Society</orgName></name><lb/>
-							His <name emotion="hot and impatient temper">Hot &amp; impatient Temper</name> sometimes still<lb/>
-							broke out in a <name emotion="very disagreeable">very disagreable</name> Manner when<lb/>
+							is still with its Mother in the Care of the <affiliation type="congregation">Cong<hi rend="superscript">n</hi>
+<lb/></affiliation>On <date when="1768-03-04" cert="high">March 4 1768</date> He &amp; his Wife at their Request<lb/>
+							were <eventName type="reception">acknowledged as Members of the <orgName type="moravian">Society</orgName></eventName><lb/>
+							His <name type="emotion" key="hot and impatient temper">Hot &amp; impatient Temper</name> sometimes still<lb/>
+							broke out in a <name type="emotion" key="very disagreeable">very disagreable</name> Manner when<lb/>
 							contradicted the otherwise he kept to his Work &amp;<lb/>
 							went on orderly. As to his Heart &amp; Conscience he<lb/>
 							constantly shewd &amp; express'd himself self condemnd<lb/>
-							<name emotion="dejected">dejected</name> &amp; <name emotion="reserved">reserved</name>. When his impending Disso<lb/>-lution began to appear this Spring, by plain<lb/>
-							Tokens of a <name health="disease">Consumption</name> he could not bear to<lb/> 
-							hear any Thing of it. The many Mention stir-<lb/>-ring up an <name emotion="enmity">Enmity</name> in him till about <date cert="medium" when="1768-05-20">May 20<hi rend="superscript">th</hi>,</date><lb/> one Night <name type="event" ana="spiritual">he got a <name emotion="gracious">gracious</name> Look from his
+							<name type="emotion" key="dejected">dejected</name> &amp; <name type="emotion" key="reserved">reserved</name>. When his impending Disso<lb/>-lution began to appear this Spring, by plain<lb/>
+							Tokens of a <name type="health" subtype="disease">Consumption</name> he could not bear to<lb/> 
+							hear any Thing of it. The many Mention stir-<lb/>-ring up an <name type="emotion" key="enmity">Enmity</name> in him till about <date cert="medium" when="1768-05-20">May 20<hi rend="superscript">th</hi>,</date><lb/> one Night <eventName type="spiritual">he got a <name type="emotion" key="gracious">gracious</name> Look from his
 <lb/>
-<name emotion="merciful">mercifull</name> <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> whereby he was quite alterd</name>,<lb/> believ'd thenceforward that our <roleName type="honorific">Lord</roleName> would take<lb/>
-							him in <name emotion="mercy">Mercy</name>, became genuinely <name emotion="openhearted">openhearted</name><lb/>
-							(which had been hitherto <name emotion="wanting">wanting</name>) confess'd<lb/>
-							that <name emotion="pride">Pride</name> &amp; fleshly <name emotion="lusts">Lusts</name> had been the Cause<lb/>
-							of all his Deviations, &amp; said: the <name emotion="enmity">Enmity</name> <name emotion="of one's own heart">of ones
+<name type="emotion" key="merciful">mercifull</name> <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> whereby he was quite alterd</eventName>,<lb/> believ'd thenceforward that our <roleName type="honorific">Lord</roleName> would take<lb/>
+							him in <name type="emotion" key="mercy">Mercy</name>, became genuinely <name type="emotion" key="openhearted">openhearted</name><lb/>
+							(which had been hitherto <name type="emotion" key="wanting">wanting</name>) confess'd<lb/>
+							that <name type="emotion" key="pride">Pride</name> &amp; fleshly <name type="emotion" key="lusts">Lusts</name> had been the Cause<lb/>
+							of all his Deviations, &amp; said: the <name type="emotion" key="enmity">Enmity</name> <name type="emotion" key="of one's own heart">of ones
 <lb/>
 own Heart</name> is much worse to bear than <add place="above">all</add> bodily<lb/>
-							<name emotion="pain">Pain</name>. According to his <name emotion="earnest">earnest</name> &amp; written <lb/>        Request he was publickly absolved on <date cert="medium" when="1768-06-04">June 4<hi rend="superscript">th</hi>
-<lb/></date>and the whole <orgName en="congregation">congregation</orgName> sung their <name emotion="hearty">hearty</name> <name emotion="wishes">Wish
+							<name type="emotion" key="pain">Pain</name>. According to his <name type="emotion" key="earnest">earnest</name> &amp; written <lb/>        Request he was publickly absolved on <date cert="medium" when="1768-06-04">June 4<hi rend="superscript">th</hi>
+<lb/></date>and the whole <affiliation type="congregation">congregation</affiliation> sung their <name type="emotion" key="hearty">hearty</name> <name type="emotion" key="wishes">Wish
 <lb/>
-es</name> for him. As his <name health="disease">Body grew weaker</name> he became<lb/>
-							more &amp; more <name emotion="desirous">desirous</name> of going to Him who
+es</name> for him. As his <name type="health" subtype="disease">Body grew weaker</name> he became<lb/>
+							more &amp; more <name type="emotion" key="desirous">desirous</name> of going to Him who
 						
 					</p>
 				</div>
 				<div type="page" n="3">
-					<pb n="3" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_20_ShoesmithThomas-06.jpg"/>
+					<pb n="3" facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_20_ShoesmithThomas-06.jpg"/>
 					<p> died for him, whom he could now look on as his<lb/> best Friend. Oh! said he I have been a
 						great Re<lb/>  bel against our <roleName type="honorific">Sav<hi rend="superscript">r</hi>
-						</roleName> but now He will have<lb/> <name emotion="mercy">Mercy</name> on me and <name type="event" ana="spiritual">I want to go to him this very
+						</roleName> but now He will have<lb/> <name type="emotion" key="mercy">Mercy</name> on me and <eventName type="spiritual">I want to go to him this very
 <lb/>
-1/4 of hour if it might be while you are here</name>, he<lb/>
-						mention'd in a <name emotion="contrite">contrite</name> Manner his own bad beha <lb/>-viour at the Time of
+1/4 of hour if it might be while you are here</eventName>, he<lb/>
+						mention'd in a <name type="emotion" key="contrite">contrite</name> Manner his own bad beha <lb/>-viour at the Time of
 						his <persName cert="high" type="real"><roleName type="honorific">Bro<hi rend="superscript">r</hi>
 							</roleName> Stephens</persName> last<lb/> Sickness, and also to his own
-						Wife at different <lb/> Times. On <date cert="medium" when="1768-07-16">July 16<hi rend="superscript">th</hi></date> <name health="disease">His Head continually catchd
+						Wife at different <lb/> Times. On <date cert="medium" when="1768-07-16">July 16<hi rend="superscript">th</hi></date> <name type="health" subtype="disease">His Head continually catchd
 <lb/>
 as convuls'd in he often gaspd for Breath, and
 <lb/>
-looked ghastly as a dying Man</name>: yet often repeated <lb/> very <name emotion="sweetly">Sweetly</name>:
+looked ghastly as a dying Man</name>: yet often repeated <lb/> very <name type="emotion" key="sweetly">Sweetly</name>:
 						Dearest <roleName type="honorific">Sav<hi rend="superscript">r</hi>
 						</roleName> come &amp; fetch me! <lb/> Dearest <roleName type="honorific">Lamb</roleName>! my <roleName type="honorific">Saviour</roleName>!  my
 						dear Lamb! <lb/>
 						<persName cert="high" type="real"><roleName type="honorific">B<hi rend="superscript">r</hi>
-							</roleName> Greening</persName> said: dost Thou then <name emotion="love">love</name> that <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>? <lb/> he
-						replied <name emotion="very earnestly">very earnestly</name>: yes I do <name emotion="love">love</name> Him, I did <lb/> <name emotion="long">long</name> to live for him
-						as a Boy: but afterwards I <lb/> was unfaithfull but now He has <name emotion="forgiven">forgiven</name> me
+							</roleName> Greening</persName> said: dost Thou then <name type="emotion" key="love">love</name> that <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName>? <lb/> he
+						replied <name type="emotion" key="very earnestly">very earnestly</name>: yes I do <name type="emotion" key="love">love</name> Him, I did <lb/> <name type="emotion" key="long">long</name> to live for him
+						as a Boy: but afterwards I <lb/> was unfaithfull but now He has <name type="emotion" key="forgiven">forgiven</name> me
 						<lb/> &amp; will be very pretty to live with him for ever, <lb/> ah! if I
 						was but with Him! after this by a <lb/> Discharge of much Matter from his
-						Lungs he <lb/> was <name emotion="relieved">relieved</name> for some Days, once when he had <lb/> spoken
+						Lungs he <lb/> was <name type="emotion" key="relieved">relieved</name> for some Days, once when he had <lb/> spoken
 						agood deal of his being a Rebel, &amp; of our <lb/>
 						<roleName type="honorific">Sav<hi rend="superscript">rs</hi>
-						</roleName> <name emotion="mercy">Mercy</name> he said: I was once out of my Senses <lb/> Oh! I shall
-						have much to <name emotion="thank">thank</name> him for when <lb/> I come home! This his <name emotion="ardent longing">ardent Longing</name>
+						</roleName> <name type="emotion" key="mercy">Mercy</name> he said: I was once out of my Senses <lb/> Oh! I shall
+						have much to <name type="emotion" key="thank">thank</name> him for when <lb/> I come home! This his <name type="emotion" key="ardent longing">ardent Longing</name>
 						to go to <lb/> his Souls Redeemer was granted him on <date when="1770-07-21" cert="high">July <lb/> the 21<hi rend="superscript">st</hi>
-						</date> after receiving the <name emotion="blessing">Blessing</name> of the Cong<hi rend="superscript">n</hi>
+						</date> after receiving the <name type="emotion" key="blessing">Blessing</name> of the Cong<hi rend="superscript">n</hi>
 						<lb/> in the 29<hi rend="superscript">th</hi> Year of his Age. </p>
 				</div>
 		</body>
