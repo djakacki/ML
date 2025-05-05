@@ -121,7 +121,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_5RoebuckRachel-01.jpg" n="1" />
+<div>            <pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_5RoebuckRachel-01.jpg" n="1" />
             <p>
                 
                     The S. S<hi rend="superscript:true;">r</hi> Rachel Roebuck was born
@@ -147,8 +147,8 @@
                     she was seized with an inward
                     pain, from which she never recovered 
                 
-            </p>
-            <pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_5RoebuckRachel-02.jpg" n="2" />
+            </p></div>
+<div>            <pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_5RoebuckRachel-02.jpg" n="2" />
             <p>
                 
                     tho' she was able to go about; nearly
@@ -175,7 +175,7 @@
                     her beloved Saviour. <del>Aged</del> in her 80 year
                     She departed Dec. 31 1812. 
                 
-            </p>
+            </p></div>
         </body>
     </text>
 </TEI>
