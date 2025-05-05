@@ -123,7 +123,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_67Render-01.jpg" n="1" />
+<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_67Render-01.jpg" n="1" />
 			<p>
 				
 					The <del>Course of</del> life of the Single Sister Isable Render who departed
@@ -167,8 +167,8 @@
 						<add place="below">whence</add> I came
 					for our Sav<hi rend="superscript:true;">r</hi> was no more to me as he had been, I went on thus
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_67Render-02.jpg" n="2" />
+			</p></div>
+<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_67Render-02.jpg" n="2" />
 			<p>
 				
 					heavy for some time; but on New Years Night-watch following, our Sav<hi rend="superscript:true;">r</hi> drew near
@@ -208,8 +208,8 @@
 					discovering to her, her inate corruption, which for want of confidence in him made
 					her at times very heavy, and as she pondered over it in herself a good while
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_67Render-03.jpg" n="3" />
+			</p></div>
+<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_67Render-03.jpg" n="3" />
 			<p>
 				
 					before she disclos'd the state of her h<hi rend="superscript:true;">rt</hi> to her Labouris, she was thereby greatly
@@ -248,8 +248,8 @@
 					there is nothing remaining, she farther added, I love you all d<hi rend="superscript:true;">r</hi> S<hi rend="superscript:true;">rs</hi> very much, and when
 					my last moments comes, I shall like some of you to be present, and help to keep the
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_67Render-04.jpg" n="4" />
+			</p></div>
+<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_67Render-04.jpg" n="4" />
 			<p>
 				
 					Liturgy at my departure, what a moment well that be, You will then feel how near
@@ -273,7 +273,7 @@
 					in a few moments all wou'd be well: and soon after 8 she expir'd softly and happily
 					in the 21<hi rend="superscript:true;">st</hi> Year of her Age.
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
