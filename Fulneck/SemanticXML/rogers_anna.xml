@@ -123,7 +123,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_59Rogers-01.jpg" n="1" />
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_59Rogers-01.jpg" n="1" />
 			<p>
 				
 					The Course of Life of Anna Rogers
@@ -161,8 +161,8 @@
 					Oeconomay at Chelsea where I had the grace and favour sometime to
 					enjoy the Meeting, which the dear disciple kept when the Girls Oeconomy
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_59Rogers-02.jpg" n="2" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_59Rogers-02.jpg" n="2" />
 			<p>
 				
 					removed to fulneck I also went with them and woul lived very chearfully
@@ -202,8 +202,8 @@
 					Sisters admitted the holy Communion which had not been so long
 					in the Congregation as I this brought me in a certain concern again
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_59Rogers-03.jpg" n="3" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_59Rogers-03.jpg" n="3" />
 			<p>
 				
 					about my self I had not been long in the Choir house before I got
@@ -242,8 +242,8 @@
 					a partaker of his Body and blood in the Holy Sacrament how I felt
 					at the injoyment of this my highest I good I am not able to express
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_59Rogers-04.jpg" n="4" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_59Rogers-04.jpg" n="4" />
 			<p>
 			
 					in words my heart was melted like wax before my dearest lover whos
@@ -288,7 +288,7 @@
 					<note>This last line is written vertically in the left-hand margin.</note>
 					during a sweet feeling of her bridegroom nearness in the 22 year of her age on Oct<hi rend="superscript:true;">r</hi> the 24 1763
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
