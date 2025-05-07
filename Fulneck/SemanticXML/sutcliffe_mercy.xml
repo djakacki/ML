@@ -121,7 +121,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_31Sutcliffe-01.jpg" n="1" />
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_31Sutcliffe-01.jpg" n="1" />
 			<p>
 				
 					Sister Mercy Sutcliffe was born at Claylor in the parish
@@ -172,8 +172,8 @@
 						<add place="above">the happy</add> connection she had with the wounded person of
 					Her dearest Bridegroom, made us very desirous
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_31Sutcliffe-02.jpg" n="2" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_31Sutcliffe-02.jpg" n="2" />
 			<p>
 				
 					of haveing <del>Her life course for which she was</del>
@@ -215,7 +215,7 @@
 					of Her Choir <del>which was imparted, thus close Her mortal Life</del>
 					<del>may the 3 1768</del> in the 55<hi rend="superscript:true;">th</hi> year of her age 
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
