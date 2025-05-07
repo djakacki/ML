@@ -121,7 +121,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_55Spence-01.jpg" n="1" />
+			<div><pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_55Spence-01.jpg" n="1" />
 			<p>
 				
 					Brief Notices concerning the life and
@@ -172,8 +172,8 @@
 					truths and heavenly pleasures. She ever meekly &amp; thankfully
 					received the spiritual advice of her labouress towards whom
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_55Spence-02.jpg" n="2" />
+			</p></div>
+			<div><pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_55Spence-02.jpg" n="2" />
 			<p>
 				she always cherished feelings of grateful esteem and sincere
 				affection. In the autumn of 1854 she removed to the Ladies School
@@ -271,7 +271,7 @@
 			<p>
 					Fulneck June 21<hi rend="fontSize:0.0; kerning:0; superscript:true;">st</hi> 1866
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
