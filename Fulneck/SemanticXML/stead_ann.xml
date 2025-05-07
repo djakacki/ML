@@ -492,127 +492,127 @@
 	<text>
 		<body>
 			<div type="page" n="1">
-				<pb facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_33_SteadAnn-01.jpg" n="1"/>
+				<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_33_SteadAnn-01.jpg" n="1"/>
 			<p>
 				
-					The Life of the <roleName type="honorific">mar<hi rend="superscript">d</hi>. Sr</roleName> <persName ref="#mlper000568" cert="high" type="real">Ann stead</persName> <name type="event" ana="death" when-iso="1772-06-13">who departed
+					The Life of the <roleName type="honorific">mar<hi rend="superscript">d</hi>. Sr</roleName> <persName ref="#mlper000568" cert="high" type="real">Ann stead</persName> <eventName type="death" when-iso="1772-06-13">who departed
 <lb/>
-to her Redeemer <date when="1772-06-13" cert="high">June 13<hi rend="superscript">th</hi> 1772</date></name>
+to her Redeemer <date when="1772-06-13" cert="high">June 13<hi rend="superscript">th</hi> 1772</date></eventName>
 				</p>
 			<p>
 					She herself dictated the following to her Husband.
 				</p>
 			<p>
-				I was <name type="event" ana="birth" when-iso="1730-03-28">born at <placeName ref="#mlpla000135" cert="high">Bradford</placeName> March 28<hi rend="superscript">th</hi> 1730</name> &amp; educated in the <lb/>
-				<orgName religion="Anglican">Church of England</orgName>. I grew up in a very <name emotion="careless manner">careless manner</name> <lb/>
-				having no particular thoughts or <name emotion="concern about my salvation">Concern about my Salva-
+				I was <eventName type="birth" when-iso="1730-03-28">born at <placeName ref="#mlpla000135" cert="high">Bradford</placeName> March 28<hi rend="superscript">th</hi> 1730</eventName> &amp; educated in the <lb/>
+				<orgName type="anglican">Church of England</orgName>. I grew up in a very <name type="emotion" key="careless manner">careless manner</name> <lb/>
+				having no particular thoughts or <name type="emotion" key="concern about my salvation">Concern about my Salva-
 <lb/>
-tion</name>. In the Year <date when="1750" cert="high">1750</date> <name type="event" ana="marriage" when-iso="1750">I was married to my present
+tion</name>. In the Year <date when="1750" cert="high">1750</date> <eventName type="marriage" when-iso="1750">I was married to my present
 <lb/>
-Husband</name> who belonged to the <orgName religion="Moravian Church">Brethren's Society</orgName>, but being <lb/>
-					<name emotion="gay">gay</name> &amp; liking the world &amp; the ways thereof, I was much
-					against his going to the <name type="event" ana="religious">B<hi rend="superscript">rns</hi> Meetings</name>, which occasioned <lb/>
-				him to speak very seriously <add place="above">tho <name emotion="tenderness">tenderly</name></add> with me when he told me <lb/>
-				his Reasons for going among the <orgName religion="Moravian Church">Brethren</orgName>, &amp; that he for him, <lb/>
+Husband</eventName> who belonged to the <orgName type="moravian">Brethren's Society</orgName>, but being <lb/>
+					<name type="emotion" key="gay">gay</name> &amp; liking the world &amp; the ways thereof, I was much
+					against his going to the <eventName type="ecclesiastical">B<hi rend="superscript">rns</hi> Meetings</eventName>, which occasioned <lb/>
+				him to speak very seriously <add place="above">tho <name type="emotion" key="tenderness">tenderly</name></add> with me when he told me <lb/>
+				his Reasons for going among the <orgName type="moravian">Brethren</orgName>, &amp; that he for him, <lb/>
 				self was determined to continue his Connexion with them <lb/>
 				&amp; adhere to the Doctrine he had heard of them, but would <lb/>
 				give me full liberty to go to divine Service <lb/>
-				wherever I chose. I was <name emotion="not satisfied">not satisfied</name> long to go a dif- <lb/>
+				wherever I chose. I was <name type="emotion" key="not satisfied">not satisfied</name> long to go a dif- <lb/>
 				ferent way to my husband, &amp; moreover seeing something <lb/>
 				more in him than I saw in myself &amp; many others I was <lb/>
-				drawn to go with him. In <date when="1751" cert="high">1751</date> <name type="event" ana="arrival" when-iso="1751">we moved to <placeName ref="#mlpla000090" cert="high">Pudsey</placeName></name> where <lb/>
-				I not only attended the <name type="event" ana="ecclesiastical">Meetings of the <orgName religion="Moravian Church">B<hi rend="superscript">rn</hi> </orgName></name> but also got <lb/>
-				reacquainted with them to the <name emotion="blessing">blessing</name> <name emotion="of my heart">of my Heart</name>, &amp; soon <lb/>
-				after was <name type="event" ana="reception">received into the <orgName religion="Moravian Church">Society</orgName></name>. About this Time <lb/>
-				our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> began to <name emotion="labor powerfully on my heart">labour powerfully on my Heart</name>, &amp; <lb/>
-				particularly did He make it clear to me what a <name emotion="wretched miserable Sinner">wretched
+				drawn to go with him. In <date when="1751" cert="high">1751</date> <eventName type="arrival" when-iso="1751">we moved to <placeName ref="#mlpla000090" cert="high">Pudsey</placeName></eventName> where <lb/>
+				I not only attended the <eventName type="ecclesiastical">Meetings of the <orgName type="moravian">B<hi rend="superscript">rn</hi> </orgName></eventName> but also got <lb/>
+				reacquainted with them to the <name type="emotion" key="blessing">blessing</name> <name type="emotion" key="of my heart">of my Heart</name>, &amp; soon <lb/>
+				after was <eventName type="reception">received into the <orgName type="moravian">Society</orgName></eventName>. About this Time <lb/>
+				our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> began to <name type="emotion" key="labor powerfully on my heart">labour powerfully on my Heart</name>, &amp; <lb/>
+				particularly did He make it clear to me what a <name type="emotion" key="wretched miserable Sinner">wretched
 <lb/>
 miserable Sinner</name> I was, &amp; I continued for some Time in <lb/>
-				<name><name emotion="great distress of Soul">great distress of Soul</name></name>, not knowing what to do or how <lb/>
-				I should be helped. In this Condition I once went in <name emotion="great heaviness">great
+				<name><name type="emotion" key="great distress of Soul">great distress of Soul</name></name>, not knowing what to do or how <lb/>
+				I should be helped. In this Condition I once went in <name type="emotion" key="great heaviness">great
 <lb/>
-					Heaviness</name> to a <name type="event" ana="ecclesiastical">Meeting</name> which <persName ref="#mlper000655"><roleName type="honorific">B<hi rend="superscript">r</hi> </roleName> Parminter</persName> held, during <lb/>
-				which the <roleName type="honorific">Lord</roleName> <name emotion="manifested himself to my heart">manifested Himself to my Heart</name> in his <lb/>
+					Heaviness</name> to a <eventName type="ecclesiastical">Meeting</eventName> which <persName ref="#mlper000655"><roleName type="honorific">B<hi rend="superscript">r</hi> </roleName> Parminter</persName> held, during <lb/>
+				which the <roleName type="honorific">Lord</roleName> <name type="emotion" key="manifested himself to my heart">manifested Himself to my Heart</name> in his <lb/>
 				bloody Form just so as He expired on the Cross, and He  <lb/>
 				asured me that He had blotted out all my Sins &amp; received <lb/>
-				me as by Child. This was an Hour of <name emotion="grace">grace</name> that has never 
+				me as by Child. This was an Hour of <name type="emotion" key="grace">grace</name> that has never 
 				
 			</p>
 			</div>
 			<div type="page" n="2">
-				<pb facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_33_SteadAnn-02.jpg" n="2"/>
+				<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_33_SteadAnn-02.jpg" n="2"/>
 			<p>
 				
-				since been erased out of my Mind. Now <name>I was full of <name emotion="joy">joy</name>
+				since been erased out of my Mind. Now <name>I was full of <name type="emotion" key="joy">joy</name>
 <lb/>
-&amp; <name emotion="thankfulness">Thankfulnes</name> for the mercy</name> He had shown to my Soul. &amp; <lb/>
-				ever since He has given me that <name emotion="grace">grace</name> that all Times <lb/>
+&amp; <name type="emotion" key="thankfulness">Thankfulnes</name> for the mercy</name> He had shown to my Soul. &amp; <lb/>
+				ever since He has given me that <name type="emotion" key="grace">grace</name> that all Times <lb/>
 				&amp; amidst the farther knowlege I had of my own Depravity <lb/>
-				I could always go confidently to Him with all my <name emotion="concern">Concerns</name> <lb/>
-				&amp; cast myself with them upon his <name emotion="merciful heart">merciful Heart</name> &amp; He <lb/>
+				I could always go confidently to Him with all my <name type="emotion" key="concern">Concerns</name> <lb/>
+				&amp; cast myself with them upon his <name type="emotion" key="merciful heart">merciful Heart</name> &amp; He <lb/>
 				has approved Himself gracious &amp; faithful to me. <date when="1757-01-06" cert="high">Jan: 6<hi rend="superscript">th</hi> <lb/>
-				1757</date> I was <name type="event" ana="reception" when-iso="1757-01-06">rec<hi rend="superscript">d</hi> into the <orgName en="congregation">Cong<hi rend="superscript">n</hi> </orgName></name> during an <name emotion="overpowering feeling of our Saviour's love">overpowering
+				1757</date> I was <eventName type="reception" when-iso="1757-01-06">rec<hi rend="superscript">d</hi> into the <affiliation type="congregation">Cong<hi rend="superscript">n</hi> </affiliation></eventName> during an <name type="emotion" key="overpowering feeling of our Saviour's love">overpowering
 <lb/>
-feeling of our <roleName type="honorific">Sav<hi rend="superscript">rs</hi> </roleName> Love</name> which <name emotion="melted my heart">melted my Heart</name> in such <lb/>
+feeling of our <roleName type="honorific">Sav<hi rend="superscript">rs</hi> </roleName> Love</name> which <name type="emotion" key="melted my heart">melted my Heart</name> in such <lb/>
 				a Manner as I am not able to express. <date when="1761-04-18" cert="high">apr. 18<hi rend="superscript">th</hi> 1761</date> I was <lb/>
-				<name type="event" ana="communion" when-iso="1761-04-18">admitted to the holy Communion</name>, which <name emotion="grace made me deeply ashamed">grace made me
+				<eventName type="communion" when-iso="1761-04-18">admitted to the holy Communion</eventName>, which <name type="emotion" key="grace made me deeply ashamed">grace made me
 <lb/>
-deeply ashamed</name>, <name emotion="feeling my great unworthiness">feeling my great unworthiness</name>. This <lb/>
+deeply ashamed</name>, <name type="emotion" key="feeling my great unworthiness">feeling my great unworthiness</name>. This <lb/>
 				caused me to examine more strictly into <lb/>
 				my own Heart, &amp; which also proved the Occasion of my <lb/>
-				<name emotion="diving still deeper">diving still deeper</name> into for <name emotion="heart of love">Heart of Love</name> &amp; experiencing <lb/>
-				more of the <name emotion="grace">grace</name> which He had in Store for me. <lb/>
+				<name type="emotion" key="diving still deeper">diving still deeper</name> into for <name type="emotion" key="heart of love">Heart of Love</name> &amp; experiencing <lb/>
+				more of the <name type="emotion" key="grace">grace</name> which He had in Store for me. <lb/>
 				</p>
 			<p>
 					So far her own Account.
 				</p>
 			<p>
-				She had a <name emotion="tender heart">tender Heart</name> to our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> &amp; spent her <lb/>
+				She had a <name type="emotion" key="tender heart">tender Heart</name> to our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> &amp; spent her <lb/>
 				Time in Communion with Him. Her marriage was <lb/>
 				blest with 10 Children 5 of whom went Home before <lb/>
-				her. She was in a <name health="disease">poor state of Health</name> before the <lb/>
+				her. She was in a <name type="health" subtype="disease">poor state of Health</name> before the <lb/>
 				Birth of her last child in January &amp; has never been <lb/>
-				well since then. <name health="disease">In her Sickness</name> her Children lay<lb/>
-				upon her Mind with much <name emotion="concern">Concern</name>, &amp; <name>she was <add place="above">exceedingly</add>
+				well since then. <name type="health" subtype="disease">In her Sickness</name> her Children lay<lb/>
+				upon her Mind with much <name type="emotion" key="concern">Concern</name>, &amp; <name>she was <add place="above">exceedingly</add>
 <lb/>
-<name emotion="pained">pained</name></name> at thinking how it might go with them, but <lb/>
+<name type="emotion" key="pained">pained</name></name> at thinking how it might go with them, but <lb/>
 				was obliged to commit them to the Mercy of <persName cert="high" type="real">God</persName> <lb/>
-					She was <name emotion="tenderly">tenderly</name> occupied with our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> <add place="above">and what He had done for her</add> &amp; had no Incli-  <lb/>
+					She was <name type="emotion" key="tenderly">tenderly</name> occupied with our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> <add place="above">and what He had done for her</add> &amp; had no Incli-  <lb/>
 				nation for Conversation about any other Subject, but <lb/>
 				was all alive whenever He was spoken or sung of. The <lb/>
-					time of her Sickness was a Season of real <name emotion="grace">grace</name> &amp; <name emotion="blessing">Blessing</name>
+					time of her Sickness was a Season of real <name type="emotion" key="grace">grace</name> &amp; <name type="emotion" key="blessing">Blessing</name>
 				
 			</p>
 			</div>
 			<div type="page" n="3">
-				<pb facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_33_SteadAnn-03.jpg" n="3"/>
+				<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_33_SteadAnn-03.jpg" n="3"/>
 			<p>
 				
-				<name emotion="to her heart">to her Heart</name>, &amp; on extraordinary presence of our <lb/>
+				<name type="emotion" key="to her heart">to her Heart</name>, &amp; on extraordinary presence of our <lb/>
 				<roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> was perceived by all the <roleName type="honorific">B<hi rend="superscript">rn</hi> </roleName> &amp; <roleName type="honorific">S<hi rend="superscript">rs</hi> </roleName> whenever <lb/>
-				they visited her, which made it a <name emotion="comfort">comfort</name> &amp; <name emotion="blessing">Blessing</name> to <lb/>
+				they visited her, which made it a <name type="emotion" key="comfort">comfort</name> &amp; <name type="emotion" key="blessing">Blessing</name> to <lb/>
 				them. Her whole Mind was bent upon going Home, <lb/>
 				Being asked if she should not like to recover again <lb/>
 				she replied: "O no! I would mend again for a 1000 worlds." <lb/>
-				Being asked by some of her Neighbours, if she was <name emotion="not afraid to die">not
+				Being asked by some of her Neighbours, if she was <name type="emotion" key="not afraid to die">not
 <lb/>
-afraid to die</name>, &amp; whether she had <name emotion="no dark apprehension">no dark apprehen-
+afraid to die</name>, &amp; whether she had <name type="emotion" key="no dark apprehension">no dark apprehen-
 <lb/>
 sion</name> at the Thoughts of being soon in Eternity? <lb/>
-				She answered: "no, I have <name emotion="neither fear nor dark apprehensions">neither Fear nor dark
+				She answered: "no, I have <name type="emotion" key="neither fear nor dark apprehensions">neither Fear nor dark
 <lb/>
-apprehensions</name>, but can <name emotion="resign my soul to my Savior with joy">resign my Soul to my
+apprehensions</name>, but can <name type="emotion" key="resign my soul to my Savior with joy">resign my Soul to my
 <lb/>
 <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> with joy</name> &amp; with the same <add place="above">composure</add> &amp; serenity as when <lb/>
 				I go to sleep at Nights because He has granted me <lb/>
-					the <name emotion="happiness">Happiness</name> to know Him as my Friend &amp; Redeemer."
+					the <name type="emotion" key="happiness">Happiness</name> to know Him as my Friend &amp; Redeemer."
 				</p>
 			<p>
-				She had the <name type="event" ana="sacrament">holy Communion</name> administred to her <lb/>
-				twice in her House, attended with an <name emotion="extraordinary feeling of grace">extraordinary
+				She had the <eventName type="sacrament">holy Communion</eventName> administred to her <lb/>
+				twice in her House, attended with an <name type="emotion" key="extraordinary feeling of grace">extraordinary
 <lb/>
 Feeling of grace</name>. Thus she remained, an Edifica: <lb/>
-				to those who saw &amp; spoke with her, till it <name emotion="pleased">pleased</name> <lb/>
+				to those who saw &amp; spoke with her, till it <name type="emotion" key="pleased">pleased</name> <lb/>
 					our <roleName type="honorific">Sav<hi rend="superscript">r</hi> </roleName> to fetch her Soul to Himself in her 43<hi rend="superscript">d</hi> Year.
 				
 			</p>
