@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/out/MoravianMemoirs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/moravianlives/ML/master/CodeScripts/CSS/moravian_style.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-	<teiHeader><fileDesc>
+	<teiHeader>
+		<fileDesc>
 			<titleStmt>
 				<title>Charles Henry Conrad Von Larisch: Memoir</title>
 				<funder>The Moravian Lives Project</funder>
-				<principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal Investigator <orgName>Bucknell University</orgName>
+				<principal><persName xml:id="kfaull">Katherine Mary Faull</persName>, Principal
+					Investigator <orgName>Bucknell University</orgName>
 					<address>
 						<addrLine>Lewisburg, Pennsylvania</addrLine>
 					</address>
 					<email>faull@bucknell.edu</email>
 				</principal>
-				<principal><persName>Christer Ahlberger</persName>, Principal Investigator, 2015-2018 <orgName>University of Gothenburg</orgName>
+				<principal><persName>Christer Ahlberger</persName>, Principal Investigator,
+					2015-2018 <orgName>University of Gothenburg</orgName>
 					<address>
 						<addrLine>Gothenburg, Sweden</addrLine>
 					</address>
@@ -91,27 +94,44 @@
 			<publicationStmt>
 				<distributor>The Moravian Lives Project</distributor>
 				<availability>
-					<licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</licence>
+					<licence>Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+						International</licence>
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
 				<msDesc>
 					<msIdentifier>
 						<repository ref="mlpla000003">Moravian Archives, Fulneck</repository>
-						<msName type="memoir" ana="MAF/Ful_3_05_LarischCharles">Charles Henry Conrad Von Larisch</msName>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-02.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-03.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-05.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-08.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-09.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-12.jpg"/>
-						<msName facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-13.jpg"/>
+						<msName type="memoir" ana="MAF/Ful_3_05_LarischCharles">Charles Henry Conrad
+							Von Larisch</msName>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-02.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-03.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-05.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-08.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-09.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-12.jpg"/>
+						<msName
+							facs="http://moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-13.jpg"
+						/>
 					</msIdentifier>
 				</msDesc>
 			</sourceDesc>
-		</fileDesc><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+		</fileDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+					<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -185,7 +205,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -261,7 +281,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -337,7 +357,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -413,7 +433,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -489,7 +509,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -565,7 +585,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -641,7 +661,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -717,7 +737,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -793,7 +813,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -869,7 +889,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -943,7 +963,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1019,7 +1039,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1095,7 +1115,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1169,7 +1189,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1243,7 +1263,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1317,7 +1337,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1393,7 +1413,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1469,7 +1489,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1545,7 +1565,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1619,7 +1639,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1693,7 +1713,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1769,7 +1789,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1843,7 +1863,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1917,7 +1937,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -1991,7 +2011,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2065,7 +2085,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2139,7 +2159,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2215,7 +2235,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2291,7 +2311,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2367,7 +2387,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2443,7 +2463,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2519,7 +2539,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2595,7 +2615,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2669,7 +2689,7 @@
 	}
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2745,7 +2765,7 @@
 	"oa:hasCertainty": "cwrc:high"
 }
 ]]></rdf:Description>
-<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
 {
 	"@context": {
 		"dcterms:created": {
@@ -2820,7 +2840,8 @@
 	},
 	"oa:hasCertainty": "cwrc:high"
 }
-]]></rdf:Description></rdf:RDF></xenoData><profileDesc>
+]]></rdf:Description></rdf:RDF></xenoData>
+		<profileDesc>
 			<particDesc>
 				<person role="subject">
 					<persName ref="#000539">Charles Henry Conrad Von Larisch</persName>
@@ -2829,313 +2850,510 @@
 			<langUsage>
 				<language ident="en">English</language>
 			</langUsage>
-		</profileDesc><revisionDesc>
+		</profileDesc>
+		<revisionDesc>
 			<change when-iso="2019-11-11" who="#cpirmann">Corrected for structure</change>
 			<change>Created TEI file</change>
-		</revisionDesc></teiHeader>
+		</revisionDesc>
+	</teiHeader>
 	<text type="memoir">
 		<body xml:lang="en">
 			<div type="memoir">
 				<head>Charles Henry Conrad Von Larisch</head>
 				<div type="page" n="1">
 					<head type="page">1</head>
-					<pb n="1" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-02.jpg"/>
+					<pb n="1"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_05_LarischCharles-02.jpg"/>
 					<p>
 						<lg>
-							<l><placeName ref="#mlpla000231" cert="high">Lindsey House</placeName> <date when="1754-11-01" cert="high">Nov<hi rend="superscript">r</hi> 1<hi rend="superscript">st</hi> 1754</date>.</l>
+							<l><placeName ref="#mlpla000231" cert="high">Lindsey House</placeName>
+								<date when="1754-11-01" cert="high">Nov<hi rend="superscript">r</hi>
+										1<hi rend="superscript">st</hi> 1754</date>.</l>
 						</lg>
 					</p>
-					<p> After the remains of our dear <roleName type="honorific">B<hi rend="superscript">r</hi></roleName> <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Larish" cert="high" type="real">Larish</persName> were interr'd, the <roleName type="honorific">B<hi rend="superscript">rn</hi></roleName> &amp; <roleName type="honorific">S<hi rend="superscript">rs</hi>
-<lb/></roleName>(among whom where many from <placeName ref="#mlpla000054" cert="high">London</placeName>) met in the Family Hall <lb/> in
-						<placeName ref="#mlpla000231" cert="high">Lindsey House</placeName> and then was Sung that Hymn: O Head so full of  <lb/>Bruises
-						&amp; After which the <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000566" key="Disciple" cert="high" type="real">Disciple</persName> spoke in English as follows. </p>
-					<p> I have but a few words to say on this Occasion, the Liturgy of to <lb/> Day belongs to the
-						Evening when our <roleName type="honorific">Saviour</roleName> went from us, the pre <lb/> sent Day has besides
+					<p> After the remains of our dear <roleName type="honorific">B<hi
+								rend="superscript">r</hi></roleName>
+						<persName
+							ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+							key="Larish" cert="high" type="real">Larish</persName> were interr'd,
+						the <roleName type="honorific">B<hi rend="superscript"
+						>rn</hi></roleName> &amp; <roleName type="honorific">S<hi rend="superscript"
+								>rs</hi>
+							<lb/></roleName>(among whom where many from <placeName
+							ref="#mlpla000054" cert="high">London</placeName>) met in the Family
+						Hall <lb/> in <placeName ref="#mlpla000231" cert="high">Lindsey
+							House</placeName> and then was Sung that Hymn: O Head so full of
+						<lb/>Bruises &amp; After which the <persName
+							ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000566"
+							key="Disciple" cert="high" type="real">Disciple</persName> spoke in
+						English as follows. </p>
+					<p> I have but a few words to say on this Occasion, the Liturgy of to <lb/> Day
+						belongs to the Evening when our <roleName type="honorific"
+							>Saviour</roleName> went from us, the pre <lb/> sent Day has besides
 						that, the particular character of all Saints, &amp; that <lb/> gives me a
 						handle to speak something of the Saints, &amp; of the nature of a Saint.
-						<lb/> 'Tis a name quite common in the Bible, and if we hear of a good
-						Man <lb/> who left the World 2, or 300 Years ago, then we have not much
-						against <lb/> his appearing in that Character, and are not <name emotion="shocked">shock'd</name> by
-						it, <lb/> but the Ideas we have form'd to ourselves of a Saint are
-						such, that <lb/> in the <orgName religion="Roman Catholic">Romish Church</orgName> itself no body can be called so, till
-						1000 <lb/> Years after his Departure. The reason is because one <name emotion="fears">fears</name>, <lb/>
-						if any one should remain who had seen that Man or <lb/> Woman he would
-						Controul his Sanctity, he would <lb/> say something that would lesson his
-						Opinion of his Wor- <lb/>thiness. I am sure one is greatly mistaken in this
-						Respect, <lb/> but as we are calld to promote the Sinnership we <lb/> are
-						not so Curious to receive that Name, Saint, we <lb/> care not if that
-						Charactor should be heard of no more <lb/> but for all that I would not have
-						it, that we shou'd <lb/> loose the meaning of the Thing together with
-						the name <lb/> Title &amp; Charactor, &amp; should we prove careless in that
-						point <lb/> I <name emotion="fear">Fear</name> we should be deprived of a great Charactor in the Gos-
-						<lb/> pel Train. A Saint in my Opinion is a Christian, <lb/> who thinks very
-						little, who perhaps may be oblig'd to <note>think</note></p>
+						<lb/> 'Tis a name quite common in the Bible, and if we hear of a good Man
+						<lb/> who left the World 2, or 300 Years ago, then we have not much against
+						<lb/> his appearing in that Character, and are not <name type="emotion"
+							key="shocked">shock'd</name> by it, <lb/> but the Ideas we have form'd
+						to ourselves of a Saint are such, that <lb/> in the <orgName
+							type="roman_catholic">Romish Church</orgName> itself no body can be
+						called so, till 1000 <lb/> Years after his Departure. The reason is because
+						one <name type="emotion" key="fears">fears</name>, <lb/> if any one should
+						remain who had seen that Man or <lb/> Woman he would Controul his Sanctity,
+						he would <lb/> say something that would lesson his Opinion of his Wor-
+						<lb/>thiness. I am sure one is greatly mistaken in this Respect, <lb/> but
+						as we are calld to promote the Sinnership we <lb/> are not so Curious to
+						receive that Name, Saint, we <lb/> care not if that Charactor should be
+						heard of no more <lb/> but for all that I would not have it, that we shou'd
+						<lb/> loose the meaning of the Thing together with the name <lb/> Title
+						&amp; Charactor, &amp; should we prove careless in that point <lb/> I <name
+							type="emotion" key="fear">Fear</name> we should be deprived of a great
+						Charactor in the Gos- <lb/> pel Train. A Saint in my Opinion is a Christian,
+						<lb/> who thinks very little, who perhaps may be oblig'd to
+							<note>think</note></p>
 				</div>
 				<div type="page" n="2">
 					<head type="page">2</head>
-					<pb n="2" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-03.jpg"/>
-					<p> think of many things on Account of his Business &amp; of his <lb/> Office, but when I say
-						he thinks not much, I mean that he <lb/> does not care to think much,
-						according to the Inclination <lb/> of his Heart. You will scarcely find a
-						Saint among the great <lb/> Men, the Rich &amp; learn'd Men, perhaps
-						not among the Gen <lb/> try, or what one calls an easy Person in this World,
-						the rea <lb/> son is, because all such charge themselves with too ma <lb/>
-						ny Superfluities, while the necessary condition of becoming <lb/> a Saint,
-						is not to have a great Store of Idle &amp; unnecessa <lb/> ry things about
-						him. Simplicity &amp; plainness is the Distin <lb/> guishing, mark of a
-						Saint. I confess that if a Person <lb/> of that Character, happens to want
-						Education &amp; of <lb/> Course what one calls all manner of required
-						Qualities <lb/> hath absolutely not so much notion of the World, as <lb/> to
-						deal in an ordinary Way, in a regular Way, then the <lb/> Sanctity of such a
-						Man, may not comand that Honour <lb/> that <name emotion="awe">Awe</name>, that <name emotion="reverence">Reverence</name> which is due
-						to it as long as he <lb/> lives, &amp; it Seems therefore, that I should be
-						<name emotion="afraid">afraid</name> to tell <lb/> you now by way of Discourse, what I have already Sung
-						<lb/> of my <roleName type="honorific">B<hi rend="superscript">r</hi></roleName> <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Larish" cert="high" type="real">Larish</persName>, whom I always thought a
-						Saint &amp; <lb/> I beleive there are 100 in the Cattalouge on Dypticks of
-						old, <lb/> who were by far not his paramounts, not like him, nor so <lb/>
-						much of a Saint as He. He was a Person void of all <lb/> manner of
+					<pb n="2"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_05_LarischCharles-03.jpg"/>
+					<p> think of many things on Account of his Business &amp; of his <lb/> Office,
+						but when I say he thinks not much, I mean that he <lb/> does not care to
+						think much, according to the Inclination <lb/> of his Heart. You will
+						scarcely find a Saint among the great <lb/> Men, the Rich &amp; learn'd Men,
+						perhaps not among the Gen <lb/> try, or what one calls an easy Person in
+						this World, the rea <lb/> son is, because all such charge themselves with
+						too ma <lb/> ny Superfluities, while the necessary condition of becoming
+						<lb/> a Saint, is not to have a great Store of Idle &amp; unnecessa <lb/> ry
+						things about him. Simplicity &amp; plainness is the Distin <lb/> guishing,
+						mark of a Saint. I confess that if a Person <lb/> of that Character, happens
+						to want Education &amp; of <lb/> Course what one calls all manner of
+						required Qualities <lb/> hath absolutely not so much notion of the World, as
+						<lb/> to deal in an ordinary Way, in a regular Way, then the <lb/> Sanctity
+						of such a Man, may not comand that Honour <lb/> that <name type="emotion"
+							key="awe">Awe</name>, that <name type="emotion" key="reverence"
+							>Reverence</name> which is due to it as long as he <lb/> lives, &amp; it
+						Seems therefore, that I should be <name type="emotion" key="afraid"
+							>afraid</name> to tell <lb/> you now by way of Discourse, what I have
+						already Sung <lb/> of my <roleName type="honorific">B<hi rend="superscript"
+								>r</hi></roleName>
+						<persName
+							ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+							key="Larish" cert="high" type="real">Larish</persName>, whom I always
+						thought a Saint &amp; <lb/> I beleive there are 100 in the Cattalouge on
+						Dypticks of old, <lb/> who were by far not his paramounts, not like him, nor
+						so <lb/> much of a Saint as He. He was a Person void of all <lb/> manner of
 						Education, he had been neglected in all the <lb/> Necessary things of this
 						Life, &amp; after having found the <lb/> Secret, to make himself to be
 						forgotten in this World, after <note>having</note>
 					</p>
 					<cb/>
-					<p> having placed himself behind the <orgName en="congregation">Congregation</orgName> at <placeName ref="#mlpla000001" cert="high">Hhuth</placeName>, in <lb/> order to lead a Simple
-						Civil Life, &amp; absolutely not regard <lb/> ed by any one, which he
-						contriv'd so out of a true Humility, <lb/> for He was a <roleName type="honorific">Lord</roleName>, &amp; had
-						then many Subjects, &amp; a great <lb/> Territory of his own. When he was in
-						that Situation <lb/> he came hither, and met with one of the most Difficult
-						<lb/> Tasks which can be imagin'd, nevertheless he atcheiv'd &amp;
-						per <lb/> formd it with such <name emotion="surprising">surprising</name> Simplicity &amp; wisdom, that <lb/>
-						I cant help owning once more, that I should have been <lb/> <name emotion="embarrassed">embarrass'd</name>
-						in the highest degree to do the like: And I must add <lb/> that if after my
-						Decease one would compare me to that great <lb/> Man, &amp; my Conduct to
-						his many Personal Circumstances, as <lb/> well as real Intricacies, which
-						would be too long to relate <lb/> here (the <roleName type="honorific">Saviour</roleName> knows them, &amp; part
-						of us are not Ignorant <lb/> thereof,) it would be mere Courtesey. <roleName type="honorific">B<hi rend="superscript">r</hi>.</roleName> <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Larish" cert="high" type="real">Larish</persName> fullfill'd <lb/> his Task with
-						Honour, &amp; has not left one leaf of his Book <lb/> unfinish'd. His
-						end was like to that of all truly great Men, a <lb/> little while before he
-						had not the least thought of going home <lb/> he was <name health="disease">Sick</name>, &amp; a very long
-						time knew his case almost incurable <lb/> but drew no Consequence from it
-						for in approaching Dissolution. <lb/> When he was acquainted of the Turn his
-						<name health="disease">Sickness</name> had taken <lb/> &amp; of the approaching Dissolution, 'twas
-						very well, 'twas <lb/> all the same to him. Those Days passed away in
-						the same <lb/> Strain as the foregoing. He treated that awful matter as
-						simple <lb/> Natural &amp; <name emotion="unconcernedly">unconcerndly</name> fill the last gasp as usual, that
-						<lb/> none of the Heroes of this world, nore of the great Geniuses <lb/>
-						needed to be <name emotion="ashamed">asham'd</name> of the same Exit, Considering the thing in
-							<note>itself</note></p>
+					<p> having placed himself behind the <affiliation type="congregation"
+							>Congregation</affiliation> at <placeName ref="#mlpla000001" cert="high"
+							>Hhuth</placeName>, in <lb/> order to lead a Simple Civil Life, &amp;
+						absolutely not regard <lb/> ed by any one, which he contriv'd so out of a
+						true Humility, <lb/> for He was a <roleName type="honorific"
+						>Lord</roleName>, &amp; had then many Subjects, &amp; a great <lb/>
+						Territory of his own. When he was in that Situation <lb/> he came hither,
+						and met with one of the most Difficult <lb/> Tasks which can be imagin'd,
+						nevertheless he atcheiv'd &amp; per <lb/> formd it with such <name
+							type="emotion" key="surprising">surprising</name> Simplicity &amp;
+						wisdom, that <lb/> I cant help owning once more, that I should have been <lb/>
+						<name type="emotion" key="embarrassed">embarrass'd</name> in the highest
+						degree to do the like: And I must add <lb/> that if after my Decease one
+						would compare me to that great <lb/> Man, &amp; my Conduct to his many
+						Personal Circumstances, as <lb/> well as real Intricacies, which would be
+						too long to relate <lb/> here (the <roleName type="honorific"
+							>Saviour</roleName> knows them, &amp; part of us are not Ignorant <lb/>
+						thereof,) it would be mere Courtesey. <roleName type="honorific">B<hi
+								rend="superscript">r</hi>.</roleName>
+						<persName
+							ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+							key="Larish" cert="high" type="real">Larish</persName> fullfill'd <lb/>
+						his Task with Honour, &amp; has not left one leaf of his Book <lb/>
+						unfinish'd. His end was like to that of all truly great Men, a <lb/> little
+						while before he had not the least thought of going home <lb/> he was <name
+							type="health" subtype="disease">Sick</name>, &amp; a very long time knew
+						his case almost incurable <lb/> but drew no Consequence from it for in
+						approaching Dissolution. <lb/> When he was acquainted of the Turn his <name
+							type="health" subtype="disease">Sickness</name> had taken <lb/> &amp; of
+						the approaching Dissolution, 'twas very well, 'twas <lb/> all the same to
+						him. Those Days passed away in the same <lb/> Strain as the foregoing. He
+						treated that awful matter as simple <lb/> Natural &amp; <name type="emotion"
+							key="unconcernedly">unconcerndly</name> fill the last gasp as usual,
+						that <lb/> none of the Heroes of this world, nore of the great Geniuses
+						<lb/> needed to be <name type="emotion" key="ashamed">asham'd</name> of the
+						same Exit, Considering the thing in <note>itself</note></p>
 				</div>
 				<div type="page" n="3">
 					<head type="page">3</head>
-					<pb n="3" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-05.jpg"/>
-					<p> itself &amp; without that difference, which makes his case <name emotion="so much happier">so
-<lb/>
-much happier</name> than
+					<pb n="3"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_05_LarischCharles-05.jpg"/>
+					<p> itself &amp; without that difference, which makes his case <name
+							type="emotion" key="so much happier">so <lb/> much happier</name> than
 						theirs, as for that, He will never <lb/> change his Exit for that of any
 						Hero of this World, of <lb/> any great man or Philosopher whatsoever that is
 						quite <lb/> out of Question, all I have to say on that part is, <lb/> that
 						he departed this Life like a Hero. </p>
-					<p> Every one enabled from above to see the hidden Side <lb/> of things, their real Charactor
-						to extricate the real <lb/> point out of appearances, will never Contradict
-						my opinion, <lb/>about his abode here, having been like his Departure <lb/>
-						I <name emotion="wish">wish</name> <name emotion="with all my heart">with all my Heart</name>, that so many brave <roleName type="honorific">B<hi rend="superscript">rn</hi></roleName> &amp; <roleName type="honorific">S<hi rend="superscript">rs</hi>
-<lb/></roleName>so many wise ones so many well Educated, so many truly <lb/> learned
-						ones. And which is the best of all so many of our <lb/> Sinnerlike good
-						People may obtain. </p>
-					<p> His Natural &amp; Simple Charactor that they who <lb/> had not the good fortune to have
-						known him personally <lb/> may be encouraged thereto by his pretty End. </p>
-					<p> What I have said is only Introductory to that little <lb/> Hymn which I have Compos'd
-						on his Account &amp; which <lb/> perhaps will be Translated. </p>
+					<p> Every one enabled from above to see the hidden Side <lb/> of things, their
+						real Charactor to extricate the real <lb/> point out of appearances, will
+						never Contradict my opinion, <lb/>about his abode here, having been like his
+						Departure <lb/> I <name type="emotion" key="wish">wish</name>
+						<name type="emotion" key="with all my heart">with all my Heart</name>, that
+						so many brave <roleName type="honorific">B<hi rend="superscript"
+							>rn</hi></roleName> &amp; <roleName type="honorific">S<hi
+								rend="superscript">rs</hi>
+							<lb/></roleName>so many wise ones so many well Educated, so many truly
+						<lb/> learned ones. And which is the best of all so many of our <lb/>
+						Sinnerlike good People may obtain. </p>
+					<p> His Natural &amp; Simple Charactor that they who <lb/> had not the good
+						fortune to have known him personally <lb/> may be encouraged thereto by his
+						pretty End. </p>
+					<p> What I have said is only Introductory to that little <lb/> Hymn which I have
+						Compos'd on his Account &amp; which <lb/> perhaps will be Translated. </p>
 					<p>
 						<hi rend="underline">Next follows some Account of his Life &amp;
 							Departure</hi>
-						<lb/> Our dear <roleName type="honorific">B<hi rend="superscript">r</hi> </roleName><persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Charles Henry Conrad von Larish" cert="high" type="real">Charles Henry Conrad von Larish</persName>, was <name type="event" ana="birth" when-iso="1711-09-22">born
-<lb/>
-<date when="1711-09-22" cert="high">Sept 22<hi rend="superscript">nd</hi> 1711</date> in <placeName ref="#mlpla000257" cert="high">Gradenwiz near Cosel in upper Silesia</placeName></name>. He <lb/> was descended from the
-						Ancient Famous Family of the <roleName type="honorific">Courts</roleName> <lb/> &amp; <roleName type="honorific">Lords</roleName> of <persName ref="http://www.wikidata.org/entity/Q37482094" key="Larish" cert="high" type="real">Larish</persName>, also of the
-						Lineage of great <persName cert="high" type="real">Nimsdorff</persName> <lb/>
-						<add place="above">one</add> of whom, in the Service of our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> is already a grain of  <note>what</note></p>
+						<lb/> Our dear <roleName type="honorific">B<hi rend="superscript"
+							>r</hi> </roleName><persName
+							ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+							key="Charles Henry Conrad von Larish" cert="high" type="real">Charles
+							Henry Conrad von Larish</persName>, was <eventName type="birth"
+							when-iso="1711-09-22">born <lb/>
+							<date when="1711-09-22" cert="high">Sept 22<hi rend="superscript"
+									>nd</hi> 1711</date> in <placeName ref="#mlpla000257"
+								cert="high">Gradenwiz near Cosel in upper
+							Silesia</placeName></eventName>. He <lb/> was descended from the Ancient
+						Famous Family of the <roleName type="honorific">Courts</roleName>
+						<lb/> &amp; <roleName type="honorific">Lords</roleName> of <persName
+							ref="http://www.wikidata.org/entity/Q37482094" key="Larish" cert="high"
+							type="real">Larish</persName>, also of the Lineage of great <persName
+							cert="high" type="real">Nimsdorff</persName>
+						<lb/>
+						<add place="above">one</add> of whom, in the Service of our <roleName
+							type="honorific">Sav<hi rend="superscript">r</hi></roleName> is already
+						a grain of <note>what</note></p>
 					<cb/>
-					<p> Wheat in <placeName ref="#mlpla000433" cert="high">Surinam</placeName>. He inherited from his parents the Lord- <lb/> ships of Shossloehiz Lomniz
-						Zonade &amp; Rodewiz. In his <lb/> <name emotion="tender">tender</name> Youth he became acquainted with
-						<persName cert="high" type="real">Abbot Steinmez</persName> &amp; o- <lb/> ther Servants of <persName type="real" cert="high">God</persName>, by means of the well
-						known great Just <lb/> ness awakening, &amp; he was <name emotion="concerned">concern'd</name> about his
-						Salvation very <lb/> much, this continued for some time, &amp; on this
-						account he staid a- <lb/> while in <del>Neustad</del>
-						<add place="above"><placeName ref="#mlpla000434" cert="high">Mandel</placeName></add> with <persName cert="high" type="real">Abbot Steinmetz</persName>, was at Werningrode
-						<lb/> Halle &amp; other Places, where he thought perhaps he might get a
-						<lb/> <name emotion="blessing">Blessing</name> <name emotion="for his heart">for his Heart</name>. Since <date when="1731" cert="high">1731</date> he has been acquainted <lb/> with
-						the <orgName en="congregation">B<hi rend="superscript">rn</hi></orgName> as well in <placeName ref="#mlpla000354" cert="high">Jena</placeName> as in other Places &amp;
-						came <lb/> from time to time to Visit the <orgName en="congregation">Cong<hi rend="superscript">n</hi></orgName> in <placeName ref="#mlpla000001" cert="high">Hhuth</placeName>, where the <lb/> <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> came ever <name emotion="nearer to his heart">nearer to his Heart</name>. He found <name emotion="no true rest">no true rest</name> <lb/> from all his good Performance, nor
-						was delivered from his <name emotion="anxiety">An
-<lb/>
-xiety</name> till he resolv'd in the Year <date when="1739" cert="high">1739</date>
-						to become the intire <lb/> Reward of the Smart of <persName type="real" cert="high">Jesus</persName>, at the same time he
-						got <lb/> a Conviction to let every thing be as it was, &amp; to betake him-
-						<lb/> self to the <orgName en="congregation">Cong<hi rend="superscript">n</hi></orgName> to stay there;
-						accordingly he did so, with <lb/> a true <name emotion="blessing">Blessing</name> <name emotion="for his heart">for his Heart</name>, &amp; he
-						had at that time <name emotion="truly blessed">true-
-<lb/>
-ly blessed</name> times <name emotion="for his heart">for his Heart</name> with the <orgName en="single brothers choir">Single Br<hi rend="superscript">n</hi></orgName> assist- <lb/> ed also quite faithfully
-						in Building their <orgName en="single brothers choir">Choir House</orgName> <lb/> there. He was also soon received into
-						the <orgName en="congregation">Cong<hi rend="superscript">n</hi></orgName> &amp; partook <lb/> of the Corps &amp;
-						Blood of <persName type="real" cert="high">Jesus</persName> in the <name type="event" ana="sacrament">Sacrament</name> with <lb/> the <orgName en="congregation">Cong<hi rend="superscript">n</hi>.</orgName> </p>
-					<p> In <date when="1742-05" cert="high">May 1742</date>, <name type="event" ana="arrival" when-iso="1742-05">He came over to <placeName cert="high" ref="#mlpla000072" type="arrival">Engl.</placeName> were he staid for some
-<lb/>
-time especially in <placeName ref="#mlpla000084" cert="high">Yorks<add place="above">hire</add></placeName></name> &amp; was edifying to the <orgName en="congregation">Cong<hi rend="superscript">n</hi></orgName> in his <lb/> <rs ref="#mlocc000081" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">Servants office in the Hall</rs> which
-						he perform'd very faith-  <note>fully</note>
+					<p> Wheat in <placeName ref="#mlpla000433" cert="high">Surinam</placeName>. He
+						inherited from his parents the Lord- <lb/> ships of Shossloehiz Lomniz
+						Zonade &amp; Rodewiz. In his <lb/>
+						<name type="emotion" key="tender">tender</name> Youth he became acquainted
+						with <persName cert="high" type="real">Abbot Steinmez</persName> &amp; o-
+						<lb/> ther Servants of <persName type="real" cert="high">God</persName>, by
+						means of the well known great Just <lb/> ness awakening, &amp; he was <name
+							type="emotion" key="concerned">concern'd</name> about his Salvation very
+						<lb/> much, this continued for some time, &amp; on this account he staid a-
+						<lb/> while in <del>Neustad</del>
+						<add place="above"><placeName ref="#mlpla000434" cert="high"
+								>Mandel</placeName></add> with <persName cert="high" type="real"
+							>Abbot Steinmetz</persName>, was at Werningrode <lb/> Halle &amp; other
+						Places, where he thought perhaps he might get a <lb/>
+						<name type="emotion" key="blessing">Blessing</name>
+						<name type="emotion" key="for his heart">for his Heart</name>. Since <date
+							when="1731" cert="high">1731</date> he has been acquainted <lb/> with
+						the <affiliation type="congregation">B<hi rend="superscript"
+							>rn</hi></affiliation> as well in <placeName ref="#mlpla000354"
+							cert="high">Jena</placeName> as in other Places &amp; came <lb/> from
+						time to time to Visit the <affiliation type="congregation">Cong<hi
+								rend="superscript">n</hi></affiliation> in <placeName
+							ref="#mlpla000001" cert="high">Hhuth</placeName>, where the <lb/>
+						<roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> came
+						ever <name type="emotion" key="nearer to his heart">nearer to his
+							Heart</name>. He found <name type="emotion" key="no true rest">no true
+							rest</name>
+						<lb/> from all his good Performance, nor was delivered from his <name
+							type="emotion" key="anxiety">An <lb/> xiety</name> till he resolv'd in
+						the Year <date when="1739" cert="high">1739</date> to become the intire
+						<lb/> Reward of the Smart of <persName type="real" cert="high"
+							>Jesus</persName>, at the same time he got <lb/> a Conviction to let
+						every thing be as it was, &amp; to betake him- <lb/> self to the
+							<affiliation type="congregation">Cong<hi rend="superscript"
+							>n</hi></affiliation> to stay there; accordingly he did so, with <lb/> a
+						true <name type="emotion" key="blessing">Blessing</name>
+						<name type="emotion" key="for his heart">for his Heart</name>, &amp; he had
+						at that time <name type="emotion" key="truly blessed">true- <lb/> ly
+							blessed</name> times <name type="emotion" key="for his heart">for his
+							Heart</name> with the <affiliation type="single_brothers_choir">Single
+								Br<hi rend="superscript">n</hi></affiliation> assist- <lb/> ed also
+						quite faithfully in Building their <affiliation type="single_brothers_choir"
+							>Choir House</affiliation>
+						<lb/> there. He was also soon received into the <affiliation
+							type="congregation">Cong<hi rend="superscript">n</hi></affiliation>
+						&amp; partook <lb/> of the Corps &amp; Blood of <persName type="real"
+							cert="high">Jesus</persName> in the <eventName type="sacrament"
+							>Sacrament</eventName> with <lb/> the <affiliation type="congregation"
+								>Cong<hi rend="superscript">n</hi>.</affiliation>
+					</p>
+					<p> In <date when="1742-05" cert="high">May 1742</date>, <eventName
+							type="arrival" when-iso="1742-05">He came over to <placeName cert="high"
+								ref="#mlpla000072" type="arrival">Engl.</placeName> were he staid
+							for some <lb/> time especially in <placeName ref="#mlpla000084"
+								cert="high">Yorks<add place="above"
+							>hire</add></placeName></eventName> &amp; was edifying to the
+							<affiliation type="congregation">Cong<hi rend="superscript"
+							>n</hi></affiliation> in his <lb/>
+						<rs ref="#mlocc000081" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation"
+							cert="high">Servants office in the Hall</rs> which he perform'd very
+						faith- <note>fully</note>
 					</p>
 				</div>
 				<div type="page" n="4">
 					<head type="page">4</head>
-					<pb n="4" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-08.jpg"/>
-					<p> faithfully &amp; <name emotion="with his whole heart">with his whole Heart</name> <name type="event" ana="arrival">from thence he returned in com-
-<lb/>
-pany with the <persName ref="#mlper000566" cert="high" type="real">Dr Disciple</persName> &amp; <persName ref="#mlper000213" cert="high" type="real">Mother</persName> to <placeName cert="high" ref="#mlpla000179" type="arrival">Holland</placeName></name> &amp; <name type="event" ana="arrival">so on to
-<lb/>
-<placeName ref="#mlpla000057" type="arrival" cert="high">M-born</placeName></name> &amp; was
-						there <date when="1743-05-15" cert="high">May 15<hi rend="superscript">th</hi> 1743</date>. <name type="event" ana="marriage" when-iso="1743-05-15">Married to our <roleName type="honorific">S<hi rend="superscript">r</hi></roleName> <persName cert="high" type="real">Diana
-<lb/>
-Raymond</persName></name> after his marriage her
-						his Wife were 1<hi rend="superscript">st</hi> Deacons in <lb/> <placeName ref="#mlpla000072" cert="high">Engl</placeName> &amp;
-						conducted it with true Simplicity &amp; many <name emotion="blessings">Bles-
-<lb/>
-sings</name> afterwards he
-						made Several Journeys to <placeName ref="#mlpla000001" cert="high">Hhuth</placeName> &amp; <lb/> <placeName ref="#mlpla000014" cert="high">Hhaag</placeName>, in <date when="1743" cert="high">this Year</date> also he
-						visited his Lordships &amp; found him- <lb/> self not only not in a Capacity
-						to execute what he had in- <lb/> tended, but found also such an Entanglement
-						in his worldly <lb/> Affairs, that he thought it best to sell his Estates,
-						to pay <lb/> he Debts, &amp; to give the rest to the Diaconate of the Unity
-						<lb/> which at that time was much streighten'd, for wch in the <lb/>
-						Year <date when="1740" cert="high">1740</date> the New House calld <placeName cert="high">Lichtenburg</placeName> was made over to <lb/> him &amp;
-						fitted up, but because his <name emotion="comfort">comfort</name> did not like to tarry <lb/> at <placeName ref="#mlpla000014" cert="high">Hhaag</placeName>, <name type="event" ana="arrival">he went with her first to <placeName ref="#mlpla000150" type="arrival" cert="high">Zeyst</placeName></name> &amp; <name type="event" ana="arrival">in the last
-<lb/>
-Year again to <placeName ref="#mlpla000072" type="arrival" cert="high">Engl</placeName></name>;
-						&amp; <name emotion="enjoyed">enjoyed</name> by his abode in each Place of <lb/> those <orgName en="congregation">Cong<hi rend="superscript">ns</hi></orgName> much <name emotion="grace">Grace</name> &amp; <name emotion="blessings">Blessings</name> <name emotion="for his heart">for his Heart</name>,
-						&amp; all <lb/> the <orgName en="congregation">B<hi rend="superscript">rn</hi> &amp; S<hi rend="superscript">rs</hi></orgName> <name emotion="loved">lov'd</name> him, he had a longer <name emotion="attachment">attachment</name>
-						&amp; faithful <lb/> <name emotion="heart">Heart</name> <name emotion="full of love">full of love</name> to our <roleName type="honorific">Sav<hi rend="superscript">r</hi></roleName> &amp; his <orgName en="congregation">Cong<hi rend="superscript">n</hi></orgName> &amp; amidst the va-
-						<lb/> rious Circumstances w<hi rend="superscript">ch</hi> his weak
-						constitution mostly occasi- <lb/> ond. He was never put off from his point,
-						but his <name emotion="heart always">Heart al-
-<lb/>
-ways</name> <name emotion="longed">long'd</name> after him, whom he can now see
-						bodily &amp; <name emotion="kiss">kiss</name> his <lb/> Wounds. </p>
-					<p> The latter Years of his mortal Life he was <name health="disease">very Sickly &amp; had
-<lb/>
-many disorders in his Body</name>, but especially since the Winter <lb/> <date when="1753" cert="high">53</date> yet as long as it was
-						possible he came to the Opportunities <lb/> in the Disciples House very
-						diligently &amp; with great <name emotion="cheerfulness">Chearfull-</name>  <note>ness</note>
+					<pb n="4"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_05_LarischCharles-08.jpg"/>
+					<p> faithfully &amp; <name type="emotion" key="with his whole heart">with his
+							whole Heart</name>
+						<eventName type="arrival">from thence he returned in com- <lb/> pany with
+							the <persName ref="#mlper000566" cert="high" type="real">Dr
+								Disciple</persName> &amp; <persName ref="#mlper000213" cert="high"
+								type="real">Mother</persName> to <placeName cert="high"
+								ref="#mlpla000179" type="arrival">Holland</placeName></eventName>
+						&amp; <eventName type="arrival">so on to <lb/>
+							<placeName ref="#mlpla000057" type="arrival" cert="high"
+								>M-born</placeName></eventName> &amp; was there <date
+							when="1743-05-15" cert="high">May 15<hi rend="superscript">th</hi>
+							1743</date>. <eventName type="marriage" when-iso="1743-05-15">Married to
+							our <roleName type="honorific">S<hi rend="superscript"
+								>r</hi></roleName> <persName cert="high" type="real">Diana <lb/>
+								Raymond</persName></eventName> after his marriage her his Wife were
+							1<hi rend="superscript">st</hi> Deacons in <lb/>
+						<placeName ref="#mlpla000072" cert="high">Engl</placeName> &amp; conducted
+						it with true Simplicity &amp; many <name type="emotion" key="blessings"
+							>Bles- <lb/> sings</name> afterwards he made Several Journeys to
+							<placeName ref="#mlpla000001" cert="high">Hhuth</placeName> &amp; <lb/>
+						<placeName ref="#mlpla000014" cert="high">Hhaag</placeName>, in <date
+							when="1743" cert="high">this Year</date> also he visited his Lordships
+						&amp; found him- <lb/> self not only not in a Capacity to execute what he
+						had in- <lb/> tended, but found also such an Entanglement in his worldly
+						<lb/> Affairs, that he thought it best to sell his Estates, to pay <lb/> he
+						Debts, &amp; to give the rest to the Diaconate of the Unity <lb/> which at
+						that time was much streighten'd, for wch in the <lb/> Year <date when="1740"
+							cert="high">1740</date> the New House calld <placeName cert="high"
+							>Lichtenburg</placeName> was made over to <lb/> him &amp; fitted up, but
+						because his <name type="emotion" key="comfort">comfort</name> did not like
+						to tarry <lb/> at <placeName ref="#mlpla000014" cert="high"
+							>Hhaag</placeName>, <eventName type="arrival">he went with her first to
+								<placeName ref="#mlpla000150" type="arrival" cert="high"
+								>Zeyst</placeName></eventName> &amp; <eventName type="arrival">in
+							the last <lb/> Year again to <placeName ref="#mlpla000072"
+								type="arrival" cert="high">Engl</placeName></eventName>; &amp; <name
+							type="emotion" key="enjoyed">enjoyed</name> by his abode in each Place
+						of <lb/> those <affiliation type="congregation">Cong<hi rend="superscript"
+								>ns</hi></affiliation> much <name type="emotion" key="grace"
+							>Grace</name> &amp; <name type="emotion" key="blessings"
+							>Blessings</name>
+						<name type="emotion" key="for his heart">for his Heart</name>, &amp; all
+						<lb/> the <affiliation type="congregation">B<hi rend="superscript">rn</hi>
+							&amp; S<hi rend="superscript">rs</hi></affiliation>
+						<name type="emotion" key="loved">lov'd</name> him, he had a longer <name
+							type="emotion" key="attachment">attachment</name> &amp; faithful <lb/>
+						<name type="emotion" key="heart">Heart</name>
+						<name type="emotion" key="full of love">full of love</name> to our <roleName
+							type="honorific">Sav<hi rend="superscript">r</hi></roleName> &amp; his
+							<affiliation type="congregation">Cong<hi rend="superscript"
+							>n</hi></affiliation> &amp; amidst the va- <lb/> rious Circumstances
+							w<hi rend="superscript">ch</hi> his weak constitution mostly occasi-
+						<lb/> ond. He was never put off from his point, but his <name type="emotion"
+							key="heart always">Heart al- <lb/> ways</name>
+						<name type="emotion" key="longed">long'd</name> after him, whom he can now
+						see bodily &amp; <name type="emotion" key="kiss">kiss</name> his <lb/>
+						Wounds. </p>
+					<p> The latter Years of his mortal Life he was <name type="health"
+							subtype="disease">very Sickly &amp; had <lb/> many disorders in his
+							Body</name>, but especially since the Winter <lb/>
+						<date when="1753" cert="high">53</date> yet as long as it was possible he
+						came to the Opportunities <lb/> in the Disciples House very diligently &amp;
+						with great <name type="emotion" key="cheerfulness">Chearfull-</name>
+						<note>ness</note>
 					</p>
 					<cb/>
-					<p>=ness. According to the Nature of His <name health="disease">Disease and frequent casaul
-<lb/>
-ties of all sorts</name> He thought nothing at first of going home, till just <lb/> after his
-						Birthday this year when the Watchword was untill the <lb/> glance extend
-						throughout &amp; then he came upon it <name emotion="very happily">very happily</name> <lb/> himself, and he was
-						heard to say when by <del>by</del> himself, to our <lb/> <roleName type="honorific">Saviour</roleName>: My Dear
-						<roleName type="honorific">Saviour</roleName> be thou my all in all &amp; round a- <lb/> bout me, I am indeed
-						weak, but thou knowest well how to make <lb/> it better, and he said: I am
-						indeed spent or very weak, but I <lb/> shall soon go into the Regions of
-						health. Another time, when <lb/> he was in <name health="disease">great <name emotion="pain">pain</name></name> he <name emotion="comforted">comforted</name> himself
-						with the <name emotion="sufferings">sufferings</name> <lb/> of our <roleName type="honorific">Saviour</roleName>, <name type="event" ana="spiritual">&amp; <name emotion="rejoiced">rejoiced</name> at the sweet hour of his release, &amp;
-<lb/>
-only <name emotion="wished">wish'd</name> that our <roleName type="honorific">Saviour</roleName> wo'd take him to himself in
-<lb/>
-sleep.</name> As he pressd very much to have all his
-						Temporal affairs <lb/> concerning him and his regulated while he was here,
-						therefore <lb/> the Synodal Conclusion of <date when="1753" cert="high">1753</date>, was thro' the
-						interposition <lb/> of the Disciples House but a few days before his end in
-						<lb/> the name of our <persName type="real" cert="high">God</persName> brought into the form customary <lb/> here, and
-						tho' all the necessary forms are yet wanting from both <lb/> the
-						Married parties, yet the Deed is delivered to the <name emotion="satisfaction">satisfac-
-<lb/>
-tion</name> of
-						all sides. <date cert="medium" when="1753-10-26">Oct 26</date> He got a <name health="disease">new disorder</name> &amp; said: that now <lb/> he was
-						ready to waite for the last <name emotion="kiss">kiss</name>, when the <orgName en="congregation">Brn</orgName> at his <lb/> <name emotion="desire">desire</name> sung him
-						some verses he <name emotion="rejoiced">rejoyced</name> and said O that <lb/> has strengthned me, &amp; so
-						continued in continual thought <lb/> of going home till the <date cert="medium" when="1753-10-28">28 of Octo<hi rend="superscript">r</hi> </date>when he said: to this Ser- <lb/> vant <roleName type="honorific">Bro<hi rend="superscript">r</hi></roleName> <persName cert="high" type="real">Summerskill</persName>, this Ev'ning or Tomorrow
-						<lb/> morning the expected hour will <add place="above">come</add> &amp;
-						often asked, is it not yet <lb/> time he sent also 2 or 3 times in the night
-						for <roleName type="honorific">B<hi rend="superscript">r</hi></roleName> <persName cert="high" type="real">Johan</persName> <note>to</note></p>
+					<p>=ness. According to the Nature of His <name type="health" subtype="disease"
+							>Disease and frequent casaul <lb/> ties of all sorts</name> He thought
+						nothing at first of going home, till just <lb/> after his Birthday this year
+						when the Watchword was untill the <lb/> glance extend throughout &amp; then
+						he came upon it <name type="emotion" key="very happily">very happily</name>
+						<lb/> himself, and he was heard to say when by <del>by</del> himself, to our <lb/>
+						<roleName type="honorific">Saviour</roleName>: My Dear <roleName
+							type="honorific">Saviour</roleName> be thou my all in all &amp; round a-
+						<lb/> bout me, I am indeed weak, but thou knowest well how to make <lb/> it
+						better, and he said: I am indeed spent or very weak, but I <lb/> shall soon
+						go into the Regions of health. Another time, when <lb/> he was in <name
+							type="health" subtype="disease">great <name type="emotion" key="pain"
+								>pain</name></name> he <name type="emotion" key="comforted"
+							>comforted</name> himself with the <name type="emotion" key="sufferings"
+							>sufferings</name>
+						<lb/> of our <roleName type="honorific">Saviour</roleName>, <eventName
+							type="spiritual">&amp; <name type="emotion" key="rejoiced"
+								>rejoiced</name> at the sweet hour of his release, &amp; <lb/> only
+								<name type="emotion" key="wished">wish'd</name> that our <roleName
+								type="honorific">Saviour</roleName> wo'd take him to himself in
+							<lb/> sleep.</eventName> As he pressd very much to have all his Temporal
+						affairs <lb/> concerning him and his regulated while he was here, therefore
+						<lb/> the Synodal Conclusion of <date when="1753" cert="high">1753</date>,
+						was thro' the interposition <lb/> of the Disciples House but a few days
+						before his end in <lb/> the name of our <persName type="real" cert="high"
+							>God</persName> brought into the form customary <lb/> here, and tho' all
+						the necessary forms are yet wanting from both <lb/> the Married parties, yet
+						the Deed is delivered to the <name type="emotion" key="satisfaction"
+							>satisfac- <lb/> tion</name> of all sides. <date cert="medium"
+							when="1753-10-26">Oct 26</date> He got a <name type="health"
+							subtype="disease">new disorder</name> &amp; said: that now <lb/> he was
+						ready to waite for the last <name type="emotion" key="kiss">kiss</name>,
+						when the <affiliation type="congregation">Brn</affiliation> at his <lb/>
+						<name type="emotion" key="desire">desire</name> sung him some verses he
+							<name type="emotion" key="rejoiced">rejoyced</name> and said O that
+						<lb/> has strengthned me, &amp; so continued in continual thought <lb/> of
+						going home till the <date cert="medium" when="1753-10-28">28 of Octo<hi
+								rend="superscript">r</hi> </date>when he said: to this Ser- <lb/>
+						vant <roleName type="honorific">Bro<hi rend="superscript">r</hi></roleName>
+						<persName cert="high" type="real">Summerskill</persName>, this Ev'ning or
+						Tomorrow <lb/> morning the expected hour will <add place="above">come</add>
+						&amp; often asked, is it not yet <lb/> time he sent also 2 or 3 times in the
+						night for <roleName type="honorific">B<hi rend="superscript"
+							>r</hi></roleName>
+						<persName cert="high" type="real">Johan</persName>
+						<note>to</note></p>
 				</div>
 				<div type="page" n="5">
 					<head type="page">5</head>
-					<pb n="5" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-09.jpg"/>
-					<p> to come and <name emotion="bless">bless</name> him, and when <persName cert="high" type="real">Joh:</persName> came to him, and sung: pale <lb/> Lips <name emotion="kiss him">kiss him</name> <name emotion="upon the heart">upon the Heart</name>, he said; o yes, and to that Verse and <lb/> when thy Mouth
-						expiring &amp;c. He said even to Day. </p>
-					<p> <date cert="medium" when="1753-10-29">Oct 29<hi rend="superscript">th</hi></date> Towards Morning he took leave of his Wife and said:
-						<lb/>My dear I <name emotion="kiss">kiss</name> thee <name emotion="on thy heart">on thy Heart</name>, here I have been thy Hus <lb/> band
-						and thy Heart, we was both one Body but now no <lb/> more, I an going to our
-						dear <roleName type="honorific">Saviour</roleName> and shall expect <lb/> thee with my Bridegroom with <name emotion="joy">Joy</name>:
-						Afterwards he <lb/> said to <roleName type="honorific">B<hi rend="superscript">r</hi></roleName> <persName cert="high" type="real">Summerskill</persName> and
-						his Wife, my dear Children <name emotion="forgive">for
-<lb/>
-give</name> me every thing and I <name emotion="thank">thank</name> you for
-						all the <name emotion="love">Love</name> and <lb/> faithfulness that you shew'd me here and the
-							<orgName en="congregation">B<hi rend="superscript">rn</hi></orgName> will think <lb/> on you for it,
-						thereupon he said to his <rs memoirSubject="no" ref="#mlocc000086" type="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high">Maid</rs> (who is no <lb/> <roleName type="honorific">Sister</roleName>) adue I <name emotion="thank">thank</name> you also
-						for all you have done for me, I <lb/><name emotion="wish">wish</name> you well in the World, about Six
-						o'Clock in the <lb/> Morning he <name emotion="desired">desired</name> <roleName type="honorific">Brother</roleName> <persName cert="high" type="real">John<hi rend="superscript">s</hi></persName> to be called <lb/> again, because he was very
-						weak but re- <lb/> cover'd himself as soon as he saw him w<hi rend="superscript">ch</hi>
+					<pb n="5"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_05_LarischCharles-09.jpg"/>
+					<p> to come and <name type="emotion" key="bless">bless</name> him, and when
+							<persName cert="high" type="real">Joh:</persName> came to him, and sung:
+						pale <lb/> Lips <name type="emotion" key="kiss him">kiss him</name>
+						<name type="emotion" key="upon the heart">upon the Heart</name>, he said; o
+						yes, and to that Verse and <lb/> when thy Mouth expiring &amp;c. He said
+						even to Day. </p>
+					<p>
+						<date cert="medium" when="1753-10-29">Oct 29<hi rend="superscript"
+							>th</hi></date> Towards Morning he took leave of his Wife and said:
+						<lb/>My dear I <name type="emotion" key="kiss">kiss</name> thee <name
+							type="emotion" key="on thy heart">on thy Heart</name>, here I have been
+						thy Hus <lb/> band and thy Heart, we was both one Body but now no <lb/>
+						more, I an going to our dear <roleName type="honorific">Saviour</roleName>
+						and shall expect <lb/> thee with my Bridegroom with <name type="emotion"
+							key="joy">Joy</name>: Afterwards he <lb/> said to <roleName
+							type="honorific">B<hi rend="superscript">r</hi></roleName>
+						<persName cert="high" type="real">Summerskill</persName> and his Wife, my
+						dear Children <name type="emotion" key="forgive">for <lb/> give</name> me
+						every thing and I <name type="emotion" key="thank">thank</name> you for all
+						the <name type="emotion" key="love">Love</name> and <lb/> faithfulness that
+						you shew'd me here and the <affiliation type="congregation">B<hi
+								rend="superscript">rn</hi></affiliation> will think <lb/> on you for
+						it, thereupon he said to his <name type="occupation"
+							ref="http://sparql.cwrc.ca/ontology/cwrc#Occupation" cert="high"
+							>Maid</name> (who is no <lb/>
+						<roleName type="honorific">Sister</roleName>) adue I <name type="emotion"
+							key="thank">thank</name> you also for all you have done for me, I
+							<lb/><name type="emotion" key="wish">wish</name> you well in the World,
+						about Six o'Clock in the <lb/> Morning he <name type="emotion" key="desired"
+							>desired</name>
+						<roleName type="honorific">Brother</roleName>
+						<persName cert="high" type="real">John<hi rend="superscript"
+							>s</hi></persName> to be called <lb/> again, because he was very weak
+						but re- <lb/> cover'd himself as soon as he saw him w<hi rend="superscript"
+							>ch</hi>
 						<lb/> he did several times before; The rest of the <lb/> Time he was mostly
 						as if he was a- <lb/> sleep, &amp; had thereby sometimes such an <lb/>
-						extraordinary lovely &amp; <name emotion="smiling">smiling</name> look <lb/> that the eyes of the <orgName en="congregation">Brethren &amp; Sisters</orgName> <lb/> round about him overflowed. <persName cert="high" type="real">Hutton</persName> <lb/> said once, such
-						a look is worth more <note>than</note>
+						extraordinary lovely &amp; <name type="emotion" key="smiling">smiling</name>
+						look <lb/> that the eyes of the <affiliation type="congregation">Brethren
+							&amp; Sisters</affiliation>
+						<lb/> round about him overflowed. <persName cert="high" type="real"
+							>Hutton</persName>
+						<lb/> said once, such a look is worth more <note>than</note>
 					</p>
 					<cb/>
-					<p> than 100 Guineas, at last he awoke, rais'd <lb/> himself and said to <roleName type="honorific">Brother</roleName> <persName cert="high" type="real">Johannes</persName>
-						<lb/> now <name emotion="bless">Bless</name> me, &amp; then he took his hand &amp; <lb/> laid it himself
-						upon his forehead, &amp; <lb/> so <persName cert="high" type="real">Johannes</persName> <name emotion="blessed">Blessed</name> him with that <lb/>
-						Verse: &amp; let his Mouth expiring on <lb/> thy dear Breast recline &amp;c.
-						to <lb/> which our dear <name emotion="happy">happy</name> <name emotion="heart">heart</name> said yes <lb/> powerfully: Ater the
-						<name emotion="blessing">Blessing</name> <lb/> he look'd about once more, when <lb/> he saw <roleName type="honorific">Bro<hi rend="superscript">r</hi>.</roleName> <persName cert="high" type="real">Johannes</persName>, <persName cert="high" type="real">Watterville</persName> <lb/> <persName cert="high" type="real">Hutton</persName> &amp;
-						others standing round <lb/> him, he threw them a <name emotion="kiss">kiss</name>, &amp; said: <lb/>
-						<add place="above">Fare you well</add> Adue <name emotion="sweetly">sweetly</name> the <roleName type="honorific">holy Ghost</roleName> has <lb/>
-						impress'd upon all <name emotion="upon my heart">upon my heart</name> <lb/> thy committed to him many Sa-
-						<lb/> lutations <add place="above">&amp; <name emotion="kisses">kisses</name></add> to the <roleName type="honorific">Saviour</roleName> and
-							<note>the</note>
+					<p> than 100 Guineas, at last he awoke, rais'd <lb/> himself and said to
+							<roleName type="honorific">Brother</roleName>
+						<persName cert="high" type="real">Johannes</persName>
+						<lb/> now <name type="emotion" key="bless">Bless</name> me, &amp; then he
+						took his hand &amp; <lb/> laid it himself upon his forehead, &amp; <lb/> so
+							<persName cert="high" type="real">Johannes</persName>
+						<name type="emotion" key="blessed">Blessed</name> him with that <lb/> Verse:
+						&amp; let his Mouth expiring on <lb/> thy dear Breast recline &amp;c. to
+						<lb/> which our dear <name type="emotion" key="happy">happy</name>
+						<name type="emotion" key="heart">heart</name> said yes <lb/> powerfully:
+						Ater the <name type="emotion" key="blessing">Blessing</name>
+						<lb/> he look'd about once more, when <lb/> he saw <roleName
+							type="honorific">Bro<hi rend="superscript">r</hi>.</roleName>
+						<persName cert="high" type="real">Johannes</persName>, <persName cert="high"
+							type="real">Watterville</persName>
+						<lb/>
+						<persName cert="high" type="real">Hutton</persName> &amp; others standing
+						round <lb/> him, he threw them a <name type="emotion" key="kiss"
+						>kiss</name>, &amp; said: <lb/>
+						<add place="above">Fare you well</add> Adue <name type="emotion"
+							key="sweetly">sweetly</name> the <roleName type="honorific">holy
+							Ghost</roleName> has <lb/> impress'd upon all <name type="emotion"
+							key="upon my heart">upon my heart</name>
+						<lb/> thy committed to him many Sa- <lb/> lutations <add place="above">&amp;
+								<name type="emotion" key="kisses">kisses</name></add> to the
+							<roleName type="honorific">Saviour</roleName> and <note>the</note>
 					</p>
 				</div>
 				<div type="page" n="6">
 					<head type="page">6</head>
-					<pb n="6" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-12.jpg"/>
-					<p> the Church above made perfect <lb/> &amp; perticularly our dear <name emotion="blessed">Blessed</name> <lb/> Christle, and
-						he promissd it <lb/> with a plain Yes. His last <lb/> Words were: We all
-						live unto <lb/> him &amp; then he shut his eyes <lb/> again and slept &amp;
-						so accord- <lb/> ing to his <name emotion="wish">wish</name> his Spirit was <lb/> <name emotion="kissed">kiss'd</name> away in
-						Sleep &amp; the <orgName en="congregation">Brn
-<lb/>
-&amp; Sisters</orgName> round him <add place="above">sung
-							him</add> quite into <lb/> his <name type="event" ana="death"><name emotion="rest">rest</name></name>. His Tabernacle displayed <lb/> a
-						<name emotion="very happy">very happy</name> look with which <lb/> the <orgName en="congregation">Brethren &amp; Sisters</orgName> present <lb/> in
-						Sarons hall <name emotion="delighted">delighted</name> them- <lb/> selves </p>
+					<pb n="6"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_05_LarischCharles-12.jpg"/>
+					<p> the Church above made perfect <lb/> &amp; perticularly our dear <name
+							type="emotion" key="blessed">Blessed</name>
+						<lb/> Christle, and he promissd it <lb/> with a plain Yes. His last <lb/>
+						Words were: We all live unto <lb/> him &amp; then he shut his eyes <lb/>
+						again and slept &amp; so accord- <lb/> ing to his <name type="emotion"
+							key="wish">wish</name> his Spirit was <lb/>
+						<name type="emotion" key="kissed">kiss'd</name> away in Sleep &amp; the
+							<affiliation type="congregation">Brn <lb/> &amp; Sisters</affiliation>
+						round him <add place="above">sung him</add> quite into <lb/> his <eventName
+							type="death"><name type="emotion" key="rest">rest</name></eventName>.
+						His Tabernacle displayed <lb/> a <name type="emotion" key="very happy">very
+							happy</name> look with which <lb/> the <affiliation type="congregation"
+							>Brethren &amp; Sisters</affiliation> present <lb/> in Sarons hall <name
+							type="emotion" key="delighted">delighted</name> them- <lb/> selves </p>
 					<cb/>
 					<p>
-							<hi rend="underline">Made by the dear Disciple on <roleName type="honorific">Br</roleName> <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="L." cert="high" type="real">L.</persName> Departure</hi>						
+						<hi rend="underline">Made by the dear Disciple on <roleName type="honorific"
+								>Br</roleName>
+							<persName
+								ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+								key="L." cert="high" type="real">L.</persName> Departure</hi>
 					</p>
 					<p>
 						<lg type="stanza" n="1">
-							<l>1.<hi rend="superscript">st</hi> Thou venerable Child of <name emotion="grace">Grace</name> </l>
+							<l>1.<hi rend="superscript">st</hi> Thou venerable Child of <name
+									type="emotion" key="grace">Grace</name>
+							</l>
 							<l>Go in thy white and Blood wash'd Dress</l>
 							<l>To live there henceforth without Sin</l>
 							<l>where many a Soul 'fore thee hath been :/:</l>
 						</lg>
 						<lg type="stanza" n="2">
-							<l>2.<hi rend="superscript">nd</hi> on all Saints Day thy Corpse is laid</l>
-							<l>In <persName type="real" cert="high">God's</persName> green pretty Sharon's Bed</l>
-							<l>Where it shall <name emotion="sweetly">sweetly</name> <name emotion="rest">rest</name>, till He</l>
+							<l>2.<hi rend="superscript">nd</hi> on all Saints Day thy Corpse is
+								laid</l>
+							<l>In <persName type="real" cert="high">God's</persName> green pretty
+								Sharon's Bed</l>
+							<l>Where it shall <name type="emotion" key="sweetly">sweetly</name>
+								<name type="emotion" key="rest">rest</name>, till He</l>
 							<l>Thinks fit to Change it Gloriously :/:</l>
 						</lg>
 						<lg type="stanza" n="3">
-							<l>3.<hi rend="superscript">rd</hi> from the <orgName en="disciple's house">Disciples House</orgName> there are</l>
+							<l>3.<hi rend="superscript">rd</hi> from the <affiliation
+									type="disciples_house">Disciples House</affiliation> there
+								are</l>
 							<l>Already Sevral Grains Sown there, </l>
-							<l><persName cert="high" type="real">Marigens</persName> and her little ones</l>
-							<l>* <persName cert="high" type="real">Kleists</persName>, <persName cert="high" type="real">Millers</persName>, &amp; <persName cert="high" type="real">Golds</persName> Little Sons</l>
-							<l>and <persName cert="high" type="real">Christels</persName> Bones <note type="foot">Or * Kleists, Millers, Gold's Child's mortal Bones and my own son's</note></l>
+							<l><persName cert="high" type="real">Marigens</persName> and her little
+								ones</l>
+							<l>* <persName cert="high" type="real">Kleists</persName>, <persName
+									cert="high" type="real">Millers</persName>, &amp; <persName
+									cert="high" type="real">Golds</persName> Little Sons</l>
+							<l>and <persName cert="high" type="real">Christels</persName> Bones
+									<note type="foot">Or * Kleists, Millers, Gold's Child's mortal
+									Bones and my own son's</note></l>
 						</lg>
 						<lg type="stanza" n="4">
-							<l>4.<hi rend="superscript">th</hi> That Corpse is now laid in the Grave to </l>
-							<l>On whose account no <name emotion="doubt">doubt</name> we have,</l>
+							<l>4.<hi rend="superscript">th</hi> That Corpse is now laid in the Grave
+								to </l>
+							<l>On whose account no <name type="emotion" key="doubt">doubt</name> we
+								have,</l>
 							<l>But he who did inhabit it</l>
 							<l>Will fetch it Back when quite made fit :/:</l>
 						</lg>
@@ -3143,32 +3361,41 @@ give</name> me every thing and I <name emotion="thank">thank</name> you for
 							<l>5.<hi rend="superscript">th</hi> Now thou that Body's noble Guest</l>
 							<l>Who us so edified hast</l>
 							<l>Because thy Farewell was like that</l>
-							<l>which we of <persName cert="high" type="real">Fredrick Whilhelm</persName> Great</l>
+							<l>which we of <persName cert="high" type="real">Fredrick
+									Whilhelm</persName> Great</l>
 							<l>Commemorate</l>
 						</lg>
 					</p>
 					<p>
 						<lg>
-							<l>Or *<persName cert="high" type="real">Kleists</persName>, <persName cert="high" type="real">Millers</persName>, <persName cert="high" type="real">Gold's</persName> Child's mortal Bones</l>
+							<l>Or *<persName cert="high" type="real">Kleists</persName>, <persName
+									cert="high" type="real">Millers</persName>, <persName
+									cert="high" type="real">Gold's</persName> Child's mortal
+								Bones</l>
 							<l>and my own Son's</l>
 						</lg>
 					</p>
 				</div>
 				<div type="page" n="7">
 					<head type="page">7</head>
-					<pb n="7" facs="https://s3.amazonaws.com/moravianlives.bucknell.edu/MAF/Ful_3_05_LarischCharles-13.jpg"/>
+					<pb n="7"
+						facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_05_LarischCharles-13.jpg"/>
 					<p>
 						<lg type="stanza" n="6">
 							<l>6.<hi rend="superscript">th</hi> Thou wert presentis Animi</l>
-							<l>Ev'n in thy Farewell <name emotion="agony">Agony</name></l>
+							<l>Ev'n in thy Farewell <name type="emotion" key="agony"
+								>Agony</name></l>
 							<l>Some Days thou'st ready for Adieu</l>
 							<l>So that thy our Friend &amp; Mother too</l>
-							<l>their <name emotion="pleasure">Pleasure</name> view</l>
+							<l>their <name type="emotion" key="pleasure">Pleasure</name> view</l>
 						</lg>
 						<lg type="stanza" n="7">
 							<l>7.<hi rend="superscript">th</hi> I saw it when that Angel dear</l>
-							<l>Who waited on our <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Larish" cert="high" type="real">Larish</persName> here</l>
-							<l>Went to his <orgName en="congregation">B<hi rend="superscript">rn</hi>.</orgName> He did say</l>
+							<l>Who waited on our <persName
+									ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+									key="Larish" cert="high" type="real">Larish</persName> here</l>
+							<l>Went to his <affiliation type="congregation">B<hi rend="superscript"
+										>rn</hi>.</affiliation> He did say</l>
 							<l>Beloved only think I pray :/:</l>
 						</lg>
 						<lg type="stanza" n="8">
@@ -3178,21 +3405,30 @@ give</name> me every thing and I <name emotion="thank">thank</name> you for
 							<l>To Heroism that little Strength :/:</l>
 						</lg>
 						<lg type="stanza" n="9">
-							<l>9.<hi rend="superscript">th</hi> This last Act finds so much <name emotion="applause">Applause</name></l>
+							<l>9.<hi rend="superscript">th</hi> This last Act finds so much <name
+									type="emotion" key="applause">Applause</name></l>
 							<l>That Ev'n a Christle hath no cause</l>
-							<l>To <name emotion="blush">blush</name> at it, when <persName cert="high" type="real">Ludwig</persName> shall</l>
-							<l>So clear and <name emotion="cheerful">chearful</name> leave his Call</l>
+							<l>To <name type="emotion" key="blush">blush</name> at it, when
+									<persName cert="high" type="real">Ludwig</persName> shall</l>
+							<l>So clear and <name type="emotion" key="cheerful">chearful</name>
+								leave his Call</l>
 							<l>O very well.</l>
 						</lg>
 						<lg type="stanza" n="10">
 							<l>10.<hi rend="superscript">t</hi>h Should one ask seriously: How so? </l>
-							<l>What is it that makes <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Larish" cert="high" type="real">Larish</persName> go</l>
+							<l>What is it that makes <persName
+									ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+									key="Larish" cert="high" type="real">Larish</persName> go</l>
 							<l>So nobly, &amp; afford a Sight</l>
-							<l>of which God's House hold w<hi rend="superscript">th</hi> <name emotion="delight">Delight</name></l>
+							<l>of which God's House hold w<hi rend="superscript">th</hi>
+								<name type="emotion" key="delight">Delight</name></l>
 							<l>Saith. That is right?</l>
 						</lg>
 						<lg type="stanza" n="11">
-							<l>11.<hi rend="superscript">th</hi> I answer <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Larish" cert="high" type="real">Larish</persName> may be stil'd</l>
+							<l>11.<hi rend="superscript">th</hi> I answer <persName
+									ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+									key="Larish" cert="high" type="real">Larish</persName> may be
+								stil'd</l>
 							<l>In all Respects a simple Child</l>
 							<l>A Child, as Scripture teaches us</l>
 							<l>Is otherwise Synonimous</l>
@@ -3202,23 +3438,35 @@ give</name> me every thing and I <name emotion="thank">thank</name> you for
 					<cb/>
 					<p>
 						<lg type="stanza" n="12">
-							<l>12.<hi rend="superscript">th</hi> <persName cert="high" type="real">Swift's</persName> Wit did end in Lunacy</l>
-							<l>A <persName cert="high" type="real">Clark</persName> doth loose his Forced Esprit</l>
-							<l>Ev'n <persName cert="high" type="real">Newton</persName> turns a Simpleton</l>
-							<l>But <persName ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539" key="Larish" cert="high" type="real">Larish</persName>, when ripe to be gone</l>
+							<l>12.<hi rend="superscript">th</hi>
+								<persName cert="high" type="real">Swift's</persName> Wit did end in
+								Lunacy</l>
+							<l>A <persName cert="high" type="real">Clark</persName> doth loose his
+								Forced Esprit</l>
+							<l>Ev'n <persName cert="high" type="real">Newton</persName> turns a
+								Simpleton</l>
+							<l>But <persName
+									ref="http://moravianlives.bucknell.edu/data/personography.html#mlper000539"
+									key="Larish" cert="high" type="real">Larish</persName>, when
+								ripe to be gone</l>
 							<l>a <persName cert="medium" type="real">Solomon</persName>.</l>
 						</lg>
 						<lg type="stanza" n="13">
-							<l>13.<hi rend="superscript">th</hi> Thou Partner of this Man, attend</l>
-							<l>And ponder well his <name emotion="happy">happy</name> End</l>
+							<l>13.<hi rend="superscript">th</hi> Thou Partner of this Man,
+								attend</l>
+							<l>And ponder well his <name type="emotion" key="happy">happy</name>
+								End</l>
 							<l>Let thyself in Child's Mould be cast</l>
 							<l>To shall you be right nobly grac'd</l>
 							<l>and shine at last</l>
 						</lg>
 						<lg type="stanza" n="14">
-							<l>14.<hi rend="superscript">th</hi> All ye who're Saints because the Lamb</l>
-							<l>Did take upon him your Sins <name emotion="shame">Shame</name></l>
-							<l>Salute him ye who're gone to <roleName type="honorific">Christ</roleName></l>
+							<l>14.<hi rend="superscript">th</hi> All ye who're Saints because the
+								Lamb</l>
+							<l>Did take upon him your Sins <name type="emotion" key="shame"
+									>Shame</name></l>
+							<l>Salute him ye who're gone to <roleName type="honorific"
+									>Christ</roleName></l>
 							<l>You here; turn Children be advis'd</l>
 							<l>and so Baptiz'd</l>
 						</lg>
