@@ -124,7 +124,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_71Taylor-02.jpg" n="1" />
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_71Taylor-02.jpg" n="1" />
 			<p>
 				
 					Our Dear Sis<hi rend="superscript:true;">r</hi> Ann Taylor was Born in Clagheaton May ye 8<hi rend="superscript:true;">th</hi> 1731
@@ -159,8 +159,8 @@
 					earnest request Sis<hi rend="superscript:true;">r</hi> Mary admited her vis: to Hightown, <add place="above">to live with two</add> sisters
 					where according to her expectation, she profited much, became solidly
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_71Taylor-03.jpg" n="2" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_71Taylor-03.jpg" n="2" />
 			<p>
 				
 					aquainted with our d<hi rend="superscript:true;">r</hi> Sav<hi rend="superscript:true;">r</hi> &amp; her own poor heart, so that she gain'd
@@ -199,9 +199,9 @@
 					of this sickness, sho'd answer no I can't believe I shall
 					have that favour yet. But ye disorder encreasing, she came
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_71Taylor-04.jpg" n="3" />
-			<p>
+			</p></div>
+			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_71Taylor-04.jpg" n="3" />
+<div>			<p>
 				
 					upon other thoughts, &amp; said that if she didnot onlter soon it
 					would bring her to our Saviour, This made her often wish she 
@@ -243,7 +243,9 @@
 					manner of ye love &amp; faithfullness of her dearest Friend
 				
 			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_71Taylor-05.jpg" n="4" />
+</div>
+			<div>			
+				<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_71Taylor-05.jpg" n="4" />
 			<p>
 				
 					who had to closly attended &amp; followed her even from
@@ -278,8 +280,8 @@
 					death sweat, therefore she sho'd only now have a
 					little paticence &amp; that happy mnnite w'd soon come. 
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_71Taylor-01.jpg" n="5" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_71Taylor-01.jpg" n="5" />
 			<p>
 				
 					then the lay a little still, but presantly lifted
@@ -292,7 +294,7 @@
 					&amp; twelve o clock ye same night, in the 28 year of her age
 					decb<hi rend="superscript:true;">r</hi> 15 1758
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
