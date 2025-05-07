@@ -123,7 +123,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_16_WalkerAnnaMargretta-01.jpg" n="1" />
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_16_WalkerAnnaMargretta-01.jpg" n="1" />
 			<p>
 				
 					Anna Margretta Walker was Born in fulneck <add place="above">went home</add> Apl 23<hi rend="superscript:true;">d</hi> 1770
@@ -148,8 +148,8 @@
 					to her, last Novembr She got a Fever which brought
 					her very weak but after wards Recovered prety well
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_16_WalkerAnnaMargretta-02.jpg" n="2" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_16_WalkerAnnaMargretta-02.jpg" n="2" />
 			<p>
 				
 					Derectly after which she took the small pox, but came
@@ -176,8 +176,8 @@
 					Clean for that day, but on Tusday in the night She
 					was shakon with a vilant pucking and headach
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_16_WalkerAnnaMargretta-03.jpg" n="3" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_16_WalkerAnnaMargretta-03.jpg" n="3" />
 			<p>
 				
 					which Continualy increased, and altho' she took
@@ -203,8 +203,8 @@
 					Saviour with the Blessing of the Cong and her choir aged 6 years
 					7 Months and 3 days
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_3_16_WalkerAnnaMargretta-05.jpg" n="4" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_3_16_WalkerAnnaMargretta-05.jpg" n="4" />
 			<note>The text of this insertion is denoted to be part of the text of page 2 of this document.</note>
 			<p>
 				
@@ -222,7 +222,7 @@
 					which we readyly did for she was tenderly beloved
 					by her Sisters and School companions
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
