@@ -125,7 +125,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_25WhiteheadMary-02.jpg" n="1" />
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_25WhiteheadMary-02.jpg" n="1" />
 			<p>
 				
 					The course of Life of the SS Mary Whithead
@@ -162,8 +162,8 @@
 					&amp; spoke in the same manner over our Sav<hi rend="superscript:true;">rs</hi> death
 					&amp; suffering as I had read, &amp; said no one can be saved
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_25WhiteheadMary-03.jpg" n="2" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_25WhiteheadMary-03.jpg" n="2" />
 			<p>
 				
 					without they become acquainted with the man Christ
@@ -240,8 +240,8 @@
 					to be received into the congregation this brought
 					a fresh concern upon me How I might use this
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_25WhiteheadMary-04.jpg" n="3" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_25WhiteheadMary-04.jpg" n="3" />
 			<p>
 				
 					Grace according to the mind of my beloved, &amp; tho' I
@@ -317,8 +317,8 @@
 					was Continnualy with me, those Eyes who as flames of
 					fire to the Guilty persue'd me were ever I went
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_25WhiteheadMary-05.jpg" n="4" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_25WhiteheadMary-05.jpg" n="4" />
 			<p>
 				
 					in this deplorable situation I spent one whole week
@@ -387,8 +387,8 @@
 					yet My pride look for more Complacency from
 					the Sisters, which my foregeget [Vorsteherin] told me then I
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_25WhiteheadMary-06.jpg" n="5" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_25WhiteheadMary-06.jpg" n="5" />
 			<p>
 				
 					merited or deserved, this reprove brought me
@@ -459,8 +459,8 @@
 					how happy it was to have a recconsil'd Heart &amp; no
 					other desires then to wait with patience those redeemers will
 				
-			</p>
-			<pb facs="http://moravianlives.bucknell.edu/MAF/Ful_SS_25WhiteheadMary-07.jpg" n="6" />
+			</p></div>
+			<div>			<pb facs="https://raw.githubusercontent.com/moravianlives/ML/refs/heads/master/IMG/MAF/Ful_SS_25WhiteheadMary-07.jpg" n="6" />
 			<p>
 				
 					&amp; to retain a true &amp; lively sense of all the Grace bestowd
@@ -484,7 +484,7 @@
 					Close<hi rend="superscript:true;">d</hi> Her Course haveing spent 32 years
 					&amp; some days in this Time
 				
-			</p>
+			</p></div>
 		</body>
 	</text>
 </TEI>
