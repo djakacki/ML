@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna Boehler</title>
+                <author>Anna Boehler</author>
+                <editor>Katherine M. Faull</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Moravian Memoirs</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab> Lebenslauf der am 10ten May 1809 in Bethlehem selig entschlafenen verw. Schwr. Anna
+                Bœhler+, geb. Rosen+[vormalige Unger] Ich bin geboren d. 1ten Januar 1740 in
+                Germantown im County Philadelphia im Staat Pensylvanien. Mein sel. Vater war Peter
+                Rose , ein geborner Böhme, welcher um seiner Gewißens Freyheit willen, u. um seiner
+                Seligkeit gewiß zu werden, so wie ebenfals meine liebe Mutter Catharina Huberin aus
+                Mähren ausging; u beyde kamen nach Herrnhut. kamen. Als ich 3 Monat alt war ging
+                mein Vater selig heim in Germantown, wo sie vor kurzem von Georgien hingezogen
+                waren, weil die Geschwr. wegen der Kriegs Unruhen nicht länger dort bleiben konn-
+                ten. Er hinterließ meiner sel. Mutter 2 kleine Kinder, u. sie war noch ein fremdling
+                im Lande, bis der sel. Graf v. Zinzendorf Anno 1742 ins Land kam. Er suchte sie
+                balde auf; u. da sie hörte, daß in Bethlehem eine Gemeine angefangen wurde, war sie
+                froh, u. zog mit mir u. mein- er Schwester hieher nach Bethlehem, da ich etwas über
+                2 Jahre alt war; wo wir die 2 ersten Kinder waren. Als sich nachher mehrere Kinder
+                einfanden, wurde eine Kinder- Anstalt mit uns angefangen, welche sich bald so
+                vermehrte, daß die ganze Anstalt nach Nazareth zog, weil hier nicht Platz genug war.
+                Ich erinnere mich noch mit vielem Vergnü- gen an die selige Zeiten, die ich in
+                meinen Kinder Jahren hatte, Ob wir gleich sehr harte u. strenge Behandlung hatten;
+                so hatte doch das selige Gefühl, das unter uns waltete, das Uebergewicht. Ich war
+                damals noch nicht getauft, u. </ab>
+                <pb />
+                <ab>krigte daher, bey Gelegenheit der Taufe etlicher
+                Kinder die von in meinem Alter waren ein großes Verlangen darnach, u. bat den lieben
+                Heiland kindlich um diese Gnade, welche mir auch den 18ten Sept. 1748 in meinem 8ten
+                Jahre zu theil wurde durch unsern l. Br. Spangenberg. Ob ich gleich es nicht so
+                recht verstand, so fühlte ich doch die Kraft des Blutes Jesu, das mich überströmte,
+                an meinem Herzen, es war mir innig wohl, u. ich war dem Heiland kindlich dankbar daß
+                Er meine Bitte erhört hatte. Bald darauf sollte eine Kinder Anstalt in Emaus
+                angefangen werden, welches uns in einer Versammlung bekannt gemacht wurde. Da Br. *
+                wie er sich ausdrückte Spangenberg gerne ein paar glühende Kohlen* aus unsrer Mitte
+                dazu haben wollte, so wurde ich mit noch 2 Kindern dahin geschickt, dieselbe
+                anzufangen. Das war eine schwere Probe, aus unsrer schönen Anstalt in Nazareth in
+                ein leeres Haus u. in den Busch zu ziehen; ich konnte nicht eingewohnen; wir hatten
+                wol vielen Besuch u. Aufmun- terung von Bethlehem, aber unser Verlangen blieb immer,
+                wieder in unsre Anstalt zurück zu kommen. Es glückte uns auch balde, weil die
+                Anstalt sehr zu nahm, daß wir auf unser anhaltendes Bitten wieder nach Bethlehm
+                zogen; u. da die Kinder Anstalt von Nazareth nach Germantown ziehen sollte mußte, so
+                zogen wir auch mit dahin, und ich hatte daselbst wieder eine recht selige Zeit. Die
+                Anstalt nahm, durch viele Kinder, die von Philadelphia hieher zogen, balde sehr zu,
+                u. es war uns besonders angenehm </ab>
+                
+                <pb />
+            
+                <ab>daß Br. Spangenberg, der damals in Philada.
+                wohnte, uns sehr fleißig besuchte. Einmal hatten wir auch das Ver- gnügen zu Fuße
+                dahin zu gehen u. einen Kinder Bettag daselbst zu haben. 1750 im Aprill zog ich
+                wieder mit der ganzen Kinder Anstalt nach Bethlehem, wo wir eine kurze Zeit jenseit
+                der Lecha wohnen mußten, bis das Haus, das für uns gebaut wurde, fertig war. 1751
+                be- zogen wir daßelbe. Am 25t Merz desselben Jahres wurde ich ins größere Mädchen
+                Chor aufgenommen. In dieser Zeit gab es viele Ausschweifungen; ich lebte recht in
+                den Tag hinein, u. vergaß, was der Heiland in meinen Kinder Jahren an meinen Herzen
+                gethan hatte; ja ich dachte, mein in der Gemeine Geboren u. Erzogen seyn, wäre der
+                stärkste Beweiß davon, daß ich nicht verlohren gehen könte. Ich blieb wol nicht ohne
+                Erinnerung in meinem Herzen über meinen schlechten Zustand, aber ich suchte dieselbe
+                mit aller Macht zu unterdrücken. Der treue Heiland ging mir jedoch unermüdet nach,
+                u. in meinem 17ten Jahre faßte Er mein Herz so kräftig an, daß mir angst u. bange
+                wurde. Ich fühlte mich ver- loren u. verdammt, doch schenkte Er mir zugleich ein
+                kindliches Vertrauen zu Ihm, so daß ich getrost glauben konnte, daß Er noch Friedens
+                Gedanken über mich habe, u. die Gnaden Thüre für mich noch offen stünde; aber es
+                kostete gar manches banges Herzklopfen u. heiße Thränen an {über} die in
+                Gleichgültigkeit verbrachte Zeit zu denken; da ich Ihn doch schon in meinen
+                Kinderjahren geliebt, geschmeckt u. </ab>
+                
+                <pb />
+            
+                <ab>gefühlt hatte u. nun wieder von Herzen darum
+                beten u. seufzen mußte: Ach wo krig ich Jesum her! da mengten sich Zweifel darein,
+                ob Er sich meiner wieder erbarmen u. mich aus Gnaden annehmen würde; der gute
+                Heiland half mir aber, u. schenkte mir das Ver- trauen zu Ihm, daß Er mir alles
+                vergeben habe, worü- ber ich bekümmert u. verlegen war. D. 1t Jan. 1756 als an
+                meinem Geburtstag wurde ich Candidatin zum heil. Abmhl. das war mein fröhlichster
+                Geburtstag seit dem ich aus dem Kinder Chor gekommen. Ich fühlte einen solchen
+                Gottes Frieden dabey, daß ich mir fast nicht recht gegenwärtig war. Der Anblick der
+                Gemeine u. was ich auf dem Saal sahe, erfüllte mein Herz mit einer tiefen Ehrfurcht
+                u. sehnlichem Verlangen es lieber gleich mit zu genießen, welches mir auch blieb,
+                bis ich--aber erst nach 3 Monaten, neml. d. 7t April d. J. am Gründonnerstage--die
+                Gnade hatte das erstemal mit zum h. Abmhl. zu gehen. Ach wie selig war ich! ich
+                fühlte mich so beschämt u. dankbar gegen den Heiland, daß ich nur hätte mögen
+                beständig zu Seinen Füßen meinen Dank vergießen. Ich hatte nachher unaussprechlich
+                selige Zeiten; der Umgang mit dem l. Heiland war in Wahrheit alles wonach ich mich
+                sehnte; ja es war mir ofte als wenn ich es mit Ihm ganz allein zu thun hätte, ich
+                kam auch bald dar- auf ins Stunden Gebet, welches mich noch näher an </ab>
+                
+                <pb />
+            
+                <ab>Ihn zog u.
+                die Stunden, welche ich nie ohne Noth ver- säumte, trugen mir viel für mein Herz
+                aus, inson- derheit gewöhnte ich mich daran, über kleines u. großes mit Ihm aus zu
+                reden. 1758 d. 4t May wurde ich ins led. SchwesternChor aufgenommen, u. kam das Jahr
+                dar- auf zu den Kindern, wo es manches zu lernen gab von allerley Arten, der Heiland
+                half mir aber gnädig durch alles Schwere durch; was ich zu erfahren hatte. 1761 kam
+                ich zu den größern Mädchen. In der Zeit lernte ich mich erst gründlich kennen. Ich
+                kam in die größte Verle- genheit über mich, fühlte auch das Vertrauen zum l. Heiland
+                nicht mehr so, wie ich es gewohnt war, ja ich glaubte es wäre in der ganzen Welt
+                kein Mensch so schlecht wie ich mich fühlte; ich behielt es aber ganz alleine für
+                mich u. quälte mich Tag und Nacht, u. glaubte mich verlohren; ich {u.} faßte den
+                Gedanken: ich bin nicht zum Seligwerden erwählt. Beten konnte ich auch nicht, u. war
+                doch in einer solchen Preße, daß ich nicht wußte was ich thun sollte u. wo ich mich
+                hinwenden sollte; denn ich hatte mein Vertrauen zum Heiland fast ganz verlohren, ach
+                Gott! wie war mir da zu Muthe. Darauf hatte ich einen merkwürdigen Traum. Es kam mir
+                vor, als wären {wenn} 2 Engel beym Abmhl. auf dem Saal herum gingen, u. drückten
+                allen Geschwistern ein Siegel auf die Stirne, mich gingen sie vorbey; ich {aber}
+                faßte doch das Herz sie zu fra- gen; was das {zu} bedeuten {habe} solle? Antwort:
+                die das Siegel an ihren Stirnen hätten, würden balde ihren Herrn schau- en, ich
+                fragte mit Zittern: werde ich Ihn denn nicht sehen? </ab>
+                
+                <pb />
+                <ab>Antwort: ohne Glauben kan
+                niemand den Herrn schauen, denn nicht glauben ist die größte Sünde. Ich antwortete
+                ganz kleinlaut; ich habe doch um Ihn geweint, u. brach so in Thränen aus, daß ich
+                darüber erwachte, {u.} aus dem Bette in meine Stube ging; u. {da} schüttete {ich}
+                mein geängstetes Herz mit tausend Thränen vor meinem treuen Heiland aus, konnte aber
+                nichts sagen als mit David ausrufen: Schaffe in mir Gott ein reines Herz u. gib mir
+                einen neuen gewißen Geist. Aber mein Herz wurde aufgelebt; ich krigte einen Blick
+                von Ihm wie Er am Oelberg auch für mich das schwere Leiden ausgestanden hat, u.
+                konnte mir es zu eignen; und Er schenkte mir die Gnade zu glauben, daß Er da auch
+                für mich gezittert u. gebebt habe u. auch meine Sünden abgebüßt habe. Da konnte ich
+                sagen mit tröstlichem Gefühl: Ich danke dir von Herzen o Jesu, Freund in Noth, für
+                deine Seelen Schmerzen, u. Marter bis in den Tod. Von da an wußte ich durch Seine
+                Gnade mir Sein Verdienst u. Leiden recht anzuwenden {zu Nuze zu machen}; da ver-
+                schwand aller Zweifel u. Unglaube, der mich so lange geplagt hatte. Ich krigte auch
+                ein Vertrauen zu meiner Arbeiterin u. konnte mit ihr über alles ausreden u. es war
+                mir Gnade mich ihr so, wie ich mich fühlte, mit zu- theilen; u. der Heiland legte
+                /gewiß/ einen aparten Segen darauf; denn ich fühlte mich wie ein ganz anderer
+                Mensch; gewiß tief beschämt, über Seine große Barmherzigkeit an mir Armen: aber
+                doch, vollkommen getröstet, konnte ich wieder meinen Gang gehen, u. mich kindlich an
+                Ihn hal- </ab>
+                
+                <pb />
+                <ab>ten bey allem Elend u. Gebrechen; bey hellen u. trüben Tagen war Er
+                mein Trost u. meine Zuversicht. Ueber- haupt muß ich gestehen, daß ich in den 9
+                Jahren, die ich bey den großen Mädchen gewohnt habe, welche ich zärtlich liebte,
+                viel Segen für mein Herz genoßen habe. Ihr Ge- deihen lag mir sehr am Herzen u. der
+                Heiland hat mich auch viel Freude an ihnen sehen laßen. /sehr viele davon sind in
+                der Gemeine brauchbare Schwestern geworden/ worüber ich mich von Herzen freue. 1771
+                d. 15t Octbr. krigte ich den Ruf {Antrag} mit dem nun selg. Br. Friedrich Unger in
+                die Ehe zu treten u. auch zugleich den Ruf mit ihm der Gemeine in Philadelphia zu
+                dienen. Ich nahm dieses im Vertrauen auf den Heiland an, ob es mich gleich viel
+                kostete. d. 25t ged. Monts wurden wir getraut u. zogen darauf nach Philadelphia u.
+                dienten dem Gemeinlein daselbst etliche Jahre. Der Heiland erfreuete uns hier mit
+                der Ge- burt einer Tochter Anna Friedricka, welche jezt an den Br. Nath. Bro[a]wn
+                verheirathet ist. { von welcher sie {wir} zwei Enkel Töchter erlebt haben.} Ao. 1775
+                erhielten wir einen Ruf nach Lancaster, daselbst schenkte uns der Heiland unser 2tes
+                Töchterlein Maria Rosina, welche {jetzt, da ich schreibe} {nachher} hier in der
+                Boarding School diente; ein paar Jahre dar- auf kamen wir nach Heidelberg. Diese
+                Zeit war über- haupt sehr schwer wegen der Kriegs Unruhen. Noth und Jammer war
+                überall, u. alle Correspondenz war gehemmt, weil niemand reisen durfte, ohne den Eid
+                geschworen zu haben; u. so mußten wir leben ohne etwas von einer Gemeine zu wißen,
+                alles ging durch einander u. man wußte nicht wo man sich hinwenden sollte. In dieser</ab>
+                
+                <pb />
+                <ab>Lage wurde mein seliger Mann krank, es glaubte aber niemand daß seine Krankheit
+                gefährlich wäre; er sel- ber glaubte es nicht, mir war es aber immer bedenklich, u.
+                da ich ihm dieses sagte, tröstete er mich mit den Worten: ich bin nicht so krank,
+                daß ich denke, daß ich heimgehen werde, sollte es aber geschehen, so glaube nur, der
+                Heiland hat noch niemals was versehen in Seinem Regiment, u. was Er thut u. läßt
+                geschehen, das nimmt ein seliges End. Der Heiland wird für dich und unsre Kinder
+                sorgen. Er ist der beste Vater. Am Charfreitag den 2ten Apr. 1780 hatte ich den
+                unbeschreiblichen Schmerz, daß er in seine ewige Ruhe einging. Das war eine schwere
+                Probe für mich; denn unsere Ehe währte nur 7 und ein halb Jahr, welche wir recht
+                vergnügt verbracht hatten. So wurde ich mit 2 kleinen Kindern u. da ich noch eines
+                zu hoffen {hatte} in den Witwenstand versezt; mehr davon zu schreiben ist mir
+                unmöglich. Ich schlug mir im Gesangbuch den Vers auf, der mir immer eindrücklich
+                bleibt: Gott hat mit selbst eigner Hand dein Theil dir zu gemeßen, weil dein
+                Vermögen Ihm bekannt; u. wird auch nicht vergeßen, dich auch dabey nach Seiner Treu
+                u. Seinem Liebserbarmen recht hülfreich zu umarmen. Das war mir wol Trost, aber
+                trübe Gedanken, trübe Tage, Schlaflose Nächte waren nicht zu vermeiden. Ich zog ein
+                paar Wochen darauf hieher nach Bethlehem u. d. 27t July ged. Jahres wurde mein 3tes
+                Töchterlein geboren Johanna Elisa- beth, welche in ihrem 7ten Jahre hier in der
+                Anstalt, an dem damals graßirenden Scharlachfieber heinging. </ab>
+                
+                <pb />
+            
+                <ab>Im ersten Jahr
+                meines Witwen Standes war mir es unbeschreiblich schwer mich mit meinen 3 kleinen
+                Kindern so wie verlaßen u. leztere um ihren lieben Vater weinen zu sehen, oft war
+                mir es als wenn mein Herz zerspringen wollte; doch im 2ten Jahre schenkte mir der
+                Heiland Gnade mich vester an Ihn zu halten u. Er tröstete mich ofte unbeschreiblich;
+                an meinen lieben Kindern hatte ich viel Vergnügen u. so gewöhnte ich mich nach u.
+                nach an meine betrübte Lage u. {ich} muß gestehen, daß ich in meinem 6 jährigen
+                Witwenstand recht viel Gutes für mein Herz genoßen habe, weswegen mir diese Zeit in
+                gesegnetem Andenken bleiben wird. Anno 1785 d. 21ten May wurde ich zum 2tenmal ver-
+                heirathet mit dem verw. Br. Franz Boehler, welcher seinen Plan in der Jersey bey Old
+                Mans Creek hatte. Ein paar Tage darauf reiseten wir über Philadelphia dahin ab. Wir
+                wurden mit vieler Liebe aufgenommen; aber schon nach 2 Monaten bekam ich das Fieber,
+                wel- ches mich fast muthlos machte. Wir dienten diesem Gemeinlein beynahe 10 Jahre
+                unter vielen u. schwer- en Krankheiten; doch muß ichs dem Heiland zum Preiß nach
+                rühmen, Er hat meinen oft gesunkenen Muth immer wieder mit Seinem Trost
+                aufgerichtet, u. mein Seufzen, welches mir aus der WitwenChor Liturgie immer
+                aufstieg: Stärk mich mit deinem Freu- den Geist, weil du um meine Schwachheit weißt,
+                hat </ab>
+                
+                <pb />
+                <ab>Er gnädiglich erhört, und uns durch geholfen, sowol durch alle Schwierigkeit
+                , als auch durch alle Schwächen. Da aber mein lieber Mann durch eine harte Krank-
+                heit sein Gehör fast ganz verlohr u. wir uns außer Stand sahen dem Plan ein Genüge
+                zu thun, so hiel- ten wir um unsere Ablösung an, welche wir auch nach einiger Zeit
+                erhielten, u. kamen d. 6t Decbr. 1794 hier in Bethlehem, an unserm Ruhe Plätzchen,
+                an. Ich war sehr elend u. schwach von meiner lezten harten Krankheit, so daß ich
+                glaubte u. wünschte balde in die ewige Ruhe einzugehen, doch erholte ich mich nach
+                und nach wieder, so daß ich wieder aus- gehen konnte; und das Vergnügen meine liebe
+                Töchter nach so langer Abwesenheit wieder zu sehen, lebte mich wieder auf. Nun war
+                mein sehnlicher Wunsch meine noch übrigen Tage oder Jahre in der Gemeine in der
+                Stille u. zum Genuß für mein Herz anzu- wenden. Ich mußte aber noch eine eigene Er-
+                fahrung machen; denn es hat dem Heiland ge- fallen mich noch eine trübe Zeit u.
+                wahre Prüf- ungs Tage erfahren zu laßen. Ach Gott! was hab ich da empfunden, was
+                waren das für schwere Stunden; Ich fühlte nichts auf meiner Seit als Jammer und
+                Nichtswürdigkeit Es hieß bey mir; vor Jesu Augen kanst du ohnfehlbar auch nichts
+                taugen, das brachte tiefe Traurigkeit und wahre Herz Verlegenheit. Nichts gutes war
+                an mir zu finden; doch der Vergebung meiner Sünden war ich recht göttlich überzeugt
+                und drüber vor Ihm tief gebeugt. Mit tausend Thränen mußt ich sagen: mein Heiland
+                laß mich nicht verzagen; ach hilf mir wieder auf die Bahn, daß ich dich fröhlich
+                lieben kan. Stärk meinen jezt so schwachen Glauben laß mir von keinem Feind den
+                rauben; ich komm mühselig und gebückt und wäre gern von dir erquickt. Er thats; Er
+                stärkte mich von neuem, ich konnte mich in Ihm nun freuen: ach, eine angenehme Zeit,
+                ein Tag des Heils, war mir bereit. So unvermuthet dieß gekommen, so gerne wurd'es
+                angenommen;so tief beschämte mich die Gnad um die ich oft recht schmachtend bat. Wie
+                theuer war mir Seine Güte, wie tröstlich vor Herz u. Gemüthe, da ich mit einem
+                klaren Blick mich wieder sahe im Geschick. Nun liebster Heiland gib mir Gnade, daß
+                ich auf meinem künft'gen Pfade an deiner Hand getrost kan gehn, bis ich dich kan
+                leibhaftig sehn. Bis ich dir kan vor alles danken was du an mir /als deiner kranken
+                gethan in diesem Thränen Thal/ vor meine selge Gnadenwahl. Ich ging dann meinen Gang
+                wieder fröhlich in Hofnung daß mich mein treuer Heiland wird an Seiner Hand behalten
+                u. dadurch meinen Gang ge- wiß gehen laßen, so lang es Ihm gefällt; bis wir uns
+                resolvirten einen Besuch in Litiz zu machen, um unsre jüngste Tochter daselbst zu
+                besuchen. Wir reiseten zu Ende May 1806 dahin ab, u. freueten uns, balde unsre
+                lieben Kinder zu sehen; aber un- terwegs wurde mein lieber Mann krank, u. ging auch
+                wirklich den 4ten Juny daselbst {in Litiz} heim. Das war wieder eine schwere Probe
+                für mich; meine erwar- tete Freude, wurde in wahre Traurigkeit verwan- delt; u. so
+                kam ich wieder zurück nach Bethlehem, in den Wittwenstand versezt. Viel tausend
+                Thränen hat mich dieser Besuch gekostet; nur der Trost kam mir manchmal zu Hülfe u.
+                richtete mich einiger Maaßen auf, daß ohne des Heilands Willen Seinen Kindern nichts
+                geschehen kan; und was mein l. Mann oft zu mir sagte: Alle meine Tage sind auf sein
+                Buch geschrieben. Ich werde keine Stunde eher heimgehen, als meine Zeit hier aus
+                ist. So weit die sel: Schw: selbst: Sie wohnte noch etliche Jahre {hier} im Ort, u.
+                hatte den Schmerz zu erfahren, daß ihre l. Tochter Maria (welche an Br. Constantin
+                Miller ver- heirathet ward im Jahr 1807 {den 24. Febr.} heimging das machte ihr
+                manche trauervolle Stunden u. erregte ofte den Wunsch bey ihr, balde wieder beym l.
+                Hld: {wieder} mit ihr vereint zu seyn; u. sie brauchte manchen tröstlichen Zuspruch;
+                denn ihr Verlust ging ihr sehr nahe. Es diente ihr jederzeit zum Trost u. Freude daß
+                der l. Hld: ihre Kinder würdigte Ihm zu dienen u. sie erklärte sich öfters recht
+                erbaulich darüber, unterstützte sie auch fleißig durch {mit} ihr Gebet. </ab>
+                
+                <pb />
+                <ab>Sie
+                selbst war in ihrem Dienst in den Stadt u. Land- Gemeinen eine brauchbare u. von
+                Geschwistern u. Freunden allgemein geliebte Schwester, denn sie be- diente jedes ihr
+                aufgetragnes Geschäfte mit an- gelegentlicher Treue; u. alles ihr unangenehme u.
+                schwere klagte sich sie {nur} ihrem besten Freunde, denn den sie durch {so} viele
+                gemachte Erfahrungen als ihren Erlöser u. Helfer kennen lernte {kannte}, so wie sie
+                sich selbst als eine arme Sünderin kante, die {u.} nur bey Ihm Hülfe u. Rettung
+                suchte, {wobÿ} davon ist ihr Lebenslauf ein deutlicher Beweiß daß Er sie nie in
+                ihrer Hoffnung {nie} zu Schanden werden ließe. 1808 d. 5t Sept: zog sie in das
+                Witwen-Haus um wie sie sich selbst erklärte: Ihre lezten Lebens- Tage noch in
+                ungestörter Ruhe zu verbringen; sie gewohnte auch bald ein, ihrer Kränklichkeit
+                ungeachtet war sie von Muntrer u. Lebhafter Ge- müths-art; das machte ihr selbst so
+                wie allen die sie kanten, und mit ihr Umgang hatten, manche </ab>
+                
+                <pb />
+                <ab>angenehme Stunden.
+                An unsrem lezten Chorfest war sie außerordentlich vergnügt u. heiter, u. erklärte
+                sich den Tag drauf unter andern so darüber gegen eine Schwester: "Das war ein recht
+                begnadigter Tag, u. den Seegen, den ich vom Hld. gekriegt {habe} der soll mich bis
+                in die Ewigkeit begleiten; denn ich weiß daß ich balde heimgehn werde. Montags
+                brachte sie ihre äußere Angelegenheiten in Ordnung u. machte Bestellungen ihres
+                Kranken-Lagers wegen; Sie besuchte Dienstags verschiedne Freunde im Ort, u. noch in
+                derselben Nacht überfiel sie {ein} heftiger Kopfschmerzen, mit Seitenstechen
+                begleitet, doch schien es durch dienliche Mittel des Artztes sich wieder mit ihr zu
+                beßern, bis nach etlichen Tagen es sich zu einem hitzigen Brustfieber anließ, sie
+                hatte viel zu leiden; doch die tröstliche Hoffnung balde von allen Schmerzen befreyt
+                und ins Gesunde-Reich versezt zu seyn, gab ihr Muth u. Kraft es mit Geduld zu
+                ertragen. Wenn mann ihr sagte daß es schiene als würde sie bey der Ge- legenheit
+                heimgehen, so sagte sie sehr freundlich, "ich wünsche es!-- Doch bin ich {in} den
+                Willen des Heilands ergeben, wie Er es macht so ist es mir recht." Am 8t verlangte
+                sie den Seegen der Gem: u. ihres Chors zu ihrer Heimfahrt zu empfangen, welcher ihr
+                dann unter einem sel. Gefühl der Nähe des l. Heilands ertheilt wurde; es verzog sich
+                aber noch mit ihrer Vollen- dung, u. sie hatte noch 2 schwere Tag u. Nächte mit
+                Beängstigungen auf der Brust zu leiden, die aber nach u. nach schwächer wurden, bis
+                am 10t May vor- mittag in der 11t Stunde der für sie sehnlich erwünschte Moment kam,
+                da ihr treuer Heiland kam ihre erlöste Seele in Seine ewige Freude nahm u. ihrem
+                leiden ein sanftes u. seliges Ende machte in einem Alter von 69 Jahr 4 Monat u. 10
+                Tage.</ab>
+        </body>
+    </text>
+</TEI>
